@@ -1,0 +1,1869 @@
+[
+  {
+    "company_name": "GlossGenius",
+    "description": "Comprehensive platform for Beauty Industry.",
+    "founders": [
+      "Danielle Cohen-Shohet",
+      "Karim Butt"
+    ],
+    "founder_titles": [
+      "CEO",
+      "Co-Founder"
+    ],
+    "fund": "Growth",
+    "location": "New York",
+    "announcement_text": "GlossGenius raises $28 million Series C led by L Catterton",
+    "announcement_urls": [
+      "https://techcrunch.com/2023/07/27/glossgenius-raises-28m-to-expand-its-bookings-and-payments-platform-for-beauty-businesses/?guccounter=1"
+    ],
+    "company_profile_url": null,
+    "company_url": "https://www.glossgenius.com",
+    "why_we_invested_url": null,
+    "founder_image_urls": [
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/61aed4bd98f04111cae96f44_0c7cf71a.avif",
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/61aed4bd98f0410cdee96f45_878a97f8.avif"
+    ],
+    "source_url": "https://www.2048.vc/companies",
+    "scraped_at": "2026-05-29T19:02:17Z"
+  },
+  {
+    "company_name": "Aerodome",
+    "description": "Air support and Drone-as First-Responder infrastructure for police departments.",
+    "founders": [
+      "Rahul Sidhu",
+      "Kenaniah Cerny"
+    ],
+    "founder_titles": [
+      "CEO",
+      "CTO"
+    ],
+    "fund": "Exited",
+    "location": "New York",
+    "announcement_text": "Flock Safety acquires Aerodome",
+    "announcement_urls": [
+      "https://www.2048.vc/blog/flock-aerodome"
+    ],
+    "company_profile_url": null,
+    "company_url": "https://www.aerodome.com/",
+    "why_we_invested_url": "https://www.2048.vc/blog/our-investment-in-aerodome",
+    "founder_image_urls": [
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/65369adeb051c50c55e5c472_Screenshot%202023-10-23%20at%2012.09.56%20PM.png",
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/6529544929681836be9437c1_Aerodome%20Kenaniah.jpeg"
+    ],
+    "source_url": "https://www.2048.vc/companies",
+    "scraped_at": "2026-05-29T19:02:17Z"
+  },
+  {
+    "company_name": "Laminar",
+    "description": "Platform for precision automation for industrials and data centers.",
+    "founders": [
+      "Annie Lu",
+      "David Lu"
+    ],
+    "founder_titles": [
+      "CEO",
+      "CTO"
+    ],
+    "fund": "Series A",
+    "location": "Boston",
+    "announcement_text": "Laminar raises $12 million Series A led by Greycroft ‍",
+    "announcement_urls": [
+      "https://fortune.com/2025/07/16/h2ok-innovations-raises-12-million-series-a-to-make-manufacturing-more-precise-for-big-name-customers-like-coca-cola-and-unilever/"
+    ],
+    "company_profile_url": null,
+    "company_url": "https://runlaminar.com/",
+    "why_we_invested_url": "https://www.2048.vc/blog/our-investment-in-h2ok-innovations",
+    "founder_image_urls": [
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/61aee24a0ae4a9d4d0483c06_f6130442.avif",
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/61aee24a0ae4a92c24483c07_39845850.avif"
+    ],
+    "source_url": "https://www.2048.vc/companies",
+    "scraped_at": "2026-05-29T19:02:17Z"
+  },
+  {
+    "company_name": "Airspace Link",
+    "description": "Workflow and infrastructure for flying drones beyond the visual line of sight.",
+    "founders": [
+      "Michael Healander",
+      "Daniel Bradshaw",
+      "Ana Healander"
+    ],
+    "founder_titles": [
+      "CEO",
+      "CTO",
+      "Head of CX"
+    ],
+    "fund": "Series B",
+    "location": "Detroit",
+    "announcement_text": "Airspace Link raises $23 million Series B led by Avanta Ventures",
+    "announcement_urls": [
+      "https://techcrunch.com/2022/06/22/airspace-links-drone-tracking-platform-gathers-government-customers-before-going-global/?guccounter=1"
+    ],
+    "company_profile_url": null,
+    "company_url": "https://www.airspacelink.com",
+    "why_we_invested_url": "http://www.2048.vc/blog/our-investment-in-airspace-link",
+    "founder_image_urls": [
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/61aee06a6de3c876fb512a24_a9a10ec5.avif",
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/61aee06a6de3c8e72c512a23_c77085c4.avif",
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/61aee06a6de3c84d59512a25_320a8570.avif"
+    ],
+    "source_url": "https://www.2048.vc/companies",
+    "scraped_at": "2026-05-29T19:02:17Z"
+  },
+  {
+    "company_name": "Nomic Bio",
+    "description": "Next generation proteomic tools.",
+    "founders": [
+      "Dr. Milad Dagher",
+      "Dr. David Juncker",
+      "Dr. Jeff Munzar"
+    ],
+    "founder_titles": [
+      "CEO",
+      "CSO",
+      "Head of Tech"
+    ],
+    "fund": "Series B",
+    "location": "Montreal",
+    "announcement_text": "Nomic Bio raises $42 million Series B",
+    "announcement_urls": [
+      "https://www.businesswire.com/news/home/20240917144673/en/Nomic%C2%AE-Secures-42M-in-Oversubscribed-Series-B-to-Expand-Access-to-Protein-Profiling?utm_content=308042539&utm_medium=social&utm_source=linkedin&hss_channel=lcp-11679093"
+    ],
+    "company_profile_url": null,
+    "company_url": "https://www.nomicbio.com",
+    "why_we_invested_url": "https://2048-ventures-7465.webflow.io/blog/our-investment-in-nplex",
+    "founder_image_urls": [
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/61aeddb3fc5174570317faf5_a6661a0a.avif",
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/61aeddb3fc51747ab617faf4_2d1530dd.avif",
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/61aeddb3fc5174630f17faf6_52c1003c.avif"
+    ],
+    "source_url": "https://www.2048.vc/companies",
+    "scraped_at": "2026-05-29T19:02:17Z"
+  },
+  {
+    "company_name": "TwoStep Therapeutics",
+    "description": "Peptide-drug conjugates for targeted delivery to solid tumors.",
+    "founders": [
+      "Caitlyn Miller"
+    ],
+    "founder_titles": [
+      "CEO"
+    ],
+    "fund": "Series A",
+    "location": "Bay Area",
+    "announcement_text": "TwoStep Therapeutics raises $6.5 million Seed led by NFX ‍",
+    "announcement_urls": [
+      "https://www.genengnews.com/topics/cancer/bertozzis-twostep-therapeutics-to-target-solid-tumors-with-engineered-peptide-drug-delivery-vehicle/"
+    ],
+    "company_profile_url": null,
+    "company_url": "https://www.twosteptx.com/",
+    "why_we_invested_url": "https://www.2048.vc/blog/our-investment-in-twostep-therapeutics",
+    "founder_image_urls": [
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/65ef664d2c9dcfc9ab20c79f_TwoStep%20Caitlyn.avif"
+    ],
+    "source_url": "https://www.2048.vc/companies",
+    "scraped_at": "2026-05-29T19:02:17Z"
+  },
+  {
+    "company_name": "Fazeshift",
+    "description": "AI-powered apps for invoicing & accounts receivable.",
+    "founders": [
+      "Caitlin Leksana",
+      "Timmy Galvin"
+    ],
+    "founder_titles": [
+      "CEO",
+      "CTO"
+    ],
+    "fund": "Series A",
+    "location": "Boston",
+    "announcement_text": "Fazeshift scores $17M as investors bet on AI-powered finance ops, starting with accounts receivable",
+    "announcement_urls": [
+      "https://www.fazeshift.com/",
+      "https://news.crunchbase.com/fintech/fazeshift-accounts-receivable-ai-finance-ops-startup-funding/"
+    ],
+    "company_profile_url": null,
+    "company_url": "https://www.fazeshift.com/",
+    "why_we_invested_url": null,
+    "founder_image_urls": [
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/62b218407ec852792dd8f30c_Carma%20Caitlin.avif",
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/62b2186a372a983a24c55af5_Timmy%20Carma.avif"
+    ],
+    "source_url": "https://www.2048.vc/companies",
+    "scraped_at": "2026-05-29T19:02:17Z"
+  },
+  {
+    "company_name": "Impilo",
+    "description": "The operational OS for at-home health.",
+    "founders": [
+      "Josh Stein",
+      "Patrick Quire"
+    ],
+    "founder_titles": [
+      "CEO",
+      "COO"
+    ],
+    "fund": "Series A",
+    "location": "Philadelphia",
+    "announcement_text": "Impilo raises $11.5 million Series A led by Construct Capital ‍",
+    "announcement_urls": [
+      "https://www.axios.com/pro/health-tech-deals/2024/11/14/impilo-bags-115m-to-enable-rpm-capabilities"
+    ],
+    "company_profile_url": null,
+    "company_url": "https://www.impilo.health/",
+    "why_we_invested_url": null,
+    "founder_image_urls": [
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/61aed68e04dbfd5869d9ead9_0ae913c4.avif",
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/66ba845584b772e7788ec850_Impilo%20Patrick.avif"
+    ],
+    "source_url": "https://www.2048.vc/companies",
+    "scraped_at": "2026-05-29T19:02:17Z"
+  },
+  {
+    "company_name": "Growth Signals",
+    "description": "AI-powered system of record and communication for corporate innovation.",
+    "founders": [
+      "Sean Ammirati",
+      "Andrew Giessel",
+      "Anna Lawn"
+    ],
+    "founder_titles": [
+      "CEO",
+      "CTO",
+      "Head of Product"
+    ],
+    "fund": "Series A",
+    "location": "US-Other",
+    "announcement_text": null,
+    "announcement_urls": [],
+    "company_profile_url": null,
+    "company_url": "#",
+    "why_we_invested_url": null,
+    "founder_image_urls": [
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/66c7470cbd2fca8529c428d3_Proftable%20Sean.avif",
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/67094e24136aa7b057404763_Proftable%20Andrew.avif",
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/68912f49bebaa13a0543684c_Anna.avif"
+    ],
+    "source_url": "https://www.2048.vc/companies",
+    "scraped_at": "2026-05-29T19:02:17Z"
+  },
+  {
+    "company_name": "Nionyx Bio",
+    "description": "Nionyx is engineering programmable AAV vectors for tissue-specific delivery, with an initial focus on rare kidney diseases.",
+    "founders": [
+      "Magdalena Tyrpien",
+      "Leszek Lisowski"
+    ],
+    "founder_titles": [
+      "CEO",
+      "CSO"
+    ],
+    "fund": "Seed",
+    "location": "New York",
+    "announcement_text": null,
+    "announcement_urls": [],
+    "company_profile_url": null,
+    "company_url": "https://nionyxbio.com/",
+    "why_we_invested_url": "https://www.2048.vc/blog/our-investment-in-nionyx-bio",
+    "founder_image_urls": [
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/6894e4d89b67b524fcd89978_Nionyx%20Magdalena.avif",
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/6894e4f52f0d451cff27fd34_Nionyx%20Leszek.avif"
+    ],
+    "source_url": "https://www.2048.vc/companies",
+    "scraped_at": "2026-05-29T19:02:17Z"
+  },
+  {
+    "company_name": "Nimbus Health",
+    "description": "The future of pulmonology.",
+    "founders": [
+      "Clay Spence",
+      "Sharvil Patel"
+    ],
+    "founder_titles": [
+      "CEO",
+      "Head of Product"
+    ],
+    "fund": "Seed",
+    "location": "Bay Area",
+    "announcement_text": null,
+    "announcement_urls": [],
+    "company_profile_url": null,
+    "company_url": "https://www.nimbushealth.com/",
+    "why_we_invested_url": "https://www.2048.vc/blog/our-investment-in-nimbus-health",
+    "founder_image_urls": [
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/68273a84f4a38fadd05b2e76_Nimbus%20Clay.avif",
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/68273aabe3d41fe675f759d2_Nimbus%20Sharvil.avif"
+    ],
+    "source_url": "https://www.2048.vc/companies",
+    "scraped_at": "2026-05-29T19:02:17Z"
+  },
+  {
+    "company_name": "Rondah",
+    "description": "AI receptionists for dental service organizations.",
+    "founders": [
+      "Burhan Syed",
+      "Mohammed Mian",
+      "Allan Svirsky"
+    ],
+    "founder_titles": [
+      "CEO",
+      "CTO",
+      "CPO"
+    ],
+    "fund": "Pre-Seed",
+    "location": "New York",
+    "announcement_text": null,
+    "announcement_urls": [],
+    "company_profile_url": null,
+    "company_url": "https://www.rondah.ai/",
+    "why_we_invested_url": "https://www.2048.vc/blog/our-investment-in-rondah-ai",
+    "founder_image_urls": [
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/67d061e261697a569574bf57_Rondah%20Burhan.avif",
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/67f6bb33a1ad0937056932c0_Rondah%20Mohammed.avif",
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/67f6bb386c55762b084154a8_Rondah%20Allan.avif"
+    ],
+    "source_url": "https://www.2048.vc/companies",
+    "scraped_at": "2026-05-29T19:02:17Z"
+  },
+  {
+    "company_name": "Cobalt ID",
+    "description": "Business identity verification platform to tackle B2B fraud.",
+    "founders": [
+      "Priya Murali",
+      "Vaish Raman"
+    ],
+    "founder_titles": [
+      "Founder",
+      "CTO"
+    ],
+    "fund": "Seed",
+    "location": "New York",
+    "announcement_text": null,
+    "announcement_urls": [],
+    "company_profile_url": null,
+    "company_url": "https://www.cobaltid.com/",
+    "why_we_invested_url": null,
+    "founder_image_urls": [
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/65f8a19fff66338734a6e7ab_CobaltID%20Priya.avif",
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/673b7e9eafb91f040f42f9e8_Cobalt%20Vaish%202.avif"
+    ],
+    "source_url": "https://www.2048.vc/companies",
+    "scraped_at": "2026-05-29T19:02:17Z"
+  },
+  {
+    "company_name": "Pageport",
+    "description": "Apps for Financial Advisors.",
+    "founders": [
+      "Max Metcalf",
+      "Thomas Clawson"
+    ],
+    "founder_titles": [
+      "Co-Founder"
+    ],
+    "fund": "Seed",
+    "location": "Salt Lake City",
+    "announcement_text": null,
+    "announcement_urls": [],
+    "company_profile_url": null,
+    "company_url": "https://www.pageport.com/",
+    "why_we_invested_url": "https://www.2048.vc/blog/our-investment-in-pageport",
+    "founder_image_urls": [
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/64d10e9b03261fa7b7d7b8c9_Pageport%20Max.avif",
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/64d10eb6e26c81d1923fb75d_Pageport%20Thomas.avif"
+    ],
+    "source_url": "https://www.2048.vc/companies",
+    "scraped_at": "2026-05-29T19:02:17Z"
+  },
+  {
+    "company_name": "Supademo",
+    "description": "Intuitive product demos and product guides.",
+    "founders": [
+      "Joseph Lee",
+      "Koushik Marka"
+    ],
+    "founder_titles": [
+      "CEO",
+      "CTO"
+    ],
+    "fund": "Pre-Seed",
+    "location": "New York",
+    "announcement_text": null,
+    "announcement_urls": [],
+    "company_profile_url": null,
+    "company_url": "https://supademo.com/",
+    "why_we_invested_url": null,
+    "founder_image_urls": [
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/68912ec5d88e1ea31d559813_supademo.avif",
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/64cc18d7f7f22563239fba21_1608985174341.avif"
+    ],
+    "source_url": "https://www.2048.vc/companies",
+    "scraped_at": "2026-05-29T19:02:17Z"
+  },
+  {
+    "company_name": "Coding.Bio",
+    "description": "Modular therapies engineered for immune activation.",
+    "founders": [
+      "Simon Bornschein",
+      "Yulia Lampi"
+    ],
+    "founder_titles": [
+      "CEO",
+      "CSO"
+    ],
+    "fund": "Seed",
+    "location": "London",
+    "announcement_text": null,
+    "announcement_urls": [],
+    "company_profile_url": null,
+    "company_url": "https://www.coding.bio/",
+    "why_we_invested_url": null,
+    "founder_image_urls": [
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/635c154f9d6195475a1a008f_coding%20bio%20Simon.avif",
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/635c156fe8299214f3f909e0_coding%20bio%20Yulia.avif"
+    ],
+    "source_url": "https://www.2048.vc/companies",
+    "scraped_at": "2026-05-29T19:02:17Z"
+  },
+  {
+    "company_name": "InfraHub",
+    "description": "Empowering smarter road infrastructure management with AI-driven insights.",
+    "founders": [
+      "Stefan Johanson",
+      "Naim Kabir"
+    ],
+    "founder_titles": [
+      "CEO",
+      "CTO"
+    ],
+    "fund": "Seed",
+    "location": "Bay Area",
+    "announcement_text": null,
+    "announcement_urls": [],
+    "company_profile_url": null,
+    "company_url": "https://infrahub.ai",
+    "why_we_invested_url": null,
+    "founder_image_urls": [
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/697cc8af651621cb691f157b_InfraHub%20Stefan.avif",
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/697cc896e5237902ef1e8f2c_InfraHub%20Kabir.avif"
+    ],
+    "source_url": "https://www.2048.vc/companies",
+    "scraped_at": "2026-05-29T19:02:17Z"
+  },
+  {
+    "company_name": "ConverseNow",
+    "description": "Voice AI platform for restaurants.",
+    "founders": [
+      "Vinay Shukla",
+      "Rahul Aggarwal"
+    ],
+    "founder_titles": [
+      "CEO",
+      "CTO"
+    ],
+    "fund": "Series A",
+    "location": "Austin",
+    "announcement_text": "ConverseNow raises $15 million Series A led by Craft Ventures",
+    "announcement_urls": [
+      "https://techcrunch.com/2021/07/29/conversenow-is-targeting-restaurant-drive-thrus-with-new-15m-round/"
+    ],
+    "company_profile_url": null,
+    "company_url": "https://www.conversenow.ai",
+    "why_we_invested_url": "https://2048-ventures-7465.webflow.io/blog/our-investment-in-conversenow",
+    "founder_image_urls": [
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/61aee33cf7ff96669cc12ad9_f86ff0a3.avif",
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/61aee33cf7ff9669d4c12ada_33d18a7a.avif"
+    ],
+    "source_url": "https://www.2048.vc/companies",
+    "scraped_at": "2026-05-29T19:02:17Z"
+  },
+  {
+    "company_name": "Soona",
+    "description": "All-in-one platform to make, manage, and optimize content for ecommerce.",
+    "founders": [
+      "Liz Giorgi",
+      "Hayley Anderson"
+    ],
+    "founder_titles": [
+      "Co-Founder and CEO",
+      "Co-Founder and CCO"
+    ],
+    "fund": "Series B",
+    "location": "Denver",
+    "announcement_text": "Soona raises $35 million Series B led by Bain Capital Ventures",
+    "announcement_urls": [
+      "https://techcrunch.com/2022/01/24/soona-a-virtual-photo-shoot-platform-for-e-commerce-raises-35-million-series-b/"
+    ],
+    "company_profile_url": null,
+    "company_url": "https://www.soona.co",
+    "why_we_invested_url": "https://www.2048.vc/blog/our-investment-in-soona",
+    "founder_image_urls": [
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/61aedf83a8a2fe81ee7b5cc8_6780862b.avif",
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/61aedf83a8a2feeeec7b5cc9_9ce79e93.avif"
+    ],
+    "source_url": "https://www.2048.vc/companies",
+    "scraped_at": "2026-05-29T19:02:17Z"
+  },
+  {
+    "company_name": "Vitally",
+    "description": "Customer success platform for B2B software companies.",
+    "founders": [
+      "Jamie Davidson",
+      "Patrick Vatterott"
+    ],
+    "founder_titles": [
+      "CEO",
+      "CTO"
+    ],
+    "fund": "Series B",
+    "location": "New York",
+    "announcement_text": "Vitally raises $30 million Series B led by Next47",
+    "announcement_urls": [
+      "https://techcrunch.com/2023/02/22/showing-customer-success-platforms-havent-lost-steam-vitally-secures-30m/?tpcc=tcplustwitter"
+    ],
+    "company_profile_url": null,
+    "company_url": "https://www.vitally.io",
+    "why_we_invested_url": "https://2048-ventures-7465.webflow.io/blog/our-investment-in-vitally",
+    "founder_image_urls": [
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/61aed4bbc60f474682f0e4a5_43a847f4.avif",
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/61aed4bbc60f477fadf0e4a6_7aaddef2.avif"
+    ],
+    "source_url": "https://www.2048.vc/companies",
+    "scraped_at": "2026-05-29T19:02:17Z"
+  },
+  {
+    "company_name": "Wirestock",
+    "description": "Management & distribution platform for creators' digital content.",
+    "founders": [
+      "Mikayel Khachatryan",
+      "Vladimir Khoetsyan",
+      "Ashot Mnatsakanyan"
+    ],
+    "founder_titles": [
+      "CEO",
+      "CTO",
+      "CPO"
+    ],
+    "fund": "Series A",
+    "location": "New York",
+    "announcement_text": null,
+    "announcement_urls": [],
+    "company_profile_url": null,
+    "company_url": "https://wirestock.io/",
+    "why_we_invested_url": "https://www.2048.vc/blog/our-investment-in-wirestock",
+    "founder_image_urls": [
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/61aed4b2e6acc18071e801a5_7054eb75.avif",
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/61aed4b2e6acc10406e801a7_49270b3e.avif",
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/61aed4b2e6acc1e990e801a6_a425f185.avif"
+    ],
+    "source_url": "https://www.2048.vc/companies",
+    "scraped_at": "2026-05-29T19:02:17Z"
+  },
+  {
+    "company_name": "Flyp",
+    "description": "Marketplace connecting re-selling platforms with people who want to sell their stuff.",
+    "founders": [
+      "James Kawas",
+      "Dani Arnaout"
+    ],
+    "founder_titles": [
+      "CEO",
+      "CTO"
+    ],
+    "fund": "Series A",
+    "location": "Bay Area",
+    "announcement_text": "Flyp raises $10 million Series A led by Asymmetric Capital Partners",
+    "announcement_urls": [
+      "https://techcrunch.com/2022/05/03/flyp-wants-to-give-power-resellers-enterprise-grade-ecommerce-tooling/"
+    ],
+    "company_profile_url": null,
+    "company_url": "https://www.joinflyp.com/",
+    "why_we_invested_url": "https://www.2048.vc/blog/our-investment-in-flyp",
+    "founder_image_urls": [
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/61aed4b554e30b05956e7442_60efc4ec.avif",
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/61aed4b554e30bf3bb6e7441_c095aedc.avif"
+    ],
+    "source_url": "https://www.2048.vc/companies",
+    "scraped_at": "2026-05-29T19:02:17Z"
+  },
+  {
+    "company_name": "Lendflow",
+    "description": "Embedded lending services for B2B companies.",
+    "founders": [
+      "Jon Fry",
+      "Matthew Watts"
+    ],
+    "founder_titles": [
+      "CEO",
+      "CTO"
+    ],
+    "fund": "Series A",
+    "location": "Austin",
+    "announcement_text": "Lendflow raises $10.8 million Series A led by Underscore VC",
+    "announcement_urls": [
+      "https://www.prnewswire.com/news-releases/lendflow-closes-10-8-million-series-a-financing-to-turn-any-company-into-a-fintech-301398795.html#:~:text=In%2DLanguage%20News-,Lendflow%20Closes%20%2410.8%20Million%20Series%20A%20Financing,Any%20Company%20into%20a%20Fintech"
+    ],
+    "company_profile_url": null,
+    "company_url": "https://www.lendflow.io",
+    "why_we_invested_url": "https://2048-ventures-7465.webflow.io/blog/underscore-vc-leads-lendflow-series-a",
+    "founder_image_urls": [
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/61aed4bcd6a0ef097c9a9647_ab6daa38.avif",
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/61aed4bcd6a0ef1e4a9a9646_9375e216.avif"
+    ],
+    "source_url": "https://www.2048.vc/companies",
+    "scraped_at": "2026-05-29T19:02:17Z"
+  },
+  {
+    "company_name": "Eli Health",
+    "description": "At-home saliva-based hormone monitoring.",
+    "founders": [
+      "Marina Pavlovic Rivas",
+      "Thomas Cortina"
+    ],
+    "founder_titles": [
+      "CEO",
+      "CTO"
+    ],
+    "fund": "Series A",
+    "location": "Montreal",
+    "announcement_text": "Eli Health raises $12 million Series A led by BDC Capital ‍",
+    "announcement_urls": [
+      "https://www.axios.com/pro/all-deals/2025/06/10/eli-health-raises-12m-hormone-tracking"
+    ],
+    "company_profile_url": null,
+    "company_url": "https://www.eli.health",
+    "why_we_invested_url": "https://2048-ventures-7465.webflow.io/blog/our-investment-in-eli",
+    "founder_image_urls": [
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/61aee467973df9169abc4492_b3d739a4.avif",
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/61aee467973df9b0d1bc4493_8ca8cb25.avif"
+    ],
+    "source_url": "https://www.2048.vc/companies",
+    "scraped_at": "2026-05-29T19:02:17Z"
+  },
+  {
+    "company_name": "Arrow",
+    "description": "Platform for healthcare payments.",
+    "founders": [
+      "Roshan Patel",
+      "Yash Joshi",
+      "Abel Chan"
+    ],
+    "founder_titles": [
+      "CEO",
+      "CTO",
+      "COO"
+    ],
+    "fund": "Series A",
+    "location": "New York",
+    "announcement_text": "Arrow raises $110 million Series A led by Gradient Ventures",
+    "announcement_urls": [
+      "https://techcrunch.com/2022/05/05/walnut-buy-now-pay-later-health-series-a/"
+    ],
+    "company_profile_url": null,
+    "company_url": "https://arrowhq.com/",
+    "why_we_invested_url": "https://2048-ventures-7465.webflow.io/blog/our-investment-in-walnut",
+    "founder_image_urls": [
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/61aed4b756c3dc587c7a58a7_5cbda015.avif",
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/61aed4b656c3dc02307a58a5_54b754ee.avif",
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/61aed4b656c3dc42227a58a6_61858a5e.avif"
+    ],
+    "source_url": "https://www.2048.vc/companies",
+    "scraped_at": "2026-05-29T19:02:17Z"
+  },
+  {
+    "company_name": "Aviary Health",
+    "description": "Virtual cardiac rehab, care management and navigation services.",
+    "founders": [
+      "Abhi Chandra",
+      "Vivek Vishwanath",
+      "Dr. Ed Wu"
+    ],
+    "founder_titles": [
+      "CEO",
+      "Chief Growth Officer",
+      "Chief Medical Officer"
+    ],
+    "fund": "Series A",
+    "location": "New York",
+    "announcement_text": "Recora raises $20 million Series A led by SignalFire",
+    "announcement_urls": [
+      "https://www.globenewswire.com/news-release/2022/03/21/2406753/0/en/Recora-Announces-20M-in-Series-A-Funding-and-Unveils-Cardiac-Recovery-Program-for-Health-Systems-Medical-Groups-and-Health-Plans.html"
+    ],
+    "company_profile_url": null,
+    "company_url": "https://www.aviaryhealth.com/",
+    "why_we_invested_url": null,
+    "founder_image_urls": [
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/61aedf8211221d3f1d9f97a4_1a89e632.avif",
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/61aedf8211221d2eb69f97a3_c9199f4f.avif",
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/61aedf8211221d44b69f97a5_2a5e934a.avif"
+    ],
+    "source_url": "https://www.2048.vc/companies",
+    "scraped_at": "2026-05-29T19:02:17Z"
+  },
+  {
+    "company_name": "Acorn Finance",
+    "description": "Simple POS financing tool for contractors (and manufacturers) to offer their homeowner customers.",
+    "founders": [
+      "Giri Addanki"
+    ],
+    "founder_titles": [
+      "CEO"
+    ],
+    "fund": "Series A",
+    "location": "Bay Area",
+    "announcement_text": "Acorn Finance raises $8.4 million Series A led by MassMutal Ventures",
+    "announcement_urls": [
+      "https://www.acornfinance.com/series-a-funding/"
+    ],
+    "company_profile_url": null,
+    "company_url": "https://www.acornfinance.com",
+    "why_we_invested_url": null,
+    "founder_image_urls": [
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/61aed4b4fefb512f539666b8_cbc13695.avif"
+    ],
+    "source_url": "https://www.2048.vc/companies",
+    "scraped_at": "2026-05-29T19:02:17Z"
+  },
+  {
+    "company_name": "Pathspot",
+    "description": "Platform for detecting food-borne illnesses for hospitality industry.",
+    "founders": [
+      "Christine Schindler",
+      "Dutch Waanders"
+    ],
+    "founder_titles": [
+      "CEO",
+      "CTO"
+    ],
+    "fund": "Series A",
+    "location": "New York",
+    "announcement_text": "Pathspot raises $6.5 million Series A led by Valor Siren Ventures",
+    "announcement_urls": [
+      "https://www.finsmes.com/2020/05/pathspot-closes-6-5m-series-a-funding.html#:~:text=PathSpot%2C%20a%20NYC%2Dbased%20creator,m%20Series%20A%20funding%20round."
+    ],
+    "company_profile_url": null,
+    "company_url": "https://pathspot.com/",
+    "why_we_invested_url": null,
+    "founder_image_urls": [
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/6238c38d91a06bed0a8516fe_PathSpot%20Christine.avif",
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/6238c3a0cdbb56f159bea61c_Dutch%20Waanders.avif"
+    ],
+    "source_url": "https://www.2048.vc/companies",
+    "scraped_at": "2026-05-29T19:02:17Z"
+  },
+  {
+    "company_name": "Persist AI",
+    "description": "Drug formulation development and manufacturing using automation and AI.",
+    "founders": [
+      "Karthik Raman",
+      "Chris Shelner"
+    ],
+    "founder_titles": [
+      "CEO",
+      "COO"
+    ],
+    "fund": "Series A",
+    "location": "Bay Area",
+    "announcement_text": "Persist AI raises $12 million Series A led by Spero Ventures",
+    "announcement_urls": [
+      "https://www.prnewswire.com/news-releases/persist-ai-launches-cloud-lab-to-accelerate-pharmaceutical-formulation-development-raises-12m-series-a-funding-302458476.html?tc=eml_cleartime"
+    ],
+    "company_profile_url": null,
+    "company_url": "https://www.persist-ai.com/",
+    "why_we_invested_url": "https://www.2048.vc/blog/our-investment-in-persist-ai",
+    "founder_image_urls": [
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/643823a384dc2d8f3156a33b_Persist%20Karthik.avif",
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/643823ce31946862e5a4ef00_Persist%20Chris.avif"
+    ],
+    "source_url": "https://www.2048.vc/companies",
+    "scraped_at": "2026-05-29T19:02:17Z"
+  },
+  {
+    "company_name": "Aclid",
+    "description": "The security and safety API layer for synthetic biology.",
+    "founders": [
+      "Kevin Flyangolts"
+    ],
+    "founder_titles": [
+      "CEO"
+    ],
+    "fund": "Seed",
+    "location": "New York",
+    "announcement_text": "Aclid raises $3.3 million Seed led by 2048 Ventures and IA Ventures ‍",
+    "announcement_urls": [
+      "https://www.prnewswire.com/news-releases/aclid-closes-oversubscribed-3-3-million-seed-funding-round-to-advance-biosecurity-and-compliance-301952847.html#:~:text=NEW%20YORK%2C%20Oct.%2012%2C,time%20screening%20and%20verification%20platform."
+    ],
+    "company_profile_url": null,
+    "company_url": "https://www.aclid.bio",
+    "why_we_invested_url": "https://www.2048.vc/blog/our-investment-in-aclid",
+    "founder_image_urls": [
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/61aed5387eeac377f03520ba_9bb84d0d.avif"
+    ],
+    "source_url": "https://www.2048.vc/companies",
+    "scraped_at": "2026-05-29T19:02:17Z"
+  },
+  {
+    "company_name": "Propensity",
+    "description": "Account-based marketing platform for B2B growth teams.",
+    "founders": [
+      "Sumner Vanderhoof",
+      "Carla Vanderhoof"
+    ],
+    "founder_titles": [
+      "CEO",
+      "CCO"
+    ],
+    "fund": "Seed+",
+    "location": "Boston",
+    "announcement_text": null,
+    "announcement_urls": [],
+    "company_profile_url": null,
+    "company_url": "https://www.propensity.com/",
+    "why_we_invested_url": null,
+    "founder_image_urls": [
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/61aede52e94858b9fa56517b_c9219ecf.avif",
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/61aede52e948586e9c56517a_03bf97c4.avif"
+    ],
+    "source_url": "https://www.2048.vc/companies",
+    "scraped_at": "2026-05-29T19:02:17Z"
+  },
+  {
+    "company_name": "Citrus Labs",
+    "description": "Digital CRO for CPG, Cosmetics, and Biotech.",
+    "founders": [
+      "Susanne Mitschke",
+      "Patrick Renner",
+      "Rogelio Arellano"
+    ],
+    "founder_titles": [
+      "CEO",
+      "COO",
+      "CTO"
+    ],
+    "fund": "Seed+",
+    "location": "Los Angeles",
+    "announcement_text": null,
+    "announcement_urls": [],
+    "company_profile_url": null,
+    "company_url": "https://www.citruslabs.com",
+    "why_we_invested_url": null,
+    "founder_image_urls": [
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/61aed4b7d211ad40841296b9_1e3788fc.avif",
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/61aed4b7d211ad18901296b8_f79c0265.avif",
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/61aed4b7d211ad34191296ba_c07311ba.avif"
+    ],
+    "source_url": "https://www.2048.vc/companies",
+    "scraped_at": "2026-05-29T19:02:17Z"
+  },
+  {
+    "company_name": "Humane Genomics",
+    "description": "Synthetic oncolytic virus platform for personalized cancer treatment.",
+    "founders": [
+      "Peter Weijmarshausen",
+      "Chad Moles",
+      "Andrew Hessel"
+    ],
+    "founder_titles": [
+      "CEO",
+      "CSO",
+      "President"
+    ],
+    "fund": "Seed",
+    "location": "New York",
+    "announcement_text": "Humane Genomics raises $4 million Seed led by Union Square Ventures",
+    "announcement_urls": [
+      "https://blog.usv.com/humane-genomics"
+    ],
+    "company_profile_url": null,
+    "company_url": "https://www.humanegenomics.com",
+    "why_we_invested_url": "https://2048-ventures-7465.webflow.io/blog/our-investment-in-humane-genomics",
+    "founder_image_urls": [
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/61aed4b876226156e2d767cf_60e97d82.avif",
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/61aed4b87622615438d767d0_f7dc2db2.avif",
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/61aed4b8762261649cd767d1_4fa05d90.avif"
+    ],
+    "source_url": "https://www.2048.vc/companies",
+    "scraped_at": "2026-05-29T19:02:17Z"
+  },
+  {
+    "company_name": "Ribbit",
+    "description": "Autonomous aviation technology.",
+    "founders": [
+      "Carl Pigeon",
+      "Jeremy Wang"
+    ],
+    "founder_titles": [
+      "CEO",
+      "CTO"
+    ],
+    "fund": "Pre-Seed",
+    "location": "Toronto",
+    "announcement_text": null,
+    "announcement_urls": [],
+    "company_profile_url": null,
+    "company_url": "https://www.flyribbit.com",
+    "why_we_invested_url": null,
+    "founder_image_urls": [
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/61aed68e56c3dc29e67af8ae_26b4f222.avif",
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/61aed68e56c3dc27a07af8af_2959720e.avif"
+    ],
+    "source_url": "https://www.2048.vc/companies",
+    "scraped_at": "2026-05-29T19:02:17Z"
+  },
+  {
+    "company_name": "Ten Little",
+    "description": "Data driven, personalized Kids’ shoes brand.",
+    "founders": [
+      "Fatma Collins",
+      "Julie Rogers"
+    ],
+    "founder_titles": [
+      "CEO",
+      "COO"
+    ],
+    "fund": "Seed+",
+    "location": "New York",
+    "announcement_text": null,
+    "announcement_urls": [],
+    "company_profile_url": null,
+    "company_url": "https://tenlittle.com/",
+    "why_we_invested_url": null,
+    "founder_image_urls": [
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/61aedcb9830c2e66780759bf_bcd4262c.avif",
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/61aedcb9830c2e328f0759c0_027fb6e8.avif"
+    ],
+    "source_url": "https://www.2048.vc/companies",
+    "scraped_at": "2026-05-29T19:02:17Z"
+  },
+  {
+    "company_name": "Pocket",
+    "description": "AI Front Office Platform for Rehab Therapy",
+    "founders": [
+      "Hannah Kim",
+      "Ben Quachtran"
+    ],
+    "founder_titles": [
+      "CEO & Co-Founder",
+      "Co-Founder"
+    ],
+    "fund": "Pre-Seed",
+    "location": "New York",
+    "announcement_text": null,
+    "announcement_urls": [],
+    "company_profile_url": null,
+    "company_url": "https://letspocket.com/",
+    "why_we_invested_url": "https://www.2048.vc/blog/our-investment-in-pocket",
+    "founder_image_urls": [
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/69a9f80aed6b2d431e8f6516_HK.avif",
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/69a9f823748ba411e9a4d8b6_Ben.avif"
+    ],
+    "source_url": "https://www.2048.vc/companies",
+    "scraped_at": "2026-05-29T19:02:17Z"
+  },
+  {
+    "company_name": "Enurgen",
+    "description": "The operating system for solar energy system operators.",
+    "founders": [
+      "Kibby Pollak",
+      "Chris Valdivia"
+    ],
+    "founder_titles": [
+      "CEO",
+      "CTO"
+    ],
+    "fund": "Seed",
+    "location": "Ottawa",
+    "announcement_text": "Enurgen raises $4.1 million Seed co-led by BDC, Brightspark, and Diagram ‍",
+    "announcement_urls": [
+      "https://www.businesswire.com/news/home/20251008064002/en/Enurgen-Closes-%244.1M-USD-Seed-to-Accelerate-Global-Growth-of-Solar-Performance-Software"
+    ],
+    "company_profile_url": null,
+    "company_url": "https://www.enurgen.com/",
+    "why_we_invested_url": "https://www.2048.vc/blog/our-investment-in-enurgen",
+    "founder_image_urls": [
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/68912e771200eef1e49c7fc4_kibby.avif",
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/63e14237907785ed719745d1_CValdivia.avif"
+    ],
+    "source_url": "https://www.2048.vc/companies",
+    "scraped_at": "2026-05-29T19:02:17Z"
+  },
+  {
+    "company_name": "Stratagen Bio",
+    "description": "MRI-based tools for quantitative biomarker assessment.",
+    "founders": [
+      "Greg Ekchian"
+    ],
+    "founder_titles": [
+      "CEO"
+    ],
+    "fund": "Pre-Seed",
+    "location": "Boston",
+    "announcement_text": null,
+    "announcement_urls": [],
+    "company_profile_url": null,
+    "company_url": "https://stratagenbio.com/",
+    "why_we_invested_url": null,
+    "founder_image_urls": [
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/63f50f41cc5c1b71d4e5b9ac_Stratagen%20Greg.avif"
+    ],
+    "source_url": "https://www.2048.vc/companies",
+    "scraped_at": "2026-05-29T19:02:17Z"
+  },
+  {
+    "company_name": "Wareclouds",
+    "description": "Fulfillment and last-mile-delivery for e-commerce.",
+    "founders": [
+      "Arturo Quiroz",
+      "Nicolás Aramayo Benvenutto"
+    ],
+    "founder_titles": [
+      "CEO",
+      "Co-Founder"
+    ],
+    "fund": "Seed",
+    "location": "Latam",
+    "announcement_text": "Wareclouds raises $2 million Seed led by 2048 Ventures",
+    "announcement_urls": [
+      "https://contxto.com/brazil/wareclouds-investment-round-usd-2-million-expansion-brazil-mexico/"
+    ],
+    "company_profile_url": null,
+    "company_url": "https://www.wareclouds.com/",
+    "why_we_invested_url": "https://www.2048.vc/blog/our-investment-in-wareclouds",
+    "founder_image_urls": [
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/6515c2ea078d134e72f1035e_Wareclouds%20Arturo.avif",
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/6515c348d5ca1c1ddb98fc05_Wareclouds%20Nicolas.avif"
+    ],
+    "source_url": "https://www.2048.vc/companies",
+    "scraped_at": "2026-05-29T19:02:17Z"
+  },
+  {
+    "company_name": "Psyrin",
+    "description": "Streamlined mental heathcare operations through AI.",
+    "founders": [
+      "Edwin Wong",
+      "Julianna Oláh",
+      "Raheem Chaudhry"
+    ],
+    "founder_titles": [
+      "CEO",
+      "CTO",
+      "Co-Founder"
+    ],
+    "fund": "Pre-Seed",
+    "location": "Bay Area",
+    "announcement_text": null,
+    "announcement_urls": [],
+    "company_profile_url": null,
+    "company_url": "https://psyrin.co.uk/",
+    "why_we_invested_url": "https://www.2048.vc/blog/our-investment-in-psyrin",
+    "founder_image_urls": [
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/659868fae51a5f45c03eebe0_Psyrin%20Edwin.avif",
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/6598690f1604610dbbf3f6b6_Psyrin%20Julianna.avif",
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/659869202b276e96810e7eca_Psyrin%20Raheem.avif"
+    ],
+    "source_url": "https://www.2048.vc/companies",
+    "scraped_at": "2026-05-29T19:02:17Z"
+  },
+  {
+    "company_name": "Century Health",
+    "description": "AI-powered real-world evidence for accelerated treatments.",
+    "founders": [
+      "Vish Srivastava",
+      "Sanjay Hariharan"
+    ],
+    "founder_titles": [
+      "CEO",
+      "CTO"
+    ],
+    "fund": "Pre-Seed",
+    "location": "New York",
+    "announcement_text": null,
+    "announcement_urls": [],
+    "company_profile_url": null,
+    "company_url": "https://century.health/",
+    "why_we_invested_url": "https://www.2048.vc/blog/our-investment-in-century-health",
+    "founder_image_urls": [
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/65cbe0570452856339f695de_Century%20Vish.avif",
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/65cbe074422449ca4d62b1f6_Century%20Sanjay.avif"
+    ],
+    "source_url": "https://www.2048.vc/companies",
+    "scraped_at": "2026-05-29T19:02:17Z"
+  },
+  {
+    "company_name": "Aslan Protects",
+    "description": "AI agents that avert the next mass shooting before it happens.",
+    "founders": [
+      "Chase Reid",
+      "Ansel Tessier"
+    ],
+    "founder_titles": [
+      "CEO",
+      "CTO"
+    ],
+    "fund": "Pre-Seed",
+    "location": "Washington DC",
+    "announcement_text": null,
+    "announcement_urls": [],
+    "company_profile_url": null,
+    "company_url": "https://aslanprotects.com/",
+    "why_we_invested_url": "https://www.2048.vc/blog/our-investment-in-aslan-protects",
+    "founder_image_urls": [
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/682e12daba596ddedff0cf7a_Aslan%20Chase.avif",
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/682e12fa252f59c4b0e1c6ea_Aslan%20Ansel.avif"
+    ],
+    "source_url": "https://www.2048.vc/companies",
+    "scraped_at": "2026-05-29T19:02:17Z"
+  },
+  {
+    "company_name": "Colla Health",
+    "description": "Empowering oncology practices with embedded, collaborative mental health care.",
+    "founders": [
+      "Milan Thakor",
+      "Beau Palin"
+    ],
+    "founder_titles": [
+      "CEO",
+      "COO"
+    ],
+    "fund": "Seed",
+    "location": "Houston",
+    "announcement_text": null,
+    "announcement_urls": [],
+    "company_profile_url": null,
+    "company_url": "https://www.collahealth.com/",
+    "why_we_invested_url": null,
+    "founder_image_urls": [
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/683779b518abdb7d2ea5c054_Colla%20Milan.avif",
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/683779e5932ab98ab024a4f2_Colla%20Beau.avif"
+    ],
+    "source_url": "https://www.2048.vc/companies",
+    "scraped_at": "2026-05-29T19:02:17Z"
+  },
+  {
+    "company_name": "Kascaid",
+    "description": "Kascaid is developing biosensors for real-time monitoring of inflammatory biomarkers.",
+    "founders": [
+      "Kavya Swaminathan",
+      "Scott Ferguson",
+      "Austin Hall"
+    ],
+    "founder_titles": [
+      "CEO",
+      "CSO",
+      "CPO"
+    ],
+    "fund": "Pre-Seed",
+    "location": "Bay Area",
+    "announcement_text": null,
+    "announcement_urls": [],
+    "company_profile_url": null,
+    "company_url": "https://kascaid.bio/",
+    "why_we_invested_url": "https://www.2048.vc/blog/our-investment-in-kascaid",
+    "founder_image_urls": [
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/6863f463bb312b2cf4a60d2f_Kascaid%20Kavya.avif",
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/6863f49bd37c8f2f5345f65c_Kascaid%20Scott.avif",
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/6863f4b01ba761fb23764335_Kascaid%20Austin.avif"
+    ],
+    "source_url": "https://www.2048.vc/companies",
+    "scraped_at": "2026-05-29T19:02:17Z"
+  },
+  {
+    "company_name": "Romix Biosciences",
+    "description": "Accelerating drug development with an AI-enabled full body molecular scan of inflammation.",
+    "founders": [
+      "Conor Loy",
+      "David McKellar"
+    ],
+    "founder_titles": [
+      "CEO",
+      "CTO"
+    ],
+    "fund": "Pre-Seed",
+    "location": "New York",
+    "announcement_text": null,
+    "announcement_urls": [],
+    "company_profile_url": null,
+    "company_url": "https://romixbio.com/",
+    "why_we_invested_url": null,
+    "founder_image_urls": [
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/6894e1dcacc9cb6f986323cd_Romix%20Conor.avif",
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/6894e20947041ee58a02775b_Romix%20David.avif"
+    ],
+    "source_url": "https://www.2048.vc/companies",
+    "scraped_at": "2026-05-29T19:02:17Z"
+  },
+  {
+    "company_name": "Spruce Systems",
+    "description": "Ground truth intelligence for landscapers.",
+    "founders": [
+      "Max Makeev",
+      "Mark Schnittman",
+      "Matt Fitzgerald"
+    ],
+    "founder_titles": [
+      "CEO",
+      "CTO",
+      "CPO"
+    ],
+    "fund": "Pre-Seed",
+    "location": "Boston",
+    "announcement_text": null,
+    "announcement_urls": [],
+    "company_profile_url": null,
+    "company_url": "https://www.sprucesystems.com/",
+    "why_we_invested_url": null,
+    "founder_image_urls": [
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/689f4a09f521c085fa528b3d_Spruce%20Max.avif",
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/689f4a209fedf0f833fffa84_Spruce%20Mark.avif",
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/689f4a2e4045f00620fe22aa_Spruce%20Matt.avif"
+    ],
+    "source_url": "https://www.2048.vc/companies",
+    "scraped_at": "2026-05-29T19:02:17Z"
+  },
+  {
+    "company_name": "VO Health",
+    "description": "VO Health is a precision health company developing next-generation biomarkers of healthspan and performance.",
+    "founders": [
+      "Brooks Leitner",
+      "Alina Zolotareva"
+    ],
+    "founder_titles": [
+      "CEO",
+      "COO"
+    ],
+    "fund": "Pre-Seed",
+    "location": "New York",
+    "announcement_text": null,
+    "announcement_urls": [],
+    "company_profile_url": null,
+    "company_url": "https://vohealth.co/",
+    "why_we_invested_url": null,
+    "founder_image_urls": [
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/69174fb310314705fa3ae4e6_VO%20Health%20Brooks.avif",
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/69174fcc42871b39d479d3cc_VO%20Health%20Alina.avif"
+    ],
+    "source_url": "https://www.2048.vc/companies",
+    "scraped_at": "2026-05-29T19:02:17Z"
+  },
+  {
+    "company_name": "Almanac Engineering",
+    "description": "Your all-in-one 24/7 automated 3D printing factory.",
+    "founders": [
+      "Michael McNabb",
+      "Alec Soronow"
+    ],
+    "founder_titles": [
+      "CEO",
+      "CTO"
+    ],
+    "fund": "Pre-Seed",
+    "location": "San Francisco",
+    "announcement_text": null,
+    "announcement_urls": [],
+    "company_profile_url": null,
+    "company_url": "https://www.almanacengineering.com/",
+    "why_we_invested_url": null,
+    "founder_image_urls": [
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/6941772d3e2502cf0e9544a3_Almanac%20Michael.avif",
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/694177414d4ecfb6d1e7162f_Almanac%20Alec.avif"
+    ],
+    "source_url": "https://www.2048.vc/companies",
+    "scraped_at": "2026-05-29T19:02:17Z"
+  },
+  {
+    "company_name": "Broome",
+    "description": "The agentic AI platform for commercial real estate",
+    "founders": [
+      "Ziggy Hallgarten",
+      "Alexander Spivak",
+      "Alec Costanza"
+    ],
+    "founder_titles": [
+      "CEO",
+      "CTO",
+      "Co-Founder"
+    ],
+    "fund": "Pre-seed",
+    "location": "New York",
+    "announcement_text": null,
+    "announcement_urls": [],
+    "company_profile_url": null,
+    "company_url": "https://broome.ai",
+    "why_we_invested_url": "https://www.2048.vc/blog/our-investment-in-broome-ai",
+    "founder_image_urls": [
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/69973c6ed269742dba6893df_Ziggy.avif",
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/69973cefe6c7dbf04e50d171_Alex.avif",
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/69973ca6f244ed20c87f0ea4_Alec.avif"
+    ],
+    "source_url": "https://www.2048.vc/companies",
+    "scraped_at": "2026-05-29T19:02:17Z"
+  },
+  {
+    "company_name": "Union Specialty",
+    "description": "AI native wholesale platform for specialty insurance",
+    "founders": [
+      "Lukas Salomon"
+    ],
+    "founder_titles": [
+      "CEO"
+    ],
+    "fund": "Pre-seed",
+    "location": "New York",
+    "announcement_text": null,
+    "announcement_urls": [],
+    "company_profile_url": null,
+    "company_url": "https://unionspecialty.com",
+    "why_we_invested_url": null,
+    "founder_image_urls": [
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/69973e53dfa39c4f67d5fdd6_Lukas.avif"
+    ],
+    "source_url": "https://www.2048.vc/companies",
+    "scraped_at": "2026-05-29T19:02:17Z"
+  },
+  {
+    "company_name": "Actor",
+    "description": "Deploying general robot models into the real world",
+    "founders": [
+      "Lane Burgett",
+      "Shashi Shekhar Verma"
+    ],
+    "founder_titles": [
+      "CEO",
+      "CTO"
+    ],
+    "fund": "Pre-seed",
+    "location": "San Francisco",
+    "announcement_text": null,
+    "announcement_urls": [],
+    "company_profile_url": null,
+    "company_url": "https://labs.actor/",
+    "why_we_invested_url": null,
+    "founder_image_urls": [
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/69ca64e20688a55b43beea2b_Lane.avif",
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/69ca650befab31aa5cc01d2c_Shashi.avif"
+    ],
+    "source_url": "https://www.2048.vc/companies",
+    "scraped_at": "2026-05-29T19:02:17Z"
+  },
+  {
+    "company_name": "Zeroset",
+    "description": "Self-improving memory layer for autonomous agents",
+    "founders": [
+      "Akshat Kannan",
+      "William Zhang"
+    ],
+    "founder_titles": [
+      "Co-Founder & CEO",
+      "Co-Founder"
+    ],
+    "fund": "Seed",
+    "location": "San Francisco",
+    "announcement_text": null,
+    "announcement_urls": [],
+    "company_profile_url": null,
+    "company_url": "https://trynebula.ai/",
+    "why_we_invested_url": null,
+    "founder_image_urls": [
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/69fb463689ecbd0797795071_Akshat.avif",
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/69fb464c907af7ca7c2db798_William.avif"
+    ],
+    "source_url": "https://www.2048.vc/companies",
+    "scraped_at": "2026-05-29T19:02:17Z"
+  },
+  {
+    "company_name": "Rely Intelligence",
+    "description": "Institutional-grade diligence automation for multifamily.",
+    "founders": [
+      "George Matelich",
+      "David LoBosco"
+    ],
+    "founder_titles": [
+      "CEO & Co-Founder",
+      "CTO & Co-Founder"
+    ],
+    "fund": "Seed",
+    "location": "Other",
+    "announcement_text": null,
+    "announcement_urls": [],
+    "company_profile_url": null,
+    "company_url": "https://www.tryrely.ai/",
+    "why_we_invested_url": "https://www.2048.vc/blog/our-investment-in-rely-intelligence",
+    "founder_image_urls": [
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/6a0b24a36c85ea5a826acbd7_GM.jpeg",
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/6a0b24c36229284cb9c4e212_DL.jpeg"
+    ],
+    "source_url": "https://www.2048.vc/companies",
+    "scraped_at": "2026-05-29T19:02:17Z"
+  },
+  {
+    "company_name": "Ettos",
+    "description": "The e-commerce platform for beauty products in Latam.",
+    "founders": [
+      "Andrés Arango Mesa",
+      "Isabel Arango Mesa",
+      "Clara Isabel Arango Ruiz"
+    ],
+    "founder_titles": [
+      "CEO",
+      "CTO",
+      "CGO"
+    ],
+    "fund": "Pre-Seed",
+    "location": "Latam",
+    "announcement_text": null,
+    "announcement_urls": [],
+    "company_profile_url": null,
+    "company_url": "https://ettos.co/",
+    "why_we_invested_url": "https://www.2048.vc/blog/ettos",
+    "founder_image_urls": [
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/6238c5016dd22c7fe1ea1020_Ettos%20Andres.avif",
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/6238c51455584530db6fb9d1_Ettos%20Isabel.avif",
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/6238c52c328150cd0ea2434d_Ettos%20Clara.avif"
+    ],
+    "source_url": "https://www.2048.vc/companies",
+    "scraped_at": "2026-05-29T19:02:17Z"
+  },
+  {
+    "company_name": "BioBox Analytics",
+    "description": "Software that creates a GPS for drug target discovery from customers’ data.",
+    "founders": [
+      "Christopher Li",
+      "Julian Mazzitelli",
+      "Hamza Farooq"
+    ],
+    "founder_titles": [
+      "CEO",
+      "CTO",
+      "CIO"
+    ],
+    "fund": "Pre-Seed",
+    "location": "Toronto",
+    "announcement_text": null,
+    "announcement_urls": [],
+    "company_profile_url": null,
+    "company_url": "https://biobox.io/",
+    "why_we_invested_url": "https://2048-ventures-7465.webflow.io/blog/our-investment-in-biobox",
+    "founder_image_urls": [
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/61aee5aefc3ed81246c84386_c21360f4.avif",
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/61aee5c3ec56b05fbc49ddaa_b3addacc.avif",
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/61aee5d4b14218904205f7e3_b3b2aeb9.avif"
+    ],
+    "source_url": "https://www.2048.vc/companies",
+    "scraped_at": "2026-05-29T19:02:17Z"
+  },
+  {
+    "company_name": "Inso Bio",
+    "description": "Next-generation, automated sample prep, starting with HMW DNA.",
+    "founders": [
+      "Harvey Tian",
+      "Adam Bisogni"
+    ],
+    "founder_titles": [
+      "CEO",
+      "CSO"
+    ],
+    "fund": "Pre-Seed",
+    "location": "New York",
+    "announcement_text": null,
+    "announcement_urls": [],
+    "company_profile_url": null,
+    "company_url": "https://inso.bio/",
+    "why_we_invested_url": "https://www.2048.vc/blog/our-investment-in-inso-biosciences",
+    "founder_image_urls": [
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/6238c597cdbb563f7fbebffb_Inso%20Bio%20Harvey.avif",
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/6238c5b4ca6219004b09e2ae_Inso%20Bio%20Adam.avif"
+    ],
+    "source_url": "https://www.2048.vc/companies",
+    "scraped_at": "2026-05-29T19:02:17Z"
+  },
+  {
+    "company_name": "Impacked",
+    "description": "Marketplace for CPG primary packaging.",
+    "founders": [
+      "Lisa-Marie Assenza"
+    ],
+    "founder_titles": [
+      "CEO"
+    ],
+    "fund": "Seed",
+    "location": "New York",
+    "announcement_text": "Impacked raises $2.5 million Seed led by TenOneTen Ventures ‍",
+    "announcement_urls": [
+      "https://techcrunch.com/2022/11/15/impacked-seed/"
+    ],
+    "company_profile_url": null,
+    "company_url": "https://www.impackedpackaging.com/",
+    "why_we_invested_url": "https://2048-ventures-7465.webflow.io/blog/our-investment-in-impacked",
+    "founder_image_urls": [
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/61aed53af2dd5c4ce784613c_6450da65.avif"
+    ],
+    "source_url": "https://www.2048.vc/companies",
+    "scraped_at": "2026-05-29T19:02:17Z"
+  },
+  {
+    "company_name": "Macroverse Media",
+    "description": "A platform to create and consume digital comics and graphic novels, with a longer-term vision for a multi-channel media platform.",
+    "founders": [
+      "Eben Matthews",
+      "Adam Martin",
+      "Ricci Rukavina"
+    ],
+    "founder_titles": [
+      "CEO",
+      "Co-Founder"
+    ],
+    "fund": "Pre-Seed",
+    "location": "Los Angeles",
+    "announcement_text": null,
+    "announcement_urls": [],
+    "company_profile_url": null,
+    "company_url": "https://www.macroverse.media",
+    "why_we_invested_url": null,
+    "founder_image_urls": [
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/61aee249702245205a47bf09_c0253fa2.jpeg",
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/61aee249702245bbf447bf13_3376708c.jpeg",
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/61aee24970224508dc47bf08_61d3bd92.jpeg"
+    ],
+    "source_url": "https://www.2048.vc/companies",
+    "scraped_at": "2026-05-29T19:02:17Z"
+  },
+  {
+    "company_name": "Tangram",
+    "description": "Software for Automatic Calibration in Robotics.",
+    "founders": [
+      "Brandon Minor"
+    ],
+    "founder_titles": [
+      "CEO"
+    ],
+    "fund": "Seed +",
+    "location": "Denver",
+    "announcement_text": null,
+    "announcement_urls": [],
+    "company_profile_url": null,
+    "company_url": "https://www.tangramvision.com/",
+    "why_we_invested_url": "https://2048-ventures-7465.webflow.io/blog/our-investment-in-tangram-vision",
+    "founder_image_urls": [
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/6202875d1864f23632750cf6_Tangram%20Brandon%20(1).avif"
+    ],
+    "source_url": "https://www.2048.vc/companies",
+    "scraped_at": "2026-05-29T19:02:17Z"
+  },
+  {
+    "company_name": "Kanary",
+    "description": "Monitoring app for privacy protection and personal information on the internet.",
+    "founders": [
+      "Rachel Vrabec"
+    ],
+    "founder_titles": [
+      "CEO"
+    ],
+    "fund": "Pre-Seed",
+    "location": "Chicago",
+    "announcement_text": null,
+    "announcement_urls": [],
+    "company_profile_url": null,
+    "company_url": "https://www.thekanary.com/",
+    "why_we_invested_url": "https://www.2048.vc/blog/our-investment-in-kanary",
+    "founder_image_urls": [
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/61aed53bd211ad615612e4ea_66368c21.avif"
+    ],
+    "source_url": "https://www.2048.vc/companies",
+    "scraped_at": "2026-05-29T19:02:17Z"
+  },
+  {
+    "company_name": "CoolR Group",
+    "description": "Full out-of-the-box solution for brands and retailers to track assets (coolers and shelves).",
+    "founders": [
+      "Roy Mehta",
+      "Durlabh Jain"
+    ],
+    "founder_titles": [
+      "CEO",
+      "CTO"
+    ],
+    "fund": "Seed",
+    "location": "New York",
+    "announcement_text": null,
+    "announcement_urls": [],
+    "company_profile_url": null,
+    "company_url": "https://www.coolrgroup.com",
+    "why_we_invested_url": null,
+    "founder_image_urls": [
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/61aedef7db259864f68dae09_86b09bda.avif",
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/61aedef7db2598ef218dae08_42e83232.avif"
+    ],
+    "source_url": "https://www.2048.vc/companies",
+    "scraped_at": "2026-05-29T19:02:17Z"
+  },
+  {
+    "company_name": "Adaptis Technologies",
+    "description": "Circularity and carbon footprint optimization platform for buildings.",
+    "founders": [
+      "Sheida Shahi",
+      "Aida Mollaei"
+    ],
+    "founder_titles": [
+      "CEO",
+      "CTO"
+    ],
+    "fund": "Seed",
+    "location": "Toronto",
+    "announcement_text": null,
+    "announcement_urls": [],
+    "company_profile_url": null,
+    "company_url": "https://adaptis.ca/",
+    "why_we_invested_url": "https://www.2048.vc/blog/our-investment-in-adaptis",
+    "founder_image_urls": [
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/634ed532b4ffd42fe72ecf19_Adaptis%20Sheida.avif",
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/634ed55530de1668c4a3ed0b_Adaptis%20Aida.avif"
+    ],
+    "source_url": "https://www.2048.vc/companies",
+    "scraped_at": "2026-05-29T19:02:17Z"
+  },
+  {
+    "company_name": "FemTherapeutics",
+    "description": "Adjustable OTC gynecological prosthetics.",
+    "founders": [
+      "Inara Lalani",
+      "Negin Ashouri"
+    ],
+    "founder_titles": [
+      "Co-Founder"
+    ],
+    "fund": "Seed",
+    "location": "Montreal",
+    "announcement_text": null,
+    "announcement_urls": [],
+    "company_profile_url": null,
+    "company_url": "https://femtherapeutics.com/",
+    "why_we_invested_url": "https://www.2048.vc/blog/our-investment-in-femtherapeutics",
+    "founder_image_urls": [
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/640a21423a5b1d9ba0340e7f_FemThera%20Inara.avif",
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/640a211c306dade634fbf2f2_FemThera%20Negin.avif"
+    ],
+    "source_url": "https://www.2048.vc/companies",
+    "scraped_at": "2026-05-29T19:02:17Z"
+  },
+  {
+    "company_name": "Caravel Bio",
+    "description": "Engineered enzyme and protein carriers.",
+    "founders": [
+      "Trevor Nicks"
+    ],
+    "founder_titles": [
+      "CEO"
+    ],
+    "fund": "Pre-Seed",
+    "location": "Portland",
+    "announcement_text": null,
+    "announcement_urls": [],
+    "company_profile_url": null,
+    "company_url": "https://www.caravel.bio/",
+    "why_we_invested_url": null,
+    "founder_image_urls": [
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/682b4a2ba756e5c02293b2c1_Trevor.avif"
+    ],
+    "source_url": "https://www.2048.vc/companies",
+    "scraped_at": "2026-05-29T19:02:17Z"
+  },
+  {
+    "company_name": "KiraGen Bio",
+    "description": "Multiplex edited CAR-T cell therapies for solid tumors.",
+    "founders": [
+      "Aaron Edwards",
+      "Ryan Murray"
+    ],
+    "founder_titles": [
+      "CEO",
+      "CSO"
+    ],
+    "fund": "Pre-Seed",
+    "location": "Boston",
+    "announcement_text": null,
+    "announcement_urls": [],
+    "company_profile_url": null,
+    "company_url": "https://kiragenbio.com/",
+    "why_we_invested_url": null,
+    "founder_image_urls": [
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/6566266868b156f128c804d6_KiraGen%20Aaron.avif",
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/6566267d12bee7f8ae96cb7e_KiraGen%20Ryan.avif"
+    ],
+    "source_url": "https://www.2048.vc/companies",
+    "scraped_at": "2026-05-29T19:02:17Z"
+  },
+  {
+    "company_name": "Neobe Therapeutics",
+    "description": "Live biotherapeutics that disrupt solid tumors and enhance immunotherapy success.",
+    "founders": [
+      "Pedro Correa de Sampaio",
+      "Annelise Soulier"
+    ],
+    "founder_titles": [
+      "CEO",
+      "CSO"
+    ],
+    "fund": "Seed",
+    "location": "London",
+    "announcement_text": null,
+    "announcement_urls": [],
+    "company_profile_url": null,
+    "company_url": "https://www.neobetherapeutics.com/",
+    "why_we_invested_url": "https://www.2048.vc/blog/our-investment-in-neobe",
+    "founder_image_urls": [
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/6595bf0429387bbce0b17a58_Neobe%20Pedro.avif",
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/6595bf4f0681511c954be6a1_Neobe%20Annelise.avif"
+    ],
+    "source_url": "https://www.2048.vc/companies",
+    "scraped_at": "2026-05-29T19:02:17Z"
+  },
+  {
+    "company_name": "Ripple AI",
+    "description": "AI-powered email marketing for ecommerce brands.",
+    "founders": [
+      "Rohan Seth",
+      "Peter Lopez"
+    ],
+    "founder_titles": [
+      "CEO",
+      "COO"
+    ],
+    "fund": "Pre-Seed",
+    "location": "New York",
+    "announcement_text": null,
+    "announcement_urls": [],
+    "company_profile_url": null,
+    "company_url": "https://getripple.ai/",
+    "why_we_invested_url": "https://www.2048.vc/blog/our-investment-in-ripple",
+    "founder_image_urls": [
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/65d8cb350f64bcaa94bee8b1_Ripple%20Rohan.avif",
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/68782780499203af6c857298_Ripple%20Peter.avif"
+    ],
+    "source_url": "https://www.2048.vc/companies",
+    "scraped_at": "2026-05-29T19:02:17Z"
+  },
+  {
+    "company_name": "Tetsuwan Scientific",
+    "description": "Autonomous platforms for life sciences research.",
+    "founders": [
+      "Cristian Ponce",
+      "Théo Schäfer"
+    ],
+    "founder_titles": [
+      "CEO",
+      "CTO"
+    ],
+    "fund": "Pre-Seed",
+    "location": "Bay Area",
+    "announcement_text": null,
+    "announcement_urls": [],
+    "company_profile_url": null,
+    "company_url": "https://tetsuwan.com/",
+    "why_we_invested_url": "https://www.2048.vc/blog/our-investment-in-tetsuwan-scientific",
+    "founder_image_urls": [
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/6650ec0df866d218d9e95e21_Tetsuone%20Cristian.avif",
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/6650ec256d343e3281d6bbcb_Tetsuone%20Theo.avif"
+    ],
+    "source_url": "https://www.2048.vc/companies",
+    "scraped_at": "2026-05-29T19:02:17Z"
+  },
+  {
+    "company_name": "Variant AI",
+    "description": "The First Meme Game Social Platform.",
+    "founders": [
+      "Zoe Lynch"
+    ],
+    "founder_titles": [
+      "CEO"
+    ],
+    "fund": "Pre-Seed",
+    "location": "Bay Area",
+    "announcement_text": null,
+    "announcement_urls": [],
+    "company_profile_url": null,
+    "company_url": "https://www.tryvariant.ai/",
+    "why_we_invested_url": null,
+    "founder_image_urls": [
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/6824d26acaca2b604db6f6e0_Variant%20Zoe.avif"
+    ],
+    "source_url": "https://www.2048.vc/companies",
+    "scraped_at": "2026-05-29T19:02:17Z"
+  },
+  {
+    "company_name": "Julumuqi",
+    "description": "AR/AI powered copilot for tabletop games.",
+    "founders": [
+      "Mark Wilhelm",
+      "Zoe Cohen"
+    ],
+    "founder_titles": [
+      "CEO",
+      "CTO"
+    ],
+    "fund": "Pre-Seed",
+    "location": "Bay Area",
+    "announcement_text": null,
+    "announcement_urls": [],
+    "company_profile_url": null,
+    "company_url": "https://www.julumuqi.games/",
+    "why_we_invested_url": null,
+    "founder_image_urls": [
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/68bf0297591639e451827f8a_Julumuqi%20Mark.avif",
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/68bf02a7cbe0d9354be32699_Julumuqi%20Zoe.avif"
+    ],
+    "source_url": "https://www.2048.vc/companies",
+    "scraped_at": "2026-05-29T19:02:17Z"
+  },
+  {
+    "company_name": "Groundfloor",
+    "description": "A members’ club rethought from the ground up, offering flexible workspace and more.",
+    "founders": [
+      "Jamie Snedden",
+      "Jermaine R Ijieh",
+      "Leutrim Rexhepi"
+    ],
+    "founder_titles": [
+      "CEO",
+      "CPO",
+      "CTO"
+    ],
+    "fund": "Pre-Seed",
+    "location": "Bay Area",
+    "announcement_text": null,
+    "announcement_urls": [],
+    "company_profile_url": null,
+    "company_url": "https://www.groundfloorclub.com",
+    "why_we_invested_url": "https://2048-ventures-7465.webflow.io/blog/our-investment-in-groundfloor",
+    "founder_image_urls": [
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/61aee24b784f08c3bb77e48d_4df0da79.avif",
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/61aee24b784f084e2e77e48c_8f87afa0.avif",
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/61aee24b784f08558e77e48e_5fd2ff9b.avif"
+    ],
+    "source_url": "https://www.2048.vc/companies",
+    "scraped_at": "2026-05-29T19:02:17Z"
+  },
+  {
+    "company_name": "BioLM",
+    "description": "Protein and DNA language models at scale.",
+    "founders": [
+      "Nikhil Haas",
+      "Ahmad Qamar"
+    ],
+    "founder_titles": [
+      "CEO",
+      "CTO"
+    ],
+    "fund": "Pre-Seed",
+    "location": "Bay Area",
+    "announcement_text": null,
+    "announcement_urls": [],
+    "company_profile_url": null,
+    "company_url": "https://biolm.ai/ui/home/",
+    "why_we_invested_url": null,
+    "founder_image_urls": [
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/6410ce3c75988db9037c03ae_BioLM%20Nikhil.avif",
+      "https://cdn.prod.website-files.com/61959966f7800be4de555ae5/65d774de53c6c7714953c404_BioLM%20Ahmad.avif"
+    ],
+    "source_url": "https://www.2048.vc/companies",
+    "scraped_at": "2026-05-29T19:02:17Z"
+  }
+]

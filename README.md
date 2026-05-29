@@ -11,6 +11,8 @@ Small public-data scrapers that mirror VC portfolio pages into AI-readable files
 | Index Ventures | https://www.indexventures.com/companies/backed/all/ | `data/index_ventures/companies.json` | `data/index_ventures/companies.csv` |
 | Accel | https://www.accel.com/companies | `data/accel/companies.json` | `data/accel/companies.csv` |
 | General Catalyst | https://www.generalcatalyst.com/portfolio | `data/general_catalyst/companies.json` | `data/general_catalyst/companies.csv` |
+| 2048 Ventures | https://www.2048.vc/companies | `data/2048_ventures/companies.json` | `data/2048_ventures/companies.csv` |
+| Afore | https://www.afore.vc/portfolio | `data/afore/companies.json` | `data/afore/companies.csv` |
 
 ## Sequoia Scraper
 
@@ -56,6 +58,55 @@ Output fields:
 - `announcement_excerpt`
 - `social_urls`
 - `logo_url`
+- `source_url`
+- `scraped_at`
+
+Companies are deduplicated by normalized company name.
+
+## 2048 Ventures Scraper
+
+The 2048 Ventures scraper uses only public data from 2048 Ventures' official companies page.
+
+The page renders its Webflow CMS company collection directly in the public HTML. No cleaner embedded JSON or backend API was exposed in the page source, so the scraper parses the rendered CMS cards.
+
+Output fields:
+
+- `company_name`
+- `description`
+- `founders`
+- `founder_titles`
+- `fund`
+- `location`
+- `announcement_text`
+- `announcement_urls`
+- `company_profile_url`
+- `company_url`
+- `why_we_invested_url`
+- `founder_image_urls`
+- `source_url`
+- `scraped_at`
+
+Companies are deduplicated by normalized company name.
+
+## Afore Scraper
+
+The Afore scraper uses only public data from Afore's official portfolio page.
+
+The page renders a Webflow CMS portfolio collection in the public HTML and uses Finsweet pagination for visible cards. No cleaner embedded JSON or backend API was exposed in the page source. The scraper reads the full hidden list for complete company coverage, then follows the public Webflow pagination to enrich records with visible-card details where available.
+
+Output fields:
+
+- `company_name`
+- `description`
+- `sectors`
+- `location`
+- `afore_stage`
+- `current_stage`
+- `follow_on_investors`
+- `company_profile_url`
+- `company_url`
+- `logo_url`
+- `image_url`
 - `source_url`
 - `scraped_at`
 
@@ -155,6 +206,8 @@ python scripts/scrape_a16z.py
 python scripts/scrape_index_ventures.py
 python scripts/scrape_accel.py
 python scripts/scrape_general_catalyst.py
+python scripts/scrape_2048_ventures.py
+python scripts/scrape_afore.py
 ```
 
 On Windows PowerShell:
@@ -168,6 +221,8 @@ python scripts\scrape_a16z.py
 python scripts\scrape_index_ventures.py
 python scripts\scrape_accel.py
 python scripts\scrape_general_catalyst.py
+python scripts\scrape_2048_ventures.py
+python scripts\scrape_afore.py
 ```
 
 The scrapers write:
@@ -182,6 +237,10 @@ The scrapers write:
 - `data/accel/companies.csv`
 - `data/general_catalyst/companies.json`
 - `data/general_catalyst/companies.csv`
+- `data/2048_ventures/companies.json`
+- `data/2048_ventures/companies.csv`
+- `data/afore/companies.json`
+- `data/afore/companies.csv`
 
 ## Raw GitHub URLs
 
@@ -193,6 +252,8 @@ https://raw.githubusercontent.com/<OWNER>/<REPO>/main/data/a16z/companies.json
 https://raw.githubusercontent.com/<OWNER>/<REPO>/main/data/index_ventures/companies.json
 https://raw.githubusercontent.com/<OWNER>/<REPO>/main/data/accel/companies.json
 https://raw.githubusercontent.com/<OWNER>/<REPO>/main/data/general_catalyst/companies.json
+https://raw.githubusercontent.com/<OWNER>/<REPO>/main/data/2048_ventures/companies.json
+https://raw.githubusercontent.com/<OWNER>/<REPO>/main/data/afore/companies.json
 ```
 
 The raw CSV URLs will be:
@@ -203,13 +264,15 @@ https://raw.githubusercontent.com/<OWNER>/<REPO>/main/data/a16z/companies.csv
 https://raw.githubusercontent.com/<OWNER>/<REPO>/main/data/index_ventures/companies.csv
 https://raw.githubusercontent.com/<OWNER>/<REPO>/main/data/accel/companies.csv
 https://raw.githubusercontent.com/<OWNER>/<REPO>/main/data/general_catalyst/companies.csv
+https://raw.githubusercontent.com/<OWNER>/<REPO>/main/data/2048_ventures/companies.csv
+https://raw.githubusercontent.com/<OWNER>/<REPO>/main/data/afore/companies.csv
 ```
 
 Replace `<OWNER>/<REPO>` with your GitHub owner and repository name. If your default branch is not `main`, replace `main` with the default branch name.
 
 ## Automation
 
-`.github/workflows/update-portfolios.yml` runs the Sequoia, a16z, Index Ventures, Accel, and General Catalyst scrapers weekly and can also be started manually from the GitHub Actions tab. It commits updated JSON and CSV files back to the repository only when the generated files change.
+`.github/workflows/update-portfolios.yml` runs the Sequoia, a16z, Index Ventures, Accel, General Catalyst, 2048 Ventures, and Afore scrapers weekly and can also be started manually from the GitHub Actions tab. It commits updated JSON and CSV files back to the repository only when the generated files change.
 
 ## Adding More Firms
 
@@ -227,4 +290,6 @@ Keep each firm isolated:
 - Index Ventures: scraper implemented with JSON and CSV output.
 - Accel: scraper implemented with JSON and CSV output.
 - General Catalyst: scraper implemented with JSON and CSV output.
+- 2048 Ventures: scraper implemented with JSON and CSV output.
+- Afore: scraper implemented with JSON and CSV output.
 - Next: add additional VC firm scrapers under the same `data/<firm>/` layout.

@@ -1,0 +1,1860 @@
+[
+  {
+    "company_name": "AgentOps",
+    "description": "A benchmarking, testing, and compliance developer platform for building reliable AI agents.",
+    "sectors": [
+      "AI"
+    ],
+    "location": "Bay Area",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [
+      "645 Ventures"
+    ],
+    "company_profile_url": null,
+    "company_url": "https://www.agentops.ai/",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "Amicus Law",
+    "description": "A vertical AI solution for the legal space.",
+    "sectors": [
+      "AI"
+    ],
+    "location": "Remote",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [],
+    "company_profile_url": null,
+    "company_url": "https://amicuslaw.ai/",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "Andrena",
+    "description": "High speed wireless Internet at a fraction of the cost.",
+    "sectors": [
+      "Hardware"
+    ],
+    "location": "NYC",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [
+      "645 Ventures",
+      "Dragonfly Ventures"
+    ],
+    "company_profile_url": null,
+    "company_url": "https://andrena.com/",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "Arrow",
+    "description": "Fast and accurate healthcare payments for health plans and providers.",
+    "sectors": [
+      "Healthcare"
+    ],
+    "location": "NYC",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [
+      "Gradient Ventures"
+    ],
+    "company_profile_url": null,
+    "company_url": "https://arrowhq.com/",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "Baselayer",
+    "description": "Business Credit Bureau & all related aspects (B2B Fraud Prevention, KYB, Credit Score).",
+    "sectors": [
+      "AI"
+    ],
+    "location": "NYC",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [
+      "Torch Capital"
+    ],
+    "company_profile_url": null,
+    "company_url": "https://baselayerhq.com/",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "Basis",
+    "description": "Empowers your finance team to provide nextgen insights to the rest of the organization.",
+    "sectors": [
+      "SaaS"
+    ],
+    "location": "Bay Area",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [],
+    "company_profile_url": null,
+    "company_url": "https://basis.so/",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "BeatBread",
+    "description": "Platform that provides funding to musicians while allowing them to choose their partners and retain complete ownership.",
+    "sectors": [
+      "Consumer"
+    ],
+    "location": "LA",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [
+      "Deciens Capital"
+    ],
+    "company_profile_url": null,
+    "company_url": "https://beatbread.com/",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "Benchsci",
+    "description": "Machine learning platform that empowers biomedical scientists to plan and execute more successful experiments.",
+    "sectors": [
+      "SaaS"
+    ],
+    "location": "Canada",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [],
+    "company_profile_url": "https://www.afore.vc/success-stories/benchsci",
+    "company_url": "https://www.benchsci.com/",
+    "logo_url": "https://cdn.prod.website-files.com/62715edd66fdd7647a199f07/62715edd66fdd74d9f199f20_Mask%20group-7.png",
+    "image_url": "https://cdn.prod.website-files.com/62715edd66fdd7647a199f07/62715edd66fdd7398a199f1d_shutterstock_691541056.jpeg",
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "BetterUp",
+    "description": "Executive coaching for everyone.",
+    "sectors": [
+      "SaaS"
+    ],
+    "location": "Bay Area",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [],
+    "company_profile_url": "https://www.afore.vc/success-stories/betterup",
+    "company_url": "https://www.betterup.com/",
+    "logo_url": "https://cdn.prod.website-files.com/62715edd66fdd7647a199f07/62715edd66fdd7ddf6199f19_Mask%20group-4.png",
+    "image_url": "https://cdn.prod.website-files.com/62715edd66fdd7647a199f07/62715edd66fdd79c4a199f1a_Frame%20264.png",
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "Blooming Health",
+    "description": "Communications platform for social care organizations.",
+    "sectors": [
+      "Healthcare"
+    ],
+    "location": "NYC",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [
+      "Insight Venture Partner"
+    ],
+    "company_profile_url": null,
+    "company_url": "https://gobloominghealth.com/",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "BoxBot",
+    "description": "Modular warehouse automation for package delivery networks",
+    "sectors": [
+      "Hardware"
+    ],
+    "location": "Bay Area",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [
+      "Artiman Ventures",
+      "Toyota",
+      "Playground"
+    ],
+    "company_profile_url": null,
+    "company_url": "https://www.boxbot.io/",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "Bulkmro",
+    "description": "Marketplace for Maintenance, Repair & Operations Products in emerging markets.",
+    "sectors": [
+      "SaaS"
+    ],
+    "location": "India",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [
+      "ACE",
+      "Bain Capital"
+    ],
+    "company_profile_url": null,
+    "company_url": "https://bulkmro.com/",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "Bulletin",
+    "description": "Building brick and mortar stores for digital brands.",
+    "sectors": [
+      "Marketplace"
+    ],
+    "location": "NYC",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [
+      "Foundation Capital"
+    ],
+    "company_profile_url": null,
+    "company_url": "https://bulletin.co/",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "Candor",
+    "description": "Candor is the tool for remote managers to track wins, feedback, and more, all in one place.",
+    "sectors": [
+      "Consumer"
+    ],
+    "location": "Remote",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [
+      "Contrary"
+    ],
+    "company_profile_url": null,
+    "company_url": "https://www.joincandor.com/",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "Channelape",
+    "description": "Enterprise SaaS solution that combines a global fulfillment network with flexible FMS software to give enterprise D2C businesses the visibility and control they need.",
+    "sectors": [
+      "SaaS"
+    ],
+    "location": "NYC",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [
+      "Brand Foundry"
+    ],
+    "company_profile_url": null,
+    "company_url": "https://www.channelape.com/",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "CivilGrid",
+    "description": "Construction intelligence platform combining layers of utility.",
+    "sectors": [
+      "SaaS"
+    ],
+    "location": "Bay Area",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [
+      "A*"
+    ],
+    "company_profile_url": null,
+    "company_url": "https://www.civilgrid.com/",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "ConverzAI",
+    "description": "Harness the power of AI to help businesses scale, with near human engagement.",
+    "sectors": [
+      "AI"
+    ],
+    "location": "Seattle",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [
+      "Foundation Capital",
+      "Menlo Ventures"
+    ],
+    "company_profile_url": null,
+    "company_url": "https://www.converzai.com/",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "Dash",
+    "description": "AI agent for your daily tasks.",
+    "sectors": [
+      "AI"
+    ],
+    "location": "Bay Area",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [
+      "Y Combinator"
+    ],
+    "company_profile_url": null,
+    "company_url": "https://www.usedash.ai/",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "Datacurve",
+    "description": "Premium curated coding data for applications and LLMs.",
+    "sectors": [
+      "AI"
+    ],
+    "location": "Bay Area",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [],
+    "company_profile_url": null,
+    "company_url": "https://datacurve.ai/",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "Daylight Health",
+    "description": "Delivering insurance-covered mental health services through primary care.",
+    "sectors": [
+      "Healthcare"
+    ],
+    "location": "NYC",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [],
+    "company_profile_url": null,
+    "company_url": "https://www.daylight-health.com/",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "Develop Health",
+    "description": "Automated medication prior authorization.",
+    "sectors": [
+      "AI"
+    ],
+    "location": "Bay Area",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [],
+    "company_profile_url": null,
+    "company_url": "https://develophealth.io/",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "Drafted",
+    "description": "Company networks are underutilized for hiring.",
+    "sectors": [
+      "SaaS"
+    ],
+    "location": "Boston",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [],
+    "company_profile_url": null,
+    "company_url": "https://www.instawork.com/",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "Fabric",
+    "description": "AI-native workspace and file explorer for your digital world.",
+    "sectors": [
+      "AI"
+    ],
+    "location": "Europe",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [],
+    "company_profile_url": null,
+    "company_url": "https://fabric.so/",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "Factor",
+    "description": "Global Supply Unchained.",
+    "sectors": [
+      "AI"
+    ],
+    "location": "Boston",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [
+      "Gradient Ventures"
+    ],
+    "company_profile_url": null,
+    "company_url": "https://www.factor.io/",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "Flatfile",
+    "description": "Making customer spreadsheets accessible to software products with a turnkey data importer.",
+    "sectors": [
+      "SaaS"
+    ],
+    "location": "Denver",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [],
+    "company_profile_url": "https://www.afore.vc/success-stories/flatfile",
+    "company_url": "https://www.flatfile.io/",
+    "logo_url": "https://cdn.prod.website-files.com/62715edd66fdd7647a199f07/62715edd66fdd70973199f1f_Mask%20group-1.png",
+    "image_url": "https://cdn.prod.website-files.com/62715edd66fdd7647a199f07/62715edd66fdd7cc8d199f23_mike-kononov-lFv0V3_2H6s-unsplash.jpg",
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "Fleetpanda",
+    "description": "Managed marketplace for fleet services.",
+    "sectors": [
+      "SaaS"
+    ],
+    "location": "Bay Area",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [
+      "Mucker"
+    ],
+    "company_profile_url": null,
+    "company_url": "https://www.fleetpanda.com/",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "Flint",
+    "description": "Personalized learning, built for schools",
+    "sectors": [
+      "Consumer"
+    ],
+    "location": "NYC",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [
+      "Y Combinator"
+    ],
+    "company_profile_url": null,
+    "company_url": "https://flintk12.com/",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "Florida St.",
+    "description": "Decentralized P2P NFT lending platform with instant refinancing.",
+    "sectors": [
+      "Web3"
+    ],
+    "location": "Remote",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [
+      "Foundation Capital"
+    ],
+    "company_profile_url": null,
+    "company_url": "https://www.floridastreet.xyz/",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "FLYP",
+    "description": "Empowering the secondhand gig economy turning stuff into cash.",
+    "sectors": [
+      "Marketplace"
+    ],
+    "location": "Bay Area",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [
+      "Asymmetric Ventures"
+    ],
+    "company_profile_url": null,
+    "company_url": "https://www.joinflyp.com/",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "Gamma",
+    "description": "Build beautiful presentations with generative AI.",
+    "sectors": [
+      "AI"
+    ],
+    "location": "Bay Area",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [],
+    "company_profile_url": "https://www.afore.vc/success-stories/gamma-ws188",
+    "company_url": "http://gamma.app/",
+    "logo_url": "https://cdn.prod.website-files.com/62715edd66fdd7647a199f07/67c8cf31a62578af0a3a9e24_gamma%20logo.png",
+    "image_url": "https://cdn.prod.website-files.com/62715edd66fdd7647a199f07/67c8cfbaca6f06f91a71e372_gamma%20resized.png",
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "Gamma Networks",
+    "description": "Federated Data Access Management Platform.",
+    "sectors": [
+      "Security"
+    ],
+    "location": "Bay Area",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [],
+    "company_profile_url": null,
+    "company_url": "https://gammanet.com/",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "Glyf",
+    "description": "AI tools for motion graphics.",
+    "sectors": [
+      "AI"
+    ],
+    "location": "Bay Area",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [
+      "Andreesen Horowitz"
+    ],
+    "company_profile_url": null,
+    "company_url": "https://glyf.space/",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "Goldcast",
+    "description": "AI-first video content platform used by 400+ B2B brands to scale their video strategy.",
+    "sectors": [
+      "AI"
+    ],
+    "location": "Boston",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [
+      "Unusual Ventures",
+      "Westbridge"
+    ],
+    "company_profile_url": null,
+    "company_url": "https://goldcast.io/",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "Hardfin",
+    "description": "Embedded fintech platform for equipment manufacturers to offer white-labeled subscription solutions to their customers.",
+    "sectors": [
+      "FinTech"
+    ],
+    "location": "Remote",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [
+      "Better Tomorrow Ventures"
+    ],
+    "company_profile_url": null,
+    "company_url": "https://www.hardfin.com/",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "Healthnote",
+    "description": "Automating patient data collection and provider documentation.",
+    "sectors": [
+      "SaaS"
+    ],
+    "location": "Bay Area",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [
+      "Rainfall Ventures",
+      "Signal Fire"
+    ],
+    "company_profile_url": null,
+    "company_url": "https://www.healthnote.com/",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "Herald",
+    "description": "Digital infrastructure for commercial insurance.",
+    "sectors": [
+      "Insurtech"
+    ],
+    "location": "Boston",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [
+      "Lightspeed",
+      "Brewer Lane Ventures",
+      "Underscore VC"
+    ],
+    "company_profile_url": null,
+    "company_url": "https://www.heraldapi.com/",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "HeySam",
+    "description": "Virtual sales engineer powered by AI.",
+    "sectors": [
+      "AI"
+    ],
+    "location": "Bay Area",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [],
+    "company_profile_url": null,
+    "company_url": "https://heysam.ai/",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "Highlight",
+    "description": "Highlight helps businesses understand their users, with clarity.",
+    "sectors": [
+      "SaaS"
+    ],
+    "location": "Bay Area",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [
+      "Craft Ventures"
+    ],
+    "company_profile_url": null,
+    "company_url": "https://www.highlight.run/",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "Highnote",
+    "description": "Discuss and collaborate on any audio file.",
+    "sectors": [
+      "Consumer"
+    ],
+    "location": "NYC",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [
+      "BKXL"
+    ],
+    "company_profile_url": null,
+    "company_url": "https://www.highnote.fm/",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "Hightouch",
+    "description": "Hightouch helps businesses sync their customer data across sales and marketing tools.",
+    "sectors": [
+      "AI"
+    ],
+    "location": "Bay Area",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [],
+    "company_profile_url": "https://www.afore.vc/success-stories/hightouch",
+    "company_url": "https://hightouch.io/",
+    "logo_url": "https://cdn.prod.website-files.com/62715edd66fdd7647a199f07/62715edd66fdd705e5199f22_Mask%20group-2.png",
+    "image_url": "https://cdn.prod.website-files.com/62715edd66fdd7647a199f07/62715edd66fdd70517199f21_markus-spiske-hvSr_CVecVI-unsplash.jpg",
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "Honeybee",
+    "description": "World's first PTO loan.",
+    "sectors": [
+      "FinTech"
+    ],
+    "location": "LA",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [
+      "ffVC"
+    ],
+    "company_profile_url": null,
+    "company_url": "https://meethoneybee.com/",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "Honeycomb",
+    "description": "Observability for a distributed world.",
+    "sectors": [
+      "SaaS"
+    ],
+    "location": "Bay Area",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [
+      "Accel",
+      "Scale Venture Partners",
+      "Headline",
+      "Insight Venture Partner"
+    ],
+    "company_profile_url": null,
+    "company_url": "https://honeycomb.io/",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "Housable",
+    "description": "The home construction marketplace that automates design.",
+    "sectors": [
+      "SaaS"
+    ],
+    "location": "Bay Area",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [],
+    "company_profile_url": null,
+    "company_url": "https://housable.com/",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "Inngest",
+    "description": "The best code-automation platform for event-driven systems.",
+    "sectors": [
+      "Dev Tools"
+    ],
+    "location": "Bay Area",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [
+      "Notable",
+      "Andreesen Horowitz"
+    ],
+    "company_profile_url": null,
+    "company_url": "https://inngest.com/",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "Iterative.ai",
+    "description": "Open platform to operationalize AI",
+    "sectors": [
+      "B2B"
+    ],
+    "location": "Bay Area",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [
+      "True Ventures",
+      "468 Ventures"
+    ],
+    "company_profile_url": null,
+    "company_url": "http://Iterative.ai",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "Jabu",
+    "description": "B2B last-mile distribution marketplace for the informal economy in Southern Africa.",
+    "sectors": [
+      "Marketplace"
+    ],
+    "location": "Africa",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [
+      "Tiger Global"
+    ],
+    "company_profile_url": null,
+    "company_url": "https://gojabu.com/",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "Jetson",
+    "description": "Building the first fully vertically integrated home electrification company.",
+    "sectors": [
+      "Hardware"
+    ],
+    "location": "Canada",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [],
+    "company_profile_url": null,
+    "company_url": "https://jetsonhome.com/",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "Kairos",
+    "description": "Turn repetitive tasks into automated workflows.",
+    "sectors": [
+      "AI"
+    ],
+    "location": "Bay Area",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [],
+    "company_profile_url": null,
+    "company_url": "https://www.kairos.computer/",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "Keragon",
+    "description": "Automation platform for healthcare.",
+    "sectors": [
+      "AI"
+    ],
+    "location": "NYC",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [
+      "Upfront"
+    ],
+    "company_profile_url": null,
+    "company_url": "https://www.keragon.com/",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "Knock",
+    "description": "Knock is an API and low-code rule builder that manages in-app and out-of-app notifications for engineering and product teams.",
+    "sectors": [
+      "Dev Tools"
+    ],
+    "location": "NYC",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [
+      "Worklife VC",
+      "Craft Ventures"
+    ],
+    "company_profile_url": null,
+    "company_url": "https://knock.app/",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "Koala",
+    "description": "Koala is the SDK for Growth. We help growth engineers and demand gen leaders turn visitors on their marketing site into customers.",
+    "sectors": [
+      "Dev Tools"
+    ],
+    "location": "Bay Area",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [
+      "CRV"
+    ],
+    "company_profile_url": null,
+    "company_url": "https://home.koala.live/",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "Kroo",
+    "description": "Modern data management platform for the construction industry.",
+    "sectors": [
+      "AI"
+    ],
+    "location": "Bay Area",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [
+      "Suffolk Technologies"
+    ],
+    "company_profile_url": null,
+    "company_url": "https://www.getkroo.com/",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "Kubecost",
+    "description": "Real-time cost visibility for teams using Kubernetes.",
+    "sectors": [
+      "Dev Tools"
+    ],
+    "location": "Bay Area",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [
+      "First Round",
+      "Coatue"
+    ],
+    "company_profile_url": null,
+    "company_url": "https://www.kubecost.com/",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "Loop",
+    "description": "Fully automated delivery intelligence platform for modern food brands",
+    "sectors": [
+      "AI"
+    ],
+    "location": "Bay Area",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [
+      "Base10 Ventures",
+      "Nyca"
+    ],
+    "company_profile_url": null,
+    "company_url": "https://www.tryloop.ai/?ref=afore",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "Ludio",
+    "description": "One-stop shop for playing social deduction games over video chat in the browser.",
+    "sectors": [
+      "Gaming"
+    ],
+    "location": "Bay Area",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [],
+    "company_profile_url": null,
+    "company_url": "https://try.ludio.gg/",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "Mayhem",
+    "description": "Platform for Gaming Communities.",
+    "sectors": [
+      "Gaming"
+    ],
+    "location": "Bay Area",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [
+      "Accel"
+    ],
+    "company_profile_url": null,
+    "company_url": "https://mayhem.gg/",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "Memo",
+    "description": "Your notes and team wiki in one place.",
+    "sectors": [
+      "SaaS"
+    ],
+    "location": "Bay Area",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [],
+    "company_profile_url": null,
+    "company_url": "https://memo.ai/",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "Mesh",
+    "description": "Instant, on-demand and scalable verification of professionals to power your business.",
+    "sectors": [
+      "API"
+    ],
+    "location": "Seattle",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [
+      "Greycroft"
+    ],
+    "company_profile_url": null,
+    "company_url": "https://www.mesh.id/",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "Modern Health",
+    "description": "Emotional well-being benefits platform for employers.",
+    "sectors": [
+      "SaaS"
+    ],
+    "location": "Bay Area",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [],
+    "company_profile_url": "https://www.afore.vc/success-stories/modern-health",
+    "company_url": "https://www.joinmodernhealth.com/",
+    "logo_url": "https://cdn.prod.website-files.com/62715edd66fdd7647a199f07/62715edd66fdd75bde199f18_Mask%20group-3.png",
+    "image_url": "https://cdn.prod.website-files.com/62715edd66fdd7647a199f07/62715edd66fdd7720b199f17_Frame%20260.png",
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "Neo Financial",
+    "description": "Next-generation banking with spending, savings, and rewards built for Canadians.",
+    "sectors": [
+      "FinTech"
+    ],
+    "location": "Canada",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [],
+    "company_profile_url": "https://www.afore.vc/success-stories/neo-financial",
+    "company_url": "https://www.neofinancial.com/",
+    "logo_url": "https://cdn.prod.website-files.com/62715edd66fdd7647a199f07/62715edd66fdd78072199f40_Neo.png",
+    "image_url": "https://cdn.prod.website-files.com/62715edd66fdd7647a199f07/62715edd66fdd71098199f24_59240702-0-earn-an-average-of-4.png",
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "New Lantern",
+    "description": "The Radiology + AI cloud for healthcare.",
+    "sectors": [
+      "SaaS"
+    ],
+    "location": "Bay Area",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [
+      "Neo",
+      "Benchmark"
+    ],
+    "company_profile_url": null,
+    "company_url": "https://newlantern.ai/",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "Newme",
+    "description": "Next generation fashion marketplace for India.",
+    "sectors": [
+      "Consumer"
+    ],
+    "location": "India",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [
+      "Accel",
+      "Fireside"
+    ],
+    "company_profile_url": null,
+    "company_url": "https://newme.asia",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "ONYX",
+    "description": "Lifelike fitness instructors and classes for everyone.",
+    "sectors": [
+      "Consumer"
+    ],
+    "location": "Bay Area",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [],
+    "company_profile_url": null,
+    "company_url": "https://onyx.fit/",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "Openmart",
+    "description": "An AI alternative to Zoominfo. #1 most comprehensive and up-to-date local businesses data across the world, powered by AI.",
+    "sectors": [
+      "SaaS"
+    ],
+    "location": "Bay Area",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [
+      "Y Combinator"
+    ],
+    "company_profile_url": null,
+    "company_url": "https://openmart.ai/",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "Opennote",
+    "description": "The AI tutor that lives in your notes.",
+    "sectors": [
+      "AI"
+    ],
+    "location": "Bay Area",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [
+      "Y Combinator"
+    ],
+    "company_profile_url": null,
+    "company_url": "https://www.opennote.com/",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "Osana Salud",
+    "description": "Osana is building the API-connected infrastructure for the healthcare industry in LATAM.",
+    "sectors": [
+      "Healthcare"
+    ],
+    "location": "Latam",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [
+      "General Catalyst",
+      "Quiet Ventures"
+    ],
+    "company_profile_url": null,
+    "company_url": "https://www.osanasalud.com/en/",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "Overtime",
+    "description": "This generation's sports network.",
+    "sectors": [
+      "Consumer"
+    ],
+    "location": "NYC",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [],
+    "company_profile_url": "https://www.afore.vc/success-stories/overtime",
+    "company_url": "https://itsovertime.com/",
+    "logo_url": "https://cdn.prod.website-files.com/62715edd66fdd7647a199f07/62715edd66fdd7a827199f1b_Mask%20group-6.png",
+    "image_url": "https://cdn.prod.website-files.com/62715edd66fdd7647a199f07/68222db4ffe904bd8701aba9_overtime.png",
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "Palette",
+    "description": "Web performance, made easy.",
+    "sectors": [
+      "Dev Tools"
+    ],
+    "location": "Bay Area",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [],
+    "company_profile_url": null,
+    "company_url": "https://palette.dev/",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "Paperplane",
+    "description": "Generate reports from your video calls in a few clicks.",
+    "sectors": [
+      "SaaS"
+    ],
+    "location": "NYC",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [
+      "1984"
+    ],
+    "company_profile_url": null,
+    "company_url": "https://www.paperplane.ai/",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "Petal Card",
+    "description": "Credit that's honest, simple, and accessible.",
+    "sectors": [
+      "FinTech"
+    ],
+    "location": "NYC",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [
+      "Valar"
+    ],
+    "company_profile_url": null,
+    "company_url": "https://www.petalcard.com/",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "Pinch",
+    "description": "Build credit through your rent.",
+    "sectors": [
+      "FinTech"
+    ],
+    "location": "Bay Area",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [],
+    "company_profile_url": null,
+    "company_url": "https://pinchrent.com/",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "Pluto Health",
+    "description": "Smart health assistant that bridges siloed health data.",
+    "sectors": [
+      "Healthcare"
+    ],
+    "location": "LA",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [
+      "Animo"
+    ],
+    "company_profile_url": null,
+    "company_url": "https://www.pluto.health/",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "Podqi",
+    "description": "Monitoring, takedown, and retroactive compensation. One automated platform for IP protection.",
+    "sectors": [
+      "AI"
+    ],
+    "location": "Bay Area",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [
+      "General Catalyst",
+      "Soma Capital"
+    ],
+    "company_profile_url": null,
+    "company_url": "https://www.podqi.com/",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "Prism Data",
+    "description": "Leverage cash flow underwriting to better predict credit default risk and protect against fraud.",
+    "sectors": [
+      "FinTech"
+    ],
+    "location": "NYC",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [
+      "Obvious Ventures"
+    ],
+    "company_profile_url": null,
+    "company_url": "https://www.prismdata.com/",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "PromptArmor",
+    "description": "Security and compliance for AI agents and applications.",
+    "sectors": [
+      "Security"
+    ],
+    "location": "Bay Area",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [
+      "Liquid 2",
+      "Y Combinator"
+    ],
+    "company_profile_url": null,
+    "company_url": "https://promptarmor.com/",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "Pulse Protocol",
+    "description": "A secure marketplace for medical travelers.",
+    "sectors": [
+      "Healthcare"
+    ],
+    "location": "LA",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [
+      "Streetedge Capital"
+    ],
+    "company_profile_url": null,
+    "company_url": "https://www.pulseprotocol.com/patients",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "Radix Health",
+    "description": "Unlocking critical insights for healthcare services operators and investors.",
+    "sectors": [
+      "Healthcare"
+    ],
+    "location": "LA",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [],
+    "company_profile_url": null,
+    "company_url": "https://www.radixhealth.io/",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "Retain",
+    "description": "Understanding time and cost of customer interactions across roles and tools.",
+    "sectors": [
+      "SaaS"
+    ],
+    "location": "Bay Area",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [
+      "Emergence Capital"
+    ],
+    "company_profile_url": null,
+    "company_url": "https://www.retain.ai/",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "Rosie",
+    "description": "Never miss another call: AI answering service.",
+    "sectors": [
+      "Consumer"
+    ],
+    "location": "Portland",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [
+      "Felix",
+      "March Capital"
+    ],
+    "company_profile_url": null,
+    "company_url": "https://heyrosie.com/",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "Seel",
+    "description": "Seel enables any business to create and distribute relevant coverage plans to their customers.",
+    "sectors": [
+      "Insurtech"
+    ],
+    "location": "Bay Area",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [
+      "Foundation Capital",
+      "Lightspeed"
+    ],
+    "company_profile_url": null,
+    "company_url": "https://www.seel.com/",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "Shortwave",
+    "description": "Actually enjoy your inbox with a reinvented experience for email.",
+    "sectors": [
+      "AI"
+    ],
+    "location": "Bay Area",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [
+      "Lightspeed",
+      "Union Venture Square"
+    ],
+    "company_profile_url": null,
+    "company_url": "https://www.shortwave.com/",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "Sinai",
+    "description": "Enterprise software that helps to define a price on carbon emissions, manage carbon taxes and reduce emissions while having financial returns.",
+    "sectors": [
+      "SaaS"
+    ],
+    "location": "Bay Area",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [
+      "Obvious Ventures",
+      "Energize Capital"
+    ],
+    "company_profile_url": null,
+    "company_url": "https://www.sinaitechnologies.com/",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "Smile API",
+    "description": "A unified API for employment, income, and financial data in Asia.",
+    "sectors": [
+      "B2B"
+    ],
+    "location": "Southeast Asia",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [],
+    "company_profile_url": null,
+    "company_url": "https://www.getsmileapi.com/",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "Stag",
+    "description": "Company brain for institutional real estate.",
+    "sectors": [],
+    "location": null,
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [],
+    "company_profile_url": null,
+    "company_url": "https://www.usestag.com/",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "Stream",
+    "description": "Where creators become entrepreneurs.",
+    "sectors": [
+      "Marketplace"
+    ],
+    "location": "Bay Area",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [],
+    "company_profile_url": null,
+    "company_url": "https://stream.club/",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "Stress-Free",
+    "description": "Managed marketplace for automotive services.",
+    "sectors": [
+      "Consumer"
+    ],
+    "location": "Bay Area",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [
+      "Index",
+      "Forerunner"
+    ],
+    "company_profile_url": null,
+    "company_url": "https://www.stressfree.com/",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "Swept",
+    "description": "Helping office cleaning companies attract, manage and retain cleaning professionals.",
+    "sectors": [
+      "SaaS"
+    ],
+    "location": "Canada",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [],
+    "company_profile_url": null,
+    "company_url": "https://www.sweptworks.com/",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "TakeTwo",
+    "description": "A creative, pro-grade partner for filmmakers",
+    "sectors": [
+      "AI"
+    ],
+    "location": "Bay Area",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [],
+    "company_profile_url": null,
+    "company_url": "https://www.trytaketwo.com/",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "Terminal 49",
+    "description": "Hassle free container trucking.",
+    "sectors": [
+      "SaaS"
+    ],
+    "location": "Bay Area",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [
+      "Stage 2 Capital",
+      "Initialized"
+    ],
+    "company_profile_url": null,
+    "company_url": "https://www.terminal49.com/",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "The New Club",
+    "description": "Members-only network for women in engineering.",
+    "sectors": [
+      "B2B"
+    ],
+    "location": "Bay Area",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [],
+    "company_profile_url": null,
+    "company_url": "https://www.thenewclub.fyi/",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "Thoughtly",
+    "description": "Build your AI call center in minutes, without code.",
+    "sectors": [
+      "AI"
+    ],
+    "location": "NYC",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [
+      "Greycroft"
+    ],
+    "company_profile_url": null,
+    "company_url": "https://thoughtly.net/",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "Till Financial",
+    "description": "Helping parents raise kids that are smarter about money.",
+    "sectors": [
+      "FinTech"
+    ],
+    "location": "NYC",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [
+      "E Park"
+    ],
+    "company_profile_url": null,
+    "company_url": "https://tillfinancial.io/",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "Ultrarev",
+    "description": "Intentomatic surfaces buyer intent to Sales teams.",
+    "sectors": [
+      "SaaS"
+    ],
+    "location": "Bay Area",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [],
+    "company_profile_url": null,
+    "company_url": "https://intentomatic.com/",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "Unipe",
+    "description": "Payroll-backed credit for the Indian workforce.",
+    "sectors": [
+      "FinTech"
+    ],
+    "location": "India",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [],
+    "company_profile_url": null,
+    "company_url": "https://www.unipe.money/",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "UserEvidence",
+    "description": "UserEvidence helps B2B companies unlock customer love at scale. Enabling them to bring credible evidence, data, and customer stories to the center of their pitch.",
+    "sectors": [
+      "SaaS"
+    ],
+    "location": "Remote",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [
+      "Crosslink Capital"
+    ],
+    "company_profile_url": null,
+    "company_url": "https://www.userevidence.com/",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "VibeCode",
+    "description": "The app that builds mobile apps",
+    "sectors": [
+      "AI"
+    ],
+    "location": "Bay Area",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [
+      "Seven Seven Six",
+      "Long Journey",
+      "Neo"
+    ],
+    "company_profile_url": null,
+    "company_url": "https://www.vibecodeapp.com/?utm_souce=aforevc",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "Vibely",
+    "description": "Vibely powers next-gen communities led by creators.",
+    "sectors": [
+      "Consumer"
+    ],
+    "location": "Bay Area",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [],
+    "company_profile_url": null,
+    "company_url": "https://vibely.io/",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "Winnie",
+    "description": "Inspiration & insight for modern parents.",
+    "sectors": [
+      "Marketplace"
+    ],
+    "location": "Bay Area",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [
+      "Reach Capital",
+      "Unusual Ventures",
+      "Rethink Impact"
+    ],
+    "company_profile_url": null,
+    "company_url": "https://winnie.com/",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "Yaysay",
+    "description": "Unlocking exclusive discounts to top fashion brands.",
+    "sectors": [
+      "Consumer"
+    ],
+    "location": "Bay Area",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [
+      "Lightspeed"
+    ],
+    "company_profile_url": null,
+    "company_url": "https://www.shopyaysay.com/",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  },
+  {
+    "company_name": "Zuul Kitchen",
+    "description": "A place for virtual restaurants to call home.",
+    "sectors": [
+      "B2B"
+    ],
+    "location": "NYC",
+    "afore_stage": "AFORE PRE-SEED",
+    "current_stage": null,
+    "follow_on_investors": [],
+    "company_profile_url": null,
+    "company_url": "https://zuulkitchens.com/",
+    "logo_url": null,
+    "image_url": null,
+    "source_url": "https://www.afore.vc/portfolio",
+    "scraped_at": "2026-05-29T19:02:27Z"
+  }
+]
