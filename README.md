@@ -13,6 +13,7 @@ Small public-data scrapers that mirror VC portfolio pages into AI-readable files
 | General Catalyst | https://www.generalcatalyst.com/portfolio | `data/general_catalyst/companies.json` | `data/general_catalyst/companies.csv` |
 | 2048 Ventures | https://www.2048.vc/companies | `data/2048_ventures/companies.json` | `data/2048_ventures/companies.csv` |
 | Afore | https://www.afore.vc/portfolio | `data/afore/companies.json` | `data/afore/companies.csv` |
+| Lerer Hippeau | https://www.lererhippeau.com/portfolio | `data/lerer_hippeau/companies.json` | `data/lerer_hippeau/companies.csv` |
 
 ## Sequoia Scraper
 
@@ -112,6 +113,25 @@ Output fields:
 
 Companies are deduplicated by normalized company name.
 
+## Lerer Hippeau Scraper
+
+The Lerer Hippeau scraper uses only public data from Lerer Hippeau's official portfolio page.
+
+The page is a Webflow CMS site that renders its portfolio collection directly in the public HTML and paginates with Webflow's native pagination (`?c33e6893_page=N`). No cleaner embedded JSON or backend API was exposed in the page source, so the scraper parses the rendered CMS cards and follows the pagination links until every page is read. A featured collection is repeated on each page and overlaps the main alphabetical list, so records are deduplicated by normalized company name.
+
+Output fields:
+
+- `company_name`
+- `description`
+- `status`
+- `first_partnered_year`
+- `company_url`
+- `logo_url`
+- `source_url`
+- `scraped_at`
+
+`status` is `Exited` when the card carries an exit tag and `Active` otherwise. Companies are deduplicated by normalized company name.
+
 ## Accel Scraper
 
 The Accel scraper uses only public data from Accel's official companies page.
@@ -208,6 +228,7 @@ python scripts/scrape_accel.py
 python scripts/scrape_general_catalyst.py
 python scripts/scrape_2048_ventures.py
 python scripts/scrape_afore.py
+python scripts/scrape_lerer_hippeau.py
 ```
 
 On Windows PowerShell:
@@ -223,6 +244,7 @@ python scripts\scrape_accel.py
 python scripts\scrape_general_catalyst.py
 python scripts\scrape_2048_ventures.py
 python scripts\scrape_afore.py
+python scripts\scrape_lerer_hippeau.py
 ```
 
 The scrapers write:
@@ -241,6 +263,8 @@ The scrapers write:
 - `data/2048_ventures/companies.csv`
 - `data/afore/companies.json`
 - `data/afore/companies.csv`
+- `data/lerer_hippeau/companies.json`
+- `data/lerer_hippeau/companies.csv`
 
 ## Raw GitHub URLs
 
@@ -254,6 +278,7 @@ https://raw.githubusercontent.com/<OWNER>/<REPO>/main/data/accel/companies.json
 https://raw.githubusercontent.com/<OWNER>/<REPO>/main/data/general_catalyst/companies.json
 https://raw.githubusercontent.com/<OWNER>/<REPO>/main/data/2048_ventures/companies.json
 https://raw.githubusercontent.com/<OWNER>/<REPO>/main/data/afore/companies.json
+https://raw.githubusercontent.com/<OWNER>/<REPO>/main/data/lerer_hippeau/companies.json
 ```
 
 The raw CSV URLs will be:
@@ -266,13 +291,14 @@ https://raw.githubusercontent.com/<OWNER>/<REPO>/main/data/accel/companies.csv
 https://raw.githubusercontent.com/<OWNER>/<REPO>/main/data/general_catalyst/companies.csv
 https://raw.githubusercontent.com/<OWNER>/<REPO>/main/data/2048_ventures/companies.csv
 https://raw.githubusercontent.com/<OWNER>/<REPO>/main/data/afore/companies.csv
+https://raw.githubusercontent.com/<OWNER>/<REPO>/main/data/lerer_hippeau/companies.csv
 ```
 
 Replace `<OWNER>/<REPO>` with your GitHub owner and repository name. If your default branch is not `main`, replace `main` with the default branch name.
 
 ## Automation
 
-`.github/workflows/update-portfolios.yml` runs the Sequoia, a16z, Index Ventures, Accel, General Catalyst, 2048 Ventures, and Afore scrapers weekly and can also be started manually from the GitHub Actions tab. It commits updated JSON and CSV files back to the repository only when the generated files change.
+`.github/workflows/update-portfolios.yml` runs the Sequoia, a16z, Index Ventures, Accel, General Catalyst, 2048 Ventures, Afore, and Lerer Hippeau scrapers weekly and can also be started manually from the GitHub Actions tab. It commits updated JSON and CSV files back to the repository only when the generated files change.
 
 ## Adding More Firms
 
@@ -292,4 +318,5 @@ Keep each firm isolated:
 - General Catalyst: scraper implemented with JSON and CSV output.
 - 2048 Ventures: scraper implemented with JSON and CSV output.
 - Afore: scraper implemented with JSON and CSV output.
+- Lerer Hippeau: scraper implemented with JSON and CSV output.
 - Next: add additional VC firm scrapers under the same `data/<firm>/` layout.

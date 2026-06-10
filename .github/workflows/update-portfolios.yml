@@ -47,12 +47,15 @@ jobs:
       - name: Run Afore scraper
         run: python scripts/scrape_afore.py
 
+      - name: Run Lerer Hippeau scraper
+        run: python scripts/scrape_lerer_hippeau.py
+
       - name: Commit data updates
         run: |
-          if [[ -n "$(git status --porcelain data/sequoia/companies.json data/sequoia/companies.csv data/a16z/companies.json data/a16z/companies.csv data/index_ventures/companies.json data/index_ventures/companies.csv data/accel/companies.json data/accel/companies.csv data/general_catalyst/companies.json data/general_catalyst/companies.csv data/2048_ventures/companies.json data/2048_ventures/companies.csv data/afore/companies.json data/afore/companies.csv)" ]]; then
+          if [[ -n "$(git status --porcelain data/sequoia/companies.json data/sequoia/companies.csv data/a16z/companies.json data/a16z/companies.csv data/index_ventures/companies.json data/index_ventures/companies.csv data/accel/companies.json data/accel/companies.csv data/general_catalyst/companies.json data/general_catalyst/companies.csv data/2048_ventures/companies.json data/2048_ventures/companies.csv data/afore/companies.json data/afore/companies.csv data/lerer_hippeau/companies.json data/lerer_hippeau/companies.csv)" ]]; then
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add data/sequoia/companies.json data/sequoia/companies.csv data/a16z/companies.json data/a16z/companies.csv data/index_ventures/companies.json data/index_ventures/companies.csv data/accel/companies.json data/accel/companies.csv data/general_catalyst/companies.json data/general_catalyst/companies.csv data/2048_ventures/companies.json data/2048_ventures/companies.csv data/afore/companies.json data/afore/companies.csv
+            git add data/sequoia/companies.json data/sequoia/companies.csv data/a16z/companies.json data/a16z/companies.csv data/index_ventures/companies.json data/index_ventures/companies.csv data/accel/companies.json data/accel/companies.csv data/general_catalyst/companies.json data/general_catalyst/companies.csv data/2048_ventures/companies.json data/2048_ventures/companies.csv data/afore/companies.json data/afore/companies.csv data/lerer_hippeau/companies.json data/lerer_hippeau/companies.csv
             git commit -m "Update portfolio data"
             git push
           else
