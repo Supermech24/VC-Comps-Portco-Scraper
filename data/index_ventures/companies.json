@@ -25,34 +25,7 @@
       "https://www.indexventures.com/perspectives/5-lessons-from-winning-marketplaces/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
-  },
-  {
-    "company_name": "7AI",
-    "description": "7AI is the first agentic security platform that harnesses the speed, swarming capabilities, and power of AI to finally give defenders the advantage over evolving threats.",
-    "sectors": [
-      "AI/ML",
-      "Security"
-    ],
-    "regions": [],
-    "backed": [],
-    "index_team": [
-      "Shardul Shah",
-      "Juriaan Duizendstraal"
-    ],
-    "founders": [
-      "Lior Div",
-      "Yonatan Amit"
-    ],
-    "ticker_symbol": null,
-    "company_profile_url": "https://www.indexventures.com/companies/7ai/",
-    "company_url": "http://7ai.com",
-    "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
-    "featured_content_urls": [
-      "https://www.indexventures.com/perspectives/securitys-agentic-era-starts-here-our-investment-in-7ai/"
-    ],
-    "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Abacus.ai",
@@ -80,32 +53,7 @@
       "https://www.indexventures.com/perspectives/bringing-ai-businesses-everywhere/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
-  },
-  {
-    "company_name": "Adallom",
-    "description": "Adallom is a SaaS security pioneer, which enhances the way enterprises secure information in SaaS by monitoring all activity, detecting unauthorised access and protecting users in real time.",
-    "sectors": [
-      "Security"
-    ],
-    "regions": [
-      "Asia",
-      "North America"
-    ],
-    "backed": [],
-    "index_team": [
-      "Shardul Shah"
-    ],
-    "founders": [],
-    "ticker_symbol": "Microsoft",
-    "company_profile_url": "https://www.indexventures.com/companies/adallom/",
-    "company_url": "http://adallom.com",
-    "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
-    "featured_content_urls": [
-      "https://www.indexventures.com/perspectives/investing-in-the-enterprise-in-2015/"
-    ],
-    "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Adaptive ML",
@@ -132,7 +80,7 @@
       "https://www.indexventures.com/perspectives/relationship/adaptive-ml/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Adfin",
@@ -159,7 +107,7 @@
       "https://www.indexventures.com/perspectives/relationship/adfin/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Adyen",
@@ -189,7 +137,7 @@
       "https://www.indexventures.com/perspectives/relationship/adyen/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Adzuna",
@@ -215,7 +163,7 @@
     "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
     "featured_content_urls": [],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Alan",
@@ -246,7 +194,7 @@
       "https://www.indexventures.com/perspectives/relationship/alan/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Albert",
@@ -271,64 +219,7 @@
       "https://www.indexventures.com/perspectives/built-by-scientists-for-scientists-albert-invent-is-reimagining-the-5t-global-chemicals-market/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
-  },
-  {
-    "company_name": "Algolia",
-    "description": "Algolia offers a SaaS search API built for developers to deliver real-time, typo-tolerant and location aware search in their applications and websites.",
-    "sectors": [
-      "Data"
-    ],
-    "regions": [
-      "Europe"
-    ],
-    "backed": [
-      "backed at Seed (all)"
-    ],
-    "index_team": [
-      "Martin Mignot"
-    ],
-    "founders": [
-      "Bernadette Nixon",
-      "Julien Lemoine",
-      "Nicolas Dessaigne"
-    ],
-    "ticker_symbol": null,
-    "company_profile_url": "https://www.indexventures.com/companies/algolia/",
-    "company_url": "http://algolia.com",
-    "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
-    "featured_content_urls": [],
-    "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
-  },
-  {
-    "company_name": "Alkemics",
-    "description": "Alkemics is a smart data expert providing online services for FMCG companies with solutions that allow brands to manage and share all product information across all channels and push relevant content according to each customer profile.",
-    "sectors": [
-      "Business Applications",
-      "Retail"
-    ],
-    "regions": [
-      "Europe"
-    ],
-    "backed": [],
-    "index_team": [
-      "Dominique Vidal"
-    ],
-    "founders": [
-      "Antoine Durieux",
-      "Antoine Perrin",
-      "Benoit Portoleau"
-    ],
-    "ticker_symbol": null,
-    "company_profile_url": "https://www.indexventures.com/companies/alkemics/",
-    "company_url": "http://alkemics.com",
-    "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
-    "featured_content_urls": [
-      "https://www.indexventures.com/perspectives/alkemics-raises-22m-to-digitize-collaboration-between-manufacturers-and-retailers/"
-    ],
-    "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Allara",
@@ -354,7 +245,7 @@
       "https://www.indexventures.com/perspectives/relationship/allara-health/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Ando",
@@ -378,7 +269,7 @@
     "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
     "featured_content_urls": [],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Anine Bing",
@@ -402,7 +293,7 @@
       "https://www.indexventures.com/perspectives/anine-bing-closes-15m-series-a-financing-round-in-august-2018-led-by-index-ventures/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "ankar.ai",
@@ -429,7 +320,7 @@
       "https://www.indexventures.com/perspectives/relationship/ankarai/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Ankorstore",
@@ -459,7 +350,7 @@
       "https://www.indexventures.com/perspectives/ankorstore-the-fastest-growing-european-b2b-marketplace-reaches-unicorn-status-in-only-two-years-with-250-m-funding/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Anrok",
@@ -482,36 +373,7 @@
       "https://www.indexventures.com/perspectives/a-50-year-old-tax-code-wasnt-built-for-saas-companies/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
-  },
-  {
-    "company_name": "Anthropic",
-    "description": "Anthropic is an AI safety and research company working to build reliable, interpretable, and steerable AI systems.",
-    "sectors": [
-      "AI/ML"
-    ],
-    "regions": [],
-    "backed": [
-      "backed by Index"
-    ],
-    "index_team": [
-      "Nina Achadjian",
-      "Martin Mignot",
-      "Vlad Loktev"
-    ],
-    "founders": [
-      "Dario Amodei",
-      "Daniela Amodei"
-    ],
-    "ticker_symbol": null,
-    "company_profile_url": "https://www.indexventures.com/companies/anthropic/",
-    "company_url": "http://anthropic.com",
-    "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
-    "featured_content_urls": [
-      "https://www.indexventures.com/perspectives/acts-of-claude-building-with-agents-a-work-in-progress/"
-    ],
-    "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Apex",
@@ -538,7 +400,7 @@
       "https://www.indexventures.com/perspectives/apex-emerges-from-stealth-with-7-million-in-seed-funding-to-empower-secure-enterprise-ai-adoption/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "ApplyBoard Inc.",
@@ -563,7 +425,7 @@
       "https://www.indexventures.com/perspectives/accessing-international-education-just-got-easier/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Apron",
@@ -591,7 +453,7 @@
       "https://www.indexventures.com/perspectives/relationship/apron/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Argent",
@@ -617,34 +479,7 @@
     "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
     "featured_content_urls": [],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
-  },
-  {
-    "company_name": "Arista Networks",
-    "description": "Arista Networks delivers software driven cloud networking solutions for large data center and high-performance computing environments. With more than two million cloud networking ports being deployed worldwide, Arista delivers a portfolio of 1/10/40 and 100GbE products that redefine network architectures, bring extensibility to networking, and dramatically change the price/performance of data center networks.",
-    "sectors": [
-      "Data"
-    ],
-    "regions": [
-      "North America"
-    ],
-    "backed": [],
-    "index_team": [
-      "Mike Volpi"
-    ],
-    "founders": [
-      "Jayshree Ullal",
-      "Andy Bechtolsheim",
-      "David Cheriton",
-      "Kenneth Duda"
-    ],
-    "ticker_symbol": "NYSE:ANET",
-    "company_profile_url": "https://www.indexventures.com/companies/arista-networks/",
-    "company_url": "http://arista.com",
-    "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
-    "featured_content_urls": [],
-    "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Arondite",
@@ -671,7 +506,7 @@
       "https://www.indexventures.com/perspectives/arondite-raises-12m-to-unlock-safe-scalable-human-machine-teaming-with-ai/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "ArthurAI",
@@ -701,7 +536,7 @@
       "https://www.indexventures.com/perspectives/arthurai-missing-piece-modern-ai-stack/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Ascend",
@@ -724,32 +559,7 @@
     "image_url": "https://www.indexventures.com/media/images/ascend.2e16d0ba.fill-1200x630.format-png.png",
     "featured_content_urls": [],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
-  },
-  {
-    "company_name": "ASOS",
-    "description": "ASOS is a global multi-channel fashion and beauty destination visited by millions of twenty-something shoppers and fashion-lovers every day.",
-    "sectors": [
-      "Retail"
-    ],
-    "regions": [
-      "Europe"
-    ],
-    "backed": [],
-    "index_team": [
-      "Dominique Vidal"
-    ],
-    "founders": [
-      "Nick Robertson",
-      "Quentin Griffiths"
-    ],
-    "ticker_symbol": "LSE:ASC",
-    "company_profile_url": "https://www.indexventures.com/companies/asos/",
-    "company_url": "http://asos.com",
-    "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
-    "featured_content_urls": [],
-    "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Astelia",
@@ -775,7 +585,7 @@
       "https://www.indexventures.com/perspectives/astelia-raises-35m-to-turn-exposure-management-from-guesswork-into-ai-powered-precision/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Atlantic Money",
@@ -798,7 +608,7 @@
     "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
     "featured_content_urls": [],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Atlar",
@@ -829,7 +639,7 @@
       "https://www.indexventures.com/perspectives/relationship/atlar/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "AttackIQ",
@@ -855,7 +665,7 @@
       "https://www.indexventures.com/perspectives/attackiq-secures-176-million-in-series-b-financing/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Augment",
@@ -879,7 +689,7 @@
     "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
     "featured_content_urls": [],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Aurora",
@@ -908,7 +718,7 @@
       "https://www.indexventures.com/perspectives/relationship/aurora/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Auxmoney",
@@ -936,7 +746,7 @@
     "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
     "featured_content_urls": [],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Backbone",
@@ -959,7 +769,7 @@
       "https://www.indexventures.com/perspectives/relationship/backbone/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "BallerTV",
@@ -983,7 +793,7 @@
     "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
     "featured_content_urls": [],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Beam",
@@ -1006,7 +816,7 @@
       "https://www.indexventures.com/perspectives/the-infrastructure-of-impactful-commerce/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Beamery",
@@ -1037,7 +847,7 @@
       "https://www.indexventures.com/perspectives/relationship/beamery/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Beauty Pie",
@@ -1066,7 +876,7 @@
       "https://www.indexventures.com/perspectives/relationship/beauty-pie/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Because",
@@ -1089,7 +899,7 @@
     "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
     "featured_content_urls": [],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Behavox",
@@ -1113,33 +923,7 @@
     "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
     "featured_content_urls": [],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
-  },
-  {
-    "company_name": "Betfair",
-    "description": "Founded in 1999, Betfair pioneered the first successful Betting Exchange. Today it provides a full range of sports betting and gaming products to 1m customers. Betfair is one of the largest online betting and gaming operators in the UK market and has a global reach, with customers in more than 100 countries.",
-    "sectors": [
-      "Entertainment"
-    ],
-    "regions": [
-      "Europe"
-    ],
-    "backed": [],
-    "index_team": [
-      "Neil Rimer",
-      "Danny Rimer"
-    ],
-    "founders": [
-      "Andrew Black",
-      "Edward Wray"
-    ],
-    "ticker_symbol": "LSE:BET",
-    "company_profile_url": "https://www.indexventures.com/companies/betfair/",
-    "company_url": "http://betfair.com",
-    "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
-    "featured_content_urls": [],
-    "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Bigger Games",
@@ -1170,7 +954,7 @@
       "https://www.indexventures.com/perspectives/relationship/bigger-games/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Big Health",
@@ -1198,7 +982,7 @@
       "https://www.indexventures.com/perspectives/big-health-raises-12m-to-bring-evidence-based-digital-medicine-to-millions/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Bird",
@@ -1225,7 +1009,7 @@
       "https://www.indexventures.com/perspectives/relationship/bird/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Birdie",
@@ -1253,7 +1037,7 @@
     "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
     "featured_content_urls": [],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "BIT ODD",
@@ -1284,7 +1068,7 @@
       "https://www.indexventures.com/perspectives/relationship/bit-odd/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "BitPay",
@@ -1309,7 +1093,7 @@
     "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
     "featured_content_urls": [],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "BlaBlaCar",
@@ -1338,7 +1122,7 @@
       "https://www.indexventures.com/perspectives/blablacar-secures-a-100-million-round-to-transform-city-to-city-travel-around-the/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Bloom & Wild",
@@ -1365,60 +1149,7 @@
       "https://www.indexventures.com/perspectives/bloom-wild-secures-75m-in-funding-and-reports-160-growth-as-it-expands-its-flower-delivery-and-gifting-business-across-europe/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
-  },
-  {
-    "company_name": "Blue Bottle Coffee",
-    "description": "Blue Bottle Coffee is an Oakland and Brooklyn-based online coffee company, with a small network of cafes, wholesale partners, an espresso cart and some vintage German coffee roasters.",
-    "sectors": [
-      "Retail"
-    ],
-    "regions": [
-      "North America"
-    ],
-    "backed": [],
-    "index_team": [
-      "Mike Volpi"
-    ],
-    "founders": [
-      "Bryan Meehan",
-      "James Freeman"
-    ],
-    "ticker_symbol": "OTCMKTS:NSRGY",
-    "company_profile_url": "https://www.indexventures.com/companies/blue-bottle-coffee/",
-    "company_url": "http://bluebottlecoffee.com",
-    "image_url": "https://www.indexventures.com/media/images/hires_05.19_17_IVR_247.2e16d0ba.fill-1200x630.format-png.png",
-    "featured_content_urls": [
-      "https://www.indexventures.com/perspectives/blue-bottle-coffee-raises-70-million/"
-    ],
-    "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
-  },
-  {
-    "company_name": "Boku",
-    "description": "Boku, the leading operator billing and cross-platform mobile payments company, brings bank-grade payments technology and mobile users together, creating a trusted, accessible platform for consumers, merchants and operators alike. Based in San Francisco with offices in Europe, Latin America and Asia, Boku reaches nearly 4 billion consumers worldwide, across 70 countries with more than 270 operators.",
-    "sectors": [
-      "Fintech"
-    ],
-    "regions": [
-      "Europe",
-      "North America"
-    ],
-    "backed": [],
-    "index_team": [
-      "Danny Rimer"
-    ],
-    "founders": [
-      "Jon Prideaux",
-      "Mark Britto"
-    ],
-    "ticker_symbol": "LON:BOKU",
-    "company_profile_url": "https://www.indexventures.com/companies/boku/",
-    "company_url": "http://boku.com",
-    "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
-    "featured_content_urls": [],
-    "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Boulevard",
@@ -1441,32 +1172,7 @@
       "https://www.indexventures.com/perspectives/beautiful-software-beauty-industry/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
-  },
-  {
-    "company_name": "Brightback",
-    "description": "Customer retention made easy",
-    "sectors": [
-      "Business Applications"
-    ],
-    "regions": [],
-    "backed": [],
-    "index_team": [
-      "Shardul Shah"
-    ],
-    "founders": [
-      "Cory Watilo",
-      "Guy Marion"
-    ],
-    "ticker_symbol": "Chargebee",
-    "company_profile_url": "https://www.indexventures.com/companies/brightback/",
-    "company_url": "http://brightback.com",
-    "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
-    "featured_content_urls": [
-      "https://www.indexventures.com/perspectives/brightback-launches-with-11-million-in-funding-to-lead-automated-customer-retention/"
-    ],
-    "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "BrightGo",
@@ -1489,7 +1195,7 @@
       "https://www.indexventures.com/perspectives/brightgo-raises-3m-to-digitally-transform-americas-fifth-largest-job-sector-janitorial-services/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "BrightHire",
@@ -1512,7 +1218,7 @@
     "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
     "featured_content_urls": [],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "BRINC",
@@ -1537,7 +1243,7 @@
       "https://www.indexventures.com/perspectives/relationship/brinc/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Built",
@@ -1563,7 +1269,7 @@
       "https://www.indexventures.com/perspectives/relationship/built/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Capitolis",
@@ -1592,38 +1298,7 @@
       "https://www.indexventures.com/perspectives/relationship/capitolis/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
-  },
-  {
-    "company_name": "Captain Train",
-    "description": "Capitaine Train was founded in 2009 by three software engineers with a unique goal: to reinvent the way we book train tickets. By facilitating bookings from multiple rail operators, and building intuitive online booking tools, Capitaine Train takes the pain out of booking train tickets in Europe.",
-    "sectors": [
-      "Mobility"
-    ],
-    "regions": [
-      "Europe"
-    ],
-    "backed": [
-      "backed at Seed (all)"
-    ],
-    "index_team": [
-      "Martin Mignot",
-      "Neil Rimer"
-    ],
-    "founders": [
-      "Jean-Daniel Guyot",
-      "Martin Ottenwaelter",
-      "Valentin Surrel"
-    ],
-    "ticker_symbol": "Trainline",
-    "company_profile_url": "https://www.indexventures.com/companies/captain-train/",
-    "company_url": "http://captaintrain.com",
-    "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
-    "featured_content_urls": [
-      "https://www.indexventures.com/perspectives/next-stop-europe-captain-train-joins-trainline/"
-    ],
-    "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "cargo.one",
@@ -1651,7 +1326,7 @@
       "https://www.indexventures.com/perspectives/cargoone-the-worlds-first-real-time-booking-engine-for-air-cargo-raises-186m-to-expand-to-north-america-and-asia/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Cartesia",
@@ -1682,7 +1357,7 @@
       "https://www.indexventures.com/perspectives/building-the-next-generation-of-real-time-ai-models-our-investment-in-cartesia/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Castle",
@@ -1710,7 +1385,7 @@
       "https://www.indexventures.com/perspectives/relationship/castle/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Catch",
@@ -1737,7 +1412,7 @@
     "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
     "featured_content_urls": [],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Causaly",
@@ -1765,31 +1440,7 @@
       "https://www.indexventures.com/perspectives/relationship/causaly/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
-  },
-  {
-    "company_name": "Centrify",
-    "description": "Centrify secures identities against cyberthreats that target today’s hybrid IT environment of cloud, mobile and on-premises. Its Identity Platform protects against the leading point of attack used in data breaches ― compromised credentials —by securing enterprises’ internal and external users in addition to privileged accounts.",
-    "sectors": [
-      "Security"
-    ],
-    "regions": [
-      "North America"
-    ],
-    "backed": [],
-    "index_team": [],
-    "founders": [
-      "Tom Kemp",
-      "Adam Au",
-      "Paul Moore"
-    ],
-    "ticker_symbol": null,
-    "company_profile_url": "https://www.indexventures.com/companies/centrify/",
-    "company_url": "http://centrify.com",
-    "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
-    "featured_content_urls": [],
-    "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Check",
@@ -1812,7 +1463,7 @@
     "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
     "featured_content_urls": [],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "CipherCloud",
@@ -1834,7 +1485,7 @@
     "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
     "featured_content_urls": [],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Citymapper",
@@ -1860,7 +1511,7 @@
     "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
     "featured_content_urls": [],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Class Companion",
@@ -1883,7 +1534,7 @@
     "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
     "featured_content_urls": [],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "ClickHouse",
@@ -1912,33 +1563,7 @@
       "https://www.indexventures.com/perspectives/relationship/clickhouse/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
-  },
-  {
-    "company_name": "Climate",
-    "description": "The Climate Corporation enables smart farming by protecting the world’s $3tn farming industry from adverse weather with uniquely powerful software and customisable insurance products. Climate was acquired by Monsanto in October 2013.",
-    "sectors": [
-      "Fintech"
-    ],
-    "regions": [
-      "North America"
-    ],
-    "backed": [
-      "backed at Seed (all)"
-    ],
-    "index_team": [
-      "Neil Rimer"
-    ],
-    "founders": [
-      "David Friedberg"
-    ],
-    "ticker_symbol": "NYSE:MON",
-    "company_profile_url": "https://www.indexventures.com/companies/climate/",
-    "company_url": "http://climate.com",
-    "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
-    "featured_content_urls": [],
-    "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Clumio",
@@ -1964,7 +1589,7 @@
     "image_url": "https://www.indexventures.com/media/images/CLUMIO-FOUNDERS-1-800p.2e16d0ba.fill-1200x630.format-png.png",
     "featured_content_urls": [],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Coalition",
@@ -1991,7 +1616,7 @@
       "https://www.indexventures.com/perspectives/behind-the-scenes-coalition/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Cockroach Labs",
@@ -2021,7 +1646,7 @@
       "https://www.indexventures.com/perspectives/relationship/cockroach-labs/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Cocoon",
@@ -2046,7 +1671,7 @@
       "https://www.indexventures.com/perspectives/employee-leave-made-easy-cocoon-powers-seamless-transitions-from-our-lives-inside-and-outside-the-office/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Codat",
@@ -2077,7 +1702,7 @@
       "https://www.indexventures.com/perspectives/relationship/codat/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Codecademy",
@@ -2098,7 +1723,7 @@
     "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
     "featured_content_urls": [],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "CodeSignal, Inc.",
@@ -2126,7 +1751,7 @@
       "https://www.indexventures.com/perspectives/beyond-the-resume-announcing-our-50m-series-c-in-codesignal/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Cohere",
@@ -2154,7 +1779,7 @@
       "https://www.indexventures.com/perspectives/cohere-and-the-ai-hype-cycle/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Collibra",
@@ -2183,7 +1808,7 @@
       "https://www.indexventures.com/perspectives/relationship/collibra/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Common Room",
@@ -2215,7 +1840,7 @@
       "https://www.indexventures.com/perspectives/relationship/common-room/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "ComplyAdvantage",
@@ -2244,7 +1869,7 @@
       "https://www.indexventures.com/perspectives/relationship/complyadvantage/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Conduct",
@@ -2268,10 +1893,12 @@
     "ticker_symbol": null,
     "company_profile_url": "https://www.indexventures.com/companies/conduct/",
     "company_url": "http://conduct.ai",
-    "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
-    "featured_content_urls": [],
+    "image_url": "https://www.indexventures.com/media/images/82dde84d-e74c-4bb2-b2b.605da6c8.fill-1200x630.format-png.png",
+    "featured_content_urls": [
+      "https://www.indexventures.com/perspectives/conduct-a-world-where-corporates-move-at-startup-speed/"
+    ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Confluent",
@@ -2304,7 +1931,7 @@
       "https://www.indexventures.com/perspectives/relationship/confluent/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Cord",
@@ -2331,7 +1958,7 @@
       "https://www.indexventures.com/perspectives/cord-raises-175m-to-add-social-multiplayer-collaboration-to-any-app-or-product-and-announces-typeform-partnership/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Covariant.ai",
@@ -2360,33 +1987,7 @@
       "https://www.indexventures.com/perspectives/relationship/covariantai/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
-  },
-  {
-    "company_name": "CoverWallet",
-    "description": "CoverWallet is the easiest way to understand, buy and manage insurance for your business. It combines data, design and technology to help small businesses deal with their insurance needs with a few clicks.",
-    "sectors": [
-      "Fintech"
-    ],
-    "regions": [
-      "North America"
-    ],
-    "backed": [],
-    "index_team": [],
-    "founders": [
-      "Inaki Berenguer",
-      "Rashmi Melgiri"
-    ],
-    "ticker_symbol": "NYSE:AON",
-    "company_profile_url": "https://www.indexventures.com/companies/coverwallet/",
-    "company_url": "http://coverwallet.com",
-    "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
-    "featured_content_urls": [
-      "https://www.indexventures.com/perspectives/aon-acquire-coverwallet-leading-digital-insurance-platform-small-and-medium-sized-businesses/",
-      "https://www.indexventures.com/perspectives/relationship/coverwallet/"
-    ],
-    "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Cowboy",
@@ -2416,7 +2017,7 @@
       "https://www.indexventures.com/perspectives/relationship/cowboy/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Cowboy Space",
@@ -2442,7 +2043,7 @@
       "https://www.indexventures.com/perspectives/delivering-energy-to-planet-earth-our-investment-in-aetherflux/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Cradle",
@@ -2471,7 +2072,7 @@
       "https://www.indexventures.com/perspectives/relationship/cradlebio/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Creative Juice",
@@ -2497,7 +2098,7 @@
       "https://www.indexventures.com/perspectives/relationship/creative-juice/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Credit Benchmark",
@@ -2522,32 +2123,7 @@
     "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
     "featured_content_urls": [],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
-  },
-  {
-    "company_name": "Criteo",
-    "description": "Criteo, which went public in September 2013, is the global leader in digital performance display advertising, partnering with over 3,000 international advertisers to deliver highly-targeted campaigns.",
-    "sectors": [
-      "Media"
-    ],
-    "regions": [
-      "North America",
-      "Europe"
-    ],
-    "backed": [],
-    "index_team": [
-      "Dominique Vidal"
-    ],
-    "founders": [
-      "Gregory Gazagne"
-    ],
-    "ticker_symbol": "NASDAQ: CRTO",
-    "company_profile_url": "https://www.indexventures.com/companies/criteo/",
-    "company_url": "http://criteo.com",
-    "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
-    "featured_content_urls": [],
-    "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Crosby",
@@ -2573,7 +2149,7 @@
       "https://www.indexventures.com/perspectives/contracts-at-the-speed-of-business-our-investment-in-crosby/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Crossing Minds",
@@ -2595,7 +2171,7 @@
     "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
     "featured_content_urls": [],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Culture Amp",
@@ -2627,30 +2203,7 @@
       "https://www.indexventures.com/perspectives/relationship/culture-amp/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
-  },
-  {
-    "company_name": "Curbside",
-    "description": "Curbside (acquired by Rakuten in 2018) is reinventing the local shopping experience by making it faster and easier for consumers to find, buy and pick up products at local stores.",
-    "sectors": [
-      "Retail"
-    ],
-    "regions": [
-      "North America"
-    ],
-    "backed": [],
-    "index_team": [],
-    "founders": [
-      "Jaron Waldman",
-      "Denis Laprise"
-    ],
-    "ticker_symbol": "Rakuten",
-    "company_profile_url": "https://www.indexventures.com/companies/curbside/",
-    "company_url": "https://global.rakuten.com/corp/",
-    "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
-    "featured_content_urls": [],
-    "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Curtsy",
@@ -2677,7 +2230,7 @@
       "https://www.indexventures.com/perspectives/everyone-is-a-seller/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Cutover",
@@ -2701,7 +2254,7 @@
       "https://www.indexventures.com/perspectives/cutover-raises-17-million-accelerate-enterprise-transformation-and-operational-excellence/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Datadog",
@@ -2730,7 +2283,7 @@
       "https://www.indexventures.com/perspectives/datadog-woof-woof/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "DataSnipper",
@@ -2763,7 +2316,7 @@
       "https://www.indexventures.com/perspectives/relationship/datasnipper/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Daydream",
@@ -2792,7 +2345,7 @@
       "https://www.indexventures.com/perspectives/relationship/daydream/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Decagon",
@@ -2818,7 +2371,7 @@
       "https://www.indexventures.com/perspectives/investing-in-decagon-rigor-speed-and-a-new-concierge-model-for-customer-experience/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "DeepL",
@@ -2845,7 +2398,7 @@
       "https://www.indexventures.com/perspectives/fluency-is-currency-deepl/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Deepnote",
@@ -2871,7 +2424,7 @@
       "https://www.indexventures.com/perspectives/creating-data-masterpieces-our-investment-in-deepnote/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "DeepScribe",
@@ -2896,7 +2449,7 @@
     "image_url": "https://www.indexventures.com/media/images/Deepscribe-22.2e16d0ba.fill-1200x630.format-png.png",
     "featured_content_urls": [],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Deliveroo",
@@ -2930,7 +2483,7 @@
       "https://www.indexventures.com/perspectives/relationship/deliveroo/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "/dev/agents",
@@ -2957,7 +2510,7 @@
       "https://www.indexventures.com/perspectives/the-operating-system-for-ai-agents-our-investment-in-devagents/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Discord",
@@ -2983,30 +2536,7 @@
       "https://www.indexventures.com/perspectives/relationship/discord/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
-  },
-  {
-    "company_name": "Dorsia",
-    "description": "A members-only platform with access to coveted reservations at the most in-demand restaurants and events in cities around the globe.",
-    "sectors": [
-      "Entertainment"
-    ],
-    "regions": [],
-    "backed": [],
-    "index_team": [
-      "Martin Mignot"
-    ],
-    "founders": [
-      "Marc Lotenberg",
-      "Joshua Stern"
-    ],
-    "ticker_symbol": null,
-    "company_profile_url": "https://www.indexventures.com/companies/dorsia/",
-    "company_url": "http://dorsia.com",
-    "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
-    "featured_content_urls": [],
-    "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Dot Product",
@@ -3027,7 +2557,7 @@
     "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
     "featured_content_urls": [],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Double",
@@ -3053,7 +2583,7 @@
       "https://www.indexventures.com/perspectives/supercharging-humans-the-rise-of-tech-enabled-services/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "DraftWise",
@@ -3081,7 +2611,7 @@
       "https://www.indexventures.com/perspectives/relationship/draftwise/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Dream Games",
@@ -3114,65 +2644,7 @@
       "https://www.indexventures.com/perspectives/relationship/dream-games/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
-  },
-  {
-    "company_name": "Drivy",
-    "description": "Drivy is a peer-to-peer car rental service with a mission to put a shared car at every street-corner in Europe.",
-    "sectors": [
-      "Mobility"
-    ],
-    "regions": [
-      "Europe"
-    ],
-    "backed": [],
-    "index_team": [
-      "Martin Mignot",
-      "Dominique Vidal"
-    ],
-    "founders": [
-      "Paulin Dementhon"
-    ],
-    "ticker_symbol": "Getaround",
-    "company_profile_url": "https://www.indexventures.com/companies/drivy/",
-    "company_url": "http://drivy.com",
-    "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
-    "featured_content_urls": [
-      "https://www.indexventures.com/perspectives/getaround-acquires-europes-largest-carsharing-platform-drivy/",
-      "https://www.indexventures.com/perspectives/relationship/drivy/"
-    ],
-    "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
-  },
-  {
-    "company_name": "Dropbox",
-    "description": "Dropbox is a modern workspace designed to reduce busywork-so you can focus on the things that matter.",
-    "sectors": [
-      "Business Applications",
-      "Future Of Work"
-    ],
-    "regions": [
-      "North America"
-    ],
-    "backed": [
-      "backed by Index"
-    ],
-    "index_team": [
-      "Danny Rimer"
-    ],
-    "founders": [
-      "Drew Houston",
-      "Arash Ferdowsi"
-    ],
-    "ticker_symbol": "NASDAQ:DBX",
-    "company_profile_url": "https://www.indexventures.com/companies/dropbox/",
-    "company_url": "http://dropbox.com",
-    "image_url": "https://www.indexventures.com/media/images/IV_Relationships_Image_UpwuVda.2e16d0ba.fill-1200x630.format-png.png",
-    "featured_content_urls": [
-      "https://www.indexventures.com/perspectives/dropbox-announces-pricing-of-initial-public-offering/"
-    ],
-    "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Duffel",
@@ -3201,7 +2673,7 @@
       "https://www.indexventures.com/perspectives/duffel-reinvents-infrastructure-behind-online-travel-booking/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Duna",
@@ -3229,61 +2701,7 @@
       "https://www.indexventures.com/perspectives/relationship/duna/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
-  },
-  {
-    "company_name": "Duo",
-    "description": "Duo combines security expertise with a user-centered philosophy to provide two-factor authentication, endpoint remediation and secure single sign-on tools for the modern era.",
-    "sectors": [
-      "Security"
-    ],
-    "regions": [
-      "North America"
-    ],
-    "backed": [],
-    "index_team": [
-      "Shardul Shah"
-    ],
-    "founders": [
-      "Dug Song",
-      "Jon Oberheide"
-    ],
-    "ticker_symbol": "NASDAQ:CSCO",
-    "company_profile_url": "https://www.indexventures.com/companies/duo/",
-    "company_url": "http://duo.com",
-    "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
-    "featured_content_urls": [
-      "https://www.indexventures.com/perspectives/duo-security-has-agreed-to-be-acquired-by-cisco-for-235bn/",
-      "https://www.indexventures.com/perspectives/relationship/duo/"
-    ],
-    "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
-  },
-  {
-    "company_name": "EDITED",
-    "description": "Providing real-time fashion industry analytics, EDITED runs the world’s biggest apparel data warehouse, shaping decision-making at the world’s foremost fashion retailers.",
-    "sectors": [
-      "Business Applications",
-      "Retail"
-    ],
-    "regions": [
-      "Europe"
-    ],
-    "backed": [
-      "backed at Seed (all)"
-    ],
-    "index_team": [],
-    "founders": [
-      "Geoff Watts",
-      "Julia Fowler"
-    ],
-    "ticker_symbol": null,
-    "company_profile_url": "https://www.indexventures.com/companies/edited/",
-    "company_url": "http://edited.com",
-    "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
-    "featured_content_urls": [],
-    "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Eisen",
@@ -3308,42 +2726,7 @@
     "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
     "featured_content_urls": [],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
-  },
-  {
-    "company_name": "Elastic",
-    "description": "Founded in 2012 by the people behind the popular open source project Elasticsearch, Elastic provides software products for developers, startups and enterprises to make massive amounts of complex structured and unstructured data usable. By focusing on scalability, ease-of-use, and ease-of-integration, Elastic’s products are used for real-time search, logging, analytics, and security to power internal and external applications for organizations like Cisco, eBay, Goldman Sachs, Groupon, Microsoft, NASA, Netflix, OpenTable, Yelp, and Wikipedia.",
-    "sectors": [
-      "Data",
-      "Open Source"
-    ],
-    "regions": [
-      "Europe",
-      "North America"
-    ],
-    "backed": [
-      "backed by Index"
-    ],
-    "index_team": [
-      "Mike Volpi"
-    ],
-    "founders": [
-      "Shay Banon",
-      "Simon Willnauer",
-      "Steven Schuurman",
-      "Uri Boness"
-    ],
-    "ticker_symbol": "NYSE:ESTC",
-    "company_profile_url": "https://www.indexventures.com/companies/elastic/",
-    "company_url": "http://elastic.co",
-    "image_url": "https://www.indexventures.com/media/images/elasticglobalallhandss.2e16d0ba.fill-1200x630.format-png.png",
-    "featured_content_urls": [
-      "https://www.indexventures.com/perspectives/elastic-the-evolution-of-open-source/",
-      "https://www.indexventures.com/perspectives/a-look-inside-elastics-distributed-people-first-culture/",
-      "https://www.indexventures.com/perspectives/relationship/elastic/"
-    ],
-    "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Elementl",
@@ -3365,7 +2748,7 @@
     "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
     "featured_content_urls": [],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Empathy",
@@ -3392,7 +2775,7 @@
       "https://www.indexventures.com/perspectives/relationship/empathy/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "EthonAI",
@@ -3419,35 +2802,7 @@
       "https://www.indexventures.com/perspectives/ethonai-series-a/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
-  },
-  {
-    "company_name": "Etsy",
-    "description": "The marketplace for handmade and vintage items, art and supplies, Etsy has created a global community of likeminded people, who are powering a sustainable new economy by using the internet to reconnect makers with buyers.",
-    "sectors": [
-      "Retail"
-    ],
-    "regions": [
-      "North America"
-    ],
-    "backed": [
-      "backed by Index"
-    ],
-    "index_team": [
-      "Danny Rimer"
-    ],
-    "founders": [
-      "Robert Kalin"
-    ],
-    "ticker_symbol": "NASDAQ: ETSY",
-    "company_profile_url": "https://www.indexventures.com/companies/etsy/",
-    "company_url": "http://etsy.com",
-    "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
-    "featured_content_urls": [
-      "https://www.indexventures.com/perspectives/creator-manifesto/"
-    ],
-    "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "evervault",
@@ -3471,7 +2826,7 @@
       "https://www.indexventures.com/perspectives/evervault-raises-16m-series-ensure-everyone-has-data-privacy/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Expel",
@@ -3499,54 +2854,7 @@
       "https://www.indexventures.com/perspectives/relationship/expel/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
-  },
-  {
-    "company_name": "Facebook",
-    "description": "Facebook is a social network with a mission to make the world more open and connected.",
-    "sectors": [
-      "Media"
-    ],
-    "regions": [
-      "North America"
-    ],
-    "backed": [],
-    "index_team": [
-      "Danny Rimer"
-    ],
-    "founders": [
-      "Mark Zuckerberg"
-    ],
-    "ticker_symbol": "NASDAQ: FB",
-    "company_profile_url": "https://www.indexventures.com/companies/facebook/",
-    "company_url": "http://facebook.com",
-    "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
-    "featured_content_urls": [],
-    "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
-  },
-  {
-    "company_name": "FACEIT",
-    "description": "FACEIT is the premier platform for gamers to compete on their favourite games. Powered by a number of proprietary features, including its fully automated tournament management system and the FACEIT Matchmaking algorithm, FACEIT allows gamers to easily play tournaments and leagues and get rewarded for their efforts and skills with virtual and real life prizes. FACEIT TV, renowned for the production and broadcasting of some of the highest quality events in eSports, offers visibility to those players that make it to the final challenges.",
-    "sectors": [
-      "Entertainment"
-    ],
-    "regions": [
-      "Europe"
-    ],
-    "backed": [],
-    "index_team": [],
-    "founders": [
-      "Niccolo Maisto",
-      "Michele Attisani"
-    ],
-    "ticker_symbol": null,
-    "company_profile_url": "https://www.indexventures.com/companies/faceit/",
-    "company_url": "http://faceit.com",
-    "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
-    "featured_content_urls": [],
-    "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Factual",
@@ -3572,34 +2880,7 @@
       "https://www.indexventures.com/perspectives/e2809coffer-stock-options-wherever-possiblee2809d-factual-founder-gil-elbaze28099s-10/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
-  },
-  {
-    "company_name": "Farfetch",
-    "description": "The world’s biggest online marketplace for independent fashion boutiques, farfetch acts as ‘curator to the curators’, uniting 250 of the finest fashion boutiques from 15 countries (across Europe, the U.S., and Brazil) and bringing them to a global audience.",
-    "sectors": [
-      "Retail"
-    ],
-    "regions": [
-      "Europe"
-    ],
-    "backed": [],
-    "index_team": [
-      "Danny Rimer"
-    ],
-    "founders": [
-      "Jose Neves"
-    ],
-    "ticker_symbol": "NYSE: FTCH",
-    "company_profile_url": "https://www.indexventures.com/companies/farfetch/",
-    "company_url": "http://farfetch.com",
-    "image_url": "https://www.indexventures.com/media/images/joseneves_y90EB08.2e16d0ba.fill-1200x630.format-png.png",
-    "featured_content_urls": [
-      "https://www.indexventures.com/perspectives/high-fashion-and-tech-turned-farfetch-into-a-luxury-powerhouse/",
-      "https://www.indexventures.com/perspectives/relationship/farfetch/"
-    ],
-    "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Feathery",
@@ -3619,7 +2900,7 @@
     "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
     "featured_content_urls": [],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Figma",
@@ -3652,7 +2933,7 @@
       "https://www.indexventures.com/perspectives/relationship/figma/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Fireblocks",
@@ -3678,7 +2959,7 @@
     "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
     "featured_content_urls": [],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Fireworks AI",
@@ -3711,7 +2992,7 @@
       "https://www.indexventures.com/perspectives/inference-is-the-new-runtime-our-investment-in-fireworks/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Flagship",
@@ -3731,7 +3012,7 @@
     "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
     "featured_content_urls": [],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Flapping Airplanes",
@@ -3760,7 +3041,7 @@
       "https://www.indexventures.com/perspectives/taking-flight-our-investment-in-flapping-airplanes/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "flatfair",
@@ -3786,7 +3067,7 @@
     "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
     "featured_content_urls": [],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Flipboard",
@@ -3811,7 +3092,7 @@
     "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
     "featured_content_urls": [],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Fonoa",
@@ -3843,7 +3124,7 @@
       "https://www.indexventures.com/perspectives/relationship/fonoa/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Footprint",
@@ -3868,7 +3149,7 @@
       "https://www.indexventures.com/perspectives/footprint-emerges-from-stealth-to-transform-digital-identity/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Frame Security",
@@ -3895,7 +3176,7 @@
       "https://www.indexventures.com/perspectives/solving-the-human-risk-problem-in-security-our-investment-in-frame/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Funding Circle",
@@ -3925,7 +3206,7 @@
       "https://www.indexventures.com/perspectives/relationship/funding-circle/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Garner Health",
@@ -3950,7 +3231,7 @@
     "image_url": "https://www.indexventures.com/media/images/20241029_Nick_Reber_00.7aae898e.fill-1200x630.format-png.png",
     "featured_content_urls": [],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Gather",
@@ -3978,7 +3259,7 @@
       "https://www.indexventures.com/perspectives/relationship/gather/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Gatsby",
@@ -4001,35 +3282,7 @@
       "https://www.indexventures.com/perspectives/community-everything-how-gatsby-built-industry-defining-business/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
-  },
-  {
-    "company_name": "GeoPhy",
-    "description": "GeoPhy aims to transform antiquated commercial real estate (CRE) processes with data-driven valuations and analytics powered by machine learning.",
-    "sectors": [
-      "Business Applications",
-      "Fintech"
-    ],
-    "regions": [
-      "Europe"
-    ],
-    "backed": [],
-    "index_team": [
-      "Jan Hammer"
-    ],
-    "founders": [
-      "Sander Mulders",
-      "Teun Van Den Dries"
-    ],
-    "ticker_symbol": "Walker & Dunlop",
-    "company_profile_url": "https://www.indexventures.com/companies/geophy/",
-    "company_url": "http://geophy.com",
-    "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
-    "featured_content_urls": [
-      "https://www.indexventures.com/perspectives/ai-powered-property-valuation-platform-geophy-secures-33m-to-bring-transparency-to/"
-    ],
-    "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "GetHarley",
@@ -4058,7 +3311,7 @@
       "https://www.indexventures.com/perspectives/relationship/getharley/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Glossier",
@@ -4086,7 +3339,7 @@
       "https://www.indexventures.com/perspectives/relationship/glossier/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "GOAT",
@@ -4114,7 +3367,7 @@
       "https://www.indexventures.com/perspectives/relationship/goat/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Gong",
@@ -4142,7 +3395,7 @@
       "https://www.indexventures.com/perspectives/finally-voice-ai-tech-work/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Good Eggs",
@@ -4171,7 +3424,7 @@
       "https://www.indexventures.com/perspectives/relationship/good-eggs/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Goody",
@@ -4193,7 +3446,7 @@
     "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
     "featured_content_urls": [],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Grailed",
@@ -4217,7 +3470,7 @@
       "https://www.indexventures.com/perspectives/curated-fashion-marketplace-grailed-raises-15-million-in-series-a-funding/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Granola",
@@ -4245,7 +3498,7 @@
       "https://www.indexventures.com/perspectives/granola-investing-in-what-makes-us-human/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Greg",
@@ -4269,7 +3522,7 @@
       "https://www.indexventures.com/perspectives/shining-a-light-into-the-living-world/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Gremlin",
@@ -4292,32 +3545,7 @@
     "image_url": "https://www.indexventures.com/media/images/hourglass349.2e16d0ba.fill-1200x630.format-png.png",
     "featured_content_urls": [],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
-  },
-  {
-    "company_name": "Gruppo MutuiOnline",
-    "description": "Gruppo MutuiOnline is a financial services company focusing on the Italian market, where it is the leading online retail credit broker, with two separate web sites specializing on mortgages and personal loans , and a major provider of credit-related outsourcing services. The company recently started an online insurance aggregator and a bank account comparison business.",
-    "sectors": [
-      "Fintech"
-    ],
-    "regions": [
-      "Europe"
-    ],
-    "backed": [],
-    "index_team": [
-      "Giuseppe Zocco"
-    ],
-    "founders": [
-      "Alessandro Fracassi",
-      "Marco Pescarmona"
-    ],
-    "ticker_symbol": "IM:MOL",
-    "company_profile_url": "https://www.indexventures.com/companies/gruppo-mutuionline/",
-    "company_url": "http://gruppomol.it",
-    "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
-    "featured_content_urls": [],
-    "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Harmonic",
@@ -4346,7 +3574,7 @@
       "https://www.indexventures.com/perspectives/relationship/harmonic/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Hebbia",
@@ -4373,7 +3601,7 @@
       "https://www.indexventures.com/perspectives/relationship/hebbiaai/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Hoop",
@@ -4400,41 +3628,7 @@
       "https://www.indexventures.com/perspectives/ai-powered-productivity-startup-hoop-announces-5m-in-seed-funding-for-to-do-list-that-updates-itself/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
-  },
-  {
-    "company_name": "Hortonworks",
-    "description": "Advancing digital transformation with an Enterprise Data Cloud from the Edge to AI.",
-    "sectors": [
-      "Data",
-      "Open Source"
-    ],
-    "regions": [
-      "North America"
-    ],
-    "backed": [],
-    "index_team": [
-      "Mike Volpi"
-    ],
-    "founders": [
-      "Rob Bearden",
-      "Alan Gates",
-      "Arun Murthy",
-      "Mahadev Konar",
-      "Owen O'Malley",
-      "Sanjay Radia",
-      "Suresh Srinivas"
-    ],
-    "ticker_symbol": "NYSE:CLDR",
-    "company_profile_url": "https://www.indexventures.com/companies/hortonworks/",
-    "company_url": "http://hortonworks.com",
-    "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
-    "featured_content_urls": [
-      "https://www.indexventures.com/perspectives/from-fringe-to-mainstream-the-revolution-of-open-source-software/",
-      "https://www.indexventures.com/perspectives/relationship/hortonworks/"
-    ],
-    "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Humanloop",
@@ -4462,7 +3656,7 @@
       "https://www.indexventures.com/perspectives/humanloop-launches-a-suite-of-tools-to-help-humans-teach-ai-algorithms/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Humu",
@@ -4490,7 +3684,7 @@
       "https://www.indexventures.com/perspectives/humu-laszlo-bocks-brilliant-new-vision-of-human-resources/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Hutch Games",
@@ -4519,7 +3713,7 @@
       "https://www.indexventures.com/perspectives/relationship/hutch-games/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Hyperline",
@@ -4546,7 +3740,7 @@
       "https://www.indexventures.com/perspectives/relationship/hyperline/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Ideogram AI",
@@ -4568,7 +3762,7 @@
     "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
     "featured_content_urls": [],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Immersive Gamebox",
@@ -4593,7 +3787,7 @@
       "https://www.indexventures.com/perspectives/electronic-theatre-secures-86-million-in-series-a-funding/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "incident.io",
@@ -4624,7 +3818,7 @@
       "https://www.indexventures.com/perspectives/relationship/incident/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Inherent",
@@ -4654,7 +3848,7 @@
       "https://www.indexventures.com/perspectives/inherent-designing-for-discovery/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Instabase",
@@ -4677,7 +3871,7 @@
       "https://www.indexventures.com/perspectives/relationship/instabase/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Intercom",
@@ -4705,7 +3899,7 @@
       "https://www.indexventures.com/perspectives/intercom-announces-125-million-series-d-round/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Iterable",
@@ -4729,32 +3923,7 @@
       "https://www.indexventures.com/perspectives/iterable-raises-23m-and-announces-new-in-app-messaging-features/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
-  },
-  {
-    "company_name": "iZettle",
-    "description": "iZettle is a social payments company, enabling secure and seamless P2P and B2C commerce on the go, via tablets and smart-phones",
-    "sectors": [
-      "Fintech"
-    ],
-    "regions": [
-      "Europe"
-    ],
-    "backed": [],
-    "index_team": [],
-    "founders": [
-      "Jacob de Geer",
-      "Magnus Nilsson"
-    ],
-    "ticker_symbol": "PayPal",
-    "company_profile_url": "https://www.indexventures.com/companies/izettle/",
-    "company_url": "http://izettle.com",
-    "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
-    "featured_content_urls": [
-      "https://www.indexventures.com/perspectives/congratulations-to-izettle-on-its-acquisition-by-paypal/"
-    ],
-    "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Josh Wood Colour",
@@ -4782,7 +3951,7 @@
       "https://www.indexventures.com/perspectives/expert-hair-colourist-josh-wood-aims-to-redefine-at-home-hair-colour-with-funding/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Jumbo",
@@ -4806,7 +3975,7 @@
     "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
     "featured_content_urls": [],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Jump",
@@ -4839,33 +4008,7 @@
       "https://www.indexventures.com/perspectives/relationship/jump/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
-  },
-  {
-    "company_name": "Just Eat",
-    "description": "Just Eat has reinvented the takeaway. From keystroke to doorstep, the London-headquartered company has built a seamless multi-platform service, with 40,000 takeaways on its roster, covering 13 countries from Scandinavia to Latin America.",
-    "sectors": [
-      "Retail"
-    ],
-    "regions": [
-      "Europe"
-    ],
-    "backed": [],
-    "index_team": [
-      "Jan Hammer"
-    ],
-    "founders": [
-      "David Buttress"
-    ],
-    "ticker_symbol": "LON:JE",
-    "company_profile_url": "https://www.indexventures.com/companies/just-eat/",
-    "company_url": "http://just-eat.com",
-    "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
-    "featured_content_urls": [
-      "https://www.indexventures.com/perspectives/the-food-delivery-wars/"
-    ],
-    "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "JustPark",
@@ -4887,7 +4030,7 @@
     "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
     "featured_content_urls": [],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Justworks",
@@ -4911,7 +4054,7 @@
     "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
     "featured_content_urls": [],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Kayrros",
@@ -4938,7 +4081,7 @@
       "https://www.indexventures.com/perspectives/kayrros-secures-24m-in-series-b-funding-to-expand-energy-market-penetration/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Kindred",
@@ -4964,37 +4107,7 @@
       "https://www.indexventures.com/perspectives/a-new-way-to-see-the-world-our-investment-in-kindred/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
-  },
-  {
-    "company_name": "King",
-    "description": "Creator of Candy Crush Saga, Farm Heroes Saga and Bubble Witch Saga, King is the world-wide leader in casual games with more than 30 billion games played per month globally.",
-    "sectors": [
-      "Entertainment"
-    ],
-    "regions": [
-      "Europe"
-    ],
-    "backed": [],
-    "index_team": [
-      "Danny Rimer"
-    ],
-    "founders": [
-      "Riccardo Zacconi",
-      "Lars Markgren",
-      "Patrik Stymne",
-      "Sebastian Knutsson"
-    ],
-    "ticker_symbol": "Activision Blizzard",
-    "company_profile_url": "https://www.indexventures.com/companies/king/",
-    "company_url": "http://king.com",
-    "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
-    "featured_content_urls": [
-      "https://www.indexventures.com/perspectives/the-king-of-candy-how-riccardo-zacconi-and-king-conquered-mobile-gaming/",
-      "https://www.indexventures.com/perspectives/relationship/king/"
-    ],
-    "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Kong",
@@ -5027,7 +4140,7 @@
       "https://www.indexventures.com/perspectives/relationship/kong/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "KRY | LIVI",
@@ -5059,61 +4172,7 @@
       "https://www.indexventures.com/perspectives/relationship/kry-livi/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
-  },
-  {
-    "company_name": "Lacoon",
-    "description": "Lacoon Mobile Security provides device agnostic advance risk assessment and protection against the dynamic, ever-evolving mobile threat landscape.",
-    "sectors": [
-      "Security"
-    ],
-    "regions": [
-      "Asia"
-    ],
-    "backed": [],
-    "index_team": [
-      "Shardul Shah"
-    ],
-    "founders": [
-      "Michael Shaulov",
-      "Emanuel Avner",
-      "Ohad Bobrov"
-    ],
-    "ticker_symbol": "Check Point Software",
-    "company_profile_url": "https://www.indexventures.com/companies/lacoon/",
-    "company_url": "http://lacoonsecurity.com",
-    "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
-    "featured_content_urls": [
-      "https://www.indexventures.com/perspectives/investing-in-the-enterprise-in-2015/"
-    ],
-    "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
-  },
-  {
-    "company_name": "Last.fm",
-    "description": "Last.fm is a global, community-based music recommendation network. It was acquired by CBS in 2007.",
-    "sectors": [
-      "Entertainment"
-    ],
-    "regions": [
-      "Europe"
-    ],
-    "backed": [],
-    "index_team": [
-      "Neil Rimer",
-      "Danny Rimer"
-    ],
-    "founders": [
-      "Martin Stiksel",
-      "Thomas Willomitzer"
-    ],
-    "ticker_symbol": "NYSE:CBS",
-    "company_profile_url": "https://www.indexventures.com/companies/lastfm/",
-    "company_url": "http://last.fm",
-    "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
-    "featured_content_urls": [],
-    "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Lever",
@@ -5137,7 +4196,7 @@
     "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
     "featured_content_urls": [],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Lightning AI",
@@ -5166,7 +4225,7 @@
       "https://www.indexventures.com/perspectives/relationship/gridai/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Linear",
@@ -5192,7 +4251,7 @@
     "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
     "featured_content_urls": [],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Linktree",
@@ -5222,7 +4281,7 @@
       "https://www.indexventures.com/perspectives/relationship/linktree/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Linx Security",
@@ -5248,7 +4307,7 @@
       "https://www.indexventures.com/perspectives/linx-security-emerges-from-stealth-with-33m-in-funding-to-revolutionize-identity-security-and-governance/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Lithic",
@@ -5274,35 +4333,7 @@
     "image_url": "https://www.indexventures.com/media/images/IMG_7470.2e16d0ba.fill-1200x630.format-png.png",
     "featured_content_urls": [],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
-  },
-  {
-    "company_name": "LiveKit",
-    "description": "LiveKit is an end-to-end platform that gives developers everything they need to build and scale voice, video, and physical AI agents.",
-    "sectors": [
-      "AI/ML",
-      "Open Source"
-    ],
-    "regions": [],
-    "backed": [],
-    "index_team": [
-      "Sahir Azam",
-      "Eryk Dobrushkin",
-      "Sofia Dolfe"
-    ],
-    "founders": [
-      "Russ d'Sa",
-      "David Zhao"
-    ],
-    "ticker_symbol": null,
-    "company_profile_url": "https://www.indexventures.com/companies/livekit/",
-    "company_url": "http://livekit.io",
-    "image_url": "https://www.indexventures.com/media/images/LiveKit_D89216.2e16d0ba.fill-1200x630.format-png.png",
-    "featured_content_urls": [
-      "https://www.indexventures.com/perspectives/see-hear-speak-investing-in-livekit-and-the-future-of-realtime-applications/"
-    ],
-    "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Loctax",
@@ -5327,7 +4358,7 @@
       "https://www.indexventures.com/perspectives/loctax-raises-12m-in-series-a-funding-to-give-companies-full-control-of-tax-risks-and-responsibilities/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Lookout",
@@ -5356,7 +4387,7 @@
       "https://www.indexventures.com/perspectives/investing-in-the-enterprise-in-2015/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Loop",
@@ -5381,55 +4412,7 @@
       "https://www.wsj.com/articles/j-p-morgan-growth-equity-and-index-ventures-back-logistics-payment-platform-loop-c0e43a2"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
-  },
-  {
-    "company_name": "LoveFilm",
-    "description": "LOVEFILM is a leading European film and TV series subscription service, with over two millions members in the UK and Germany. It was acquired by Amazon in 2011.",
-    "sectors": [
-      "Entertainment"
-    ],
-    "regions": [
-      "Europe"
-    ],
-    "backed": [],
-    "index_team": [
-      "Danny Rimer"
-    ],
-    "founders": [
-      "Simon Franks"
-    ],
-    "ticker_symbol": "NASDAQ:AMZN",
-    "company_profile_url": "https://www.indexventures.com/companies/lovefilm/",
-    "company_url": "http://lovefilm.com",
-    "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
-    "featured_content_urls": [],
-    "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
-  },
-  {
-    "company_name": "Marker",
-    "description": "None",
-    "sectors": [
-      "AI/ML"
-    ],
-    "regions": [],
-    "backed": [],
-    "index_team": [
-      "Danny Rimer",
-      "Georgia Stevenson"
-    ],
-    "founders": [
-      "Jon Steinback",
-      "Ryan Bowman"
-    ],
-    "ticker_symbol": null,
-    "company_profile_url": "https://www.indexventures.com/companies/marker/",
-    "company_url": "http://marker.page",
-    "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
-    "featured_content_urls": [],
-    "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Matera",
@@ -5458,7 +4441,7 @@
       "https://www.indexventures.com/perspectives/matera-raises-10m-to-become-europes-leading-property-management-platform/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Mercantile",
@@ -5482,7 +4465,7 @@
       "https://www.indexventures.com/perspectives/smb-payments-are-going-vertical/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Metromile",
@@ -5509,60 +4492,7 @@
       "https://www.indexventures.com/perspectives/metromile-secures-90m-series-e-financing/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
-  },
-  {
-    "company_name": "Milestone",
-    "description": "Milestone Systems is the global industry leader in open platform IP video management software. Milestone technology delivers powerful surveillance that is easy to manage, reliable and proven in thousands of customer installations around the world.",
-    "sectors": [
-      "Security"
-    ],
-    "regions": [
-      "Europe",
-      "North America"
-    ],
-    "backed": [],
-    "index_team": [
-      "Giuseppe Zocco"
-    ],
-    "founders": [
-      "Lars Thinggaard",
-      "Henrik Jacobsen",
-      "John Blem"
-    ],
-    "ticker_symbol": "Canon",
-    "company_profile_url": "https://www.indexventures.com/companies/milestone/",
-    "company_url": "http://milestonesys.com",
-    "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
-    "featured_content_urls": [
-      "https://www.indexventures.com/perspectives/copenhagen-rising/"
-    ],
-    "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
-  },
-  {
-    "company_name": "Mimecast",
-    "description": "Mimecast is a category-defining SaaS company for unified email management, safeguarding email security, archiving and seamless continuity.",
-    "sectors": [
-      "Data"
-    ],
-    "regions": [
-      "Africa",
-      "Europe"
-    ],
-    "backed": [],
-    "index_team": [],
-    "founders": [
-      "Peter Bauer",
-      "Neil Murray"
-    ],
-    "ticker_symbol": "NASDAQ:MIME",
-    "company_profile_url": "https://www.indexventures.com/companies/mimecast/",
-    "company_url": "http://mimecast.com",
-    "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
-    "featured_content_urls": [],
-    "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Mirage",
@@ -5589,7 +4519,7 @@
       "https://www.indexventures.com/perspectives/relationship/captions/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Mirelo",
@@ -5614,7 +4544,7 @@
       "https://www.indexventures.com/perspectives/musicians-turned-ai-researchers-at-mirelo-raise-41m-to-unmute-videos-games-and-beyond/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Mistral",
@@ -5641,61 +4571,7 @@
       "https://www.indexventures.com/perspectives/mistral-ai-for-tomorrows-enterprise/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
-  },
-  {
-    "company_name": "Moleskine",
-    "description": "Moleskine was created as a brand in 1997, bringing the iconic notebook used by artists and thinkers over the past two centuries back to life. Today Moleskine encompasses a family of objects - from notebooks to bags and reading accessories - which are intimately tied to the digital world.",
-    "sectors": [
-      "Retail"
-    ],
-    "regions": [
-      "Europe"
-    ],
-    "backed": [],
-    "index_team": [
-      "Giuseppe Zocco"
-    ],
-    "founders": [
-      "Arrigo Berni",
-      "Maria Sebregondi"
-    ],
-    "ticker_symbol": "IM: MSK",
-    "company_profile_url": "https://www.indexventures.com/companies/moleskine/",
-    "company_url": "http://moleskine.com",
-    "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
-    "featured_content_urls": [],
-    "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
-  },
-  {
-    "company_name": "Moment",
-    "description": "Moment unifies trading, research, portfolio optimization, reporting, and compliance monitoring in a single platform, with a layer of automation that allows financial institutions to supercharge their fixed income teams.",
-    "sectors": [
-      "Fintech"
-    ],
-    "regions": [],
-    "backed": [
-      "backed by Index"
-    ],
-    "index_team": [
-      "Jan Hammer",
-      "Julia Andre"
-    ],
-    "founders": [
-      "Dylan Parker",
-      "Ammer Soliman",
-      "Dean Hathout"
-    ],
-    "ticker_symbol": null,
-    "company_profile_url": "https://www.indexventures.com/companies/moment/",
-    "company_url": "http://moment.com",
-    "image_url": "https://www.indexventures.com/media/images/IMG_3188.2e16d0ba.fill-1200x630.format-png.png",
-    "featured_content_urls": [
-      "https://www.indexventures.com/perspectives/relationship/moment/"
-    ],
-    "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Monad",
@@ -5716,7 +4592,7 @@
     "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
     "featured_content_urls": [],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Monograph",
@@ -5740,7 +4616,7 @@
     "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
     "featured_content_urls": [],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Montonio",
@@ -5772,7 +4648,7 @@
       "https://www.indexventures.com/perspectives/montonio-raises-11m-to-improve-payment-and-post-checkout-experience-of-online-merchants-as-thousands-of-retailers-sign-on/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "MOO",
@@ -5796,7 +4672,7 @@
     "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
     "featured_content_urls": [],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Motive",
@@ -5824,7 +4700,7 @@
       "https://www.indexventures.com/perspectives/relationship/motive/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Motorway",
@@ -5854,7 +4730,7 @@
       "https://www.indexventures.com/perspectives/relationship/motorway/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Multiverse",
@@ -5884,7 +4760,7 @@
       "https://www.indexventures.com/perspectives/relationship/whitehat/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "MyHeritage",
@@ -5908,32 +4784,7 @@
     "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
     "featured_content_urls": [],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
-  },
-  {
-    "company_name": "MySQL",
-    "description": "MySQL is the world’s most popular open source database software. It was acquired by Sun Microsystems, now Oracle, in 2008.",
-    "sectors": [
-      "Data"
-    ],
-    "regions": [
-      "Europe",
-      "North America"
-    ],
-    "backed": [],
-    "index_team": [
-      "Danny Rimer"
-    ],
-    "founders": [
-      "Allan Larsson"
-    ],
-    "ticker_symbol": "NASDAQ: ORCL",
-    "company_profile_url": "https://www.indexventures.com/companies/mysql/",
-    "company_url": "http://mysql.com",
-    "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
-    "featured_content_urls": [],
-    "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Nacelle",
@@ -5957,7 +4808,7 @@
     "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
     "featured_content_urls": [],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Natoma",
@@ -5982,7 +4833,7 @@
     "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
     "featured_content_urls": [],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "navabi",
@@ -6007,51 +4858,7 @@
     "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
     "featured_content_urls": [],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
-  },
-  {
-    "company_name": "Net-A-Porter",
-    "description": "Net-a-Porter is the world’s foremost online luxury fashion retailer. Richemont acquired 93% of Net-a-Porter shares in 2010.",
-    "sectors": [
-      "Retail"
-    ],
-    "regions": [
-      "Europe"
-    ],
-    "backed": [],
-    "index_team": [
-      "Danny Rimer"
-    ],
-    "founders": [
-      "Natalie Massenet"
-    ],
-    "ticker_symbol": "SIX:CFR",
-    "company_profile_url": "https://www.indexventures.com/companies/net-a-porter/",
-    "company_url": "http://net-a-porter.com",
-    "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
-    "featured_content_urls": [
-      "https://www.indexventures.com/perspectives/anine-bing-closes-15m-series-a-financing-round-in-august-2018-led-by-index-ventures/"
-    ],
-    "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
-  },
-  {
-    "company_name": "Netlog",
-    "description": "Netlog, a pioneering European social networking and dating business was acquired by IAC in 2012",
-    "sectors": [],
-    "regions": [
-      "Europe"
-    ],
-    "backed": [],
-    "index_team": [],
-    "founders": [],
-    "ticker_symbol": "Meetic",
-    "company_profile_url": "https://www.indexventures.com/companies/netlog/",
-    "company_url": "http://twoo.com",
-    "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
-    "featured_content_urls": [],
-    "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "NewCore",
@@ -6079,7 +4886,7 @@
       "https://www.indexventures.com/perspectives/rebuilding-identity-for-the-agentic-era-our-investment-in-newcore/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Newfront",
@@ -6102,7 +4909,7 @@
     "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
     "featured_content_urls": [],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "nexos.ai",
@@ -6133,7 +4940,7 @@
       "https://www.indexventures.com/perspectives/relationship/nexosai/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Nexthink",
@@ -6161,7 +4968,7 @@
       "https://www.indexventures.com/perspectives/relationship/nexthink/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "NOTHS",
@@ -6185,7 +4992,7 @@
     "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
     "featured_content_urls": [],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Notion",
@@ -6217,7 +5024,7 @@
       "https://www.indexventures.com/perspectives/relationship/notion/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Nourish",
@@ -6243,7 +5050,7 @@
       "https://www.indexventures.com/perspectives/relationship/nourish/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Nova Credit",
@@ -6268,7 +5075,7 @@
     "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
     "featured_content_urls": [],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Novus",
@@ -6293,61 +5100,7 @@
     "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
     "featured_content_urls": [],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
-  },
-  {
-    "company_name": "Nuvo",
-    "description": "Nuvo is building the infrastructure to accelerate the trade of physical goods.",
-    "sectors": [
-      "Fintech"
-    ],
-    "regions": [],
-    "backed": [
-      "backed at Seed (all)"
-    ],
-    "index_team": [
-      "Martin Mignot"
-    ],
-    "founders": [
-      "Sid Malladi",
-      "Rameez Remsudeen"
-    ],
-    "ticker_symbol": null,
-    "company_profile_url": "https://www.indexventures.com/companies/nuvo-technologies/",
-    "company_url": "http://nuvo.com",
-    "image_url": "https://www.indexventures.com/media/images/Nuvo-Co-founder-Headsh.2e16d0ba.fill-1200x630.format-png.png",
-    "featured_content_urls": [
-      "https://www.indexventures.com/perspectives/nuvo-raises-45m-to-modernize-b2b-trade/"
-    ],
-    "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
-  },
-  {
-    "company_name": "OANDA",
-    "description": "OANDA Corporation transformed the business of foreign exchange through an innovative approach to forex trading. The company's industry leading online trading platform, fxTrade, introduced a number of firsts to the marketplace, including immediate execution; instant settlement on trades; trades of any size between one unit and 10 million units; and interest calculated by the second.",
-    "sectors": [
-      "Fintech"
-    ],
-    "regions": [
-      "North America"
-    ],
-    "backed": [],
-    "index_team": [
-      "Jan Hammer"
-    ],
-    "founders": [
-      "Ed Eger",
-      "K Duker"
-    ],
-    "ticker_symbol": null,
-    "company_profile_url": "https://www.indexventures.com/companies/oanda/",
-    "company_url": "http://oanda.com",
-    "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
-    "featured_content_urls": [
-      "https://www.indexventures.com/perspectives/cvc-capital-partners-asia-fund-iv-agrees-to-acquire-leading-global-trading-platform/"
-    ],
-    "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Okendo",
@@ -6372,32 +5125,7 @@
     "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
     "featured_content_urls": [],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
-  },
-  {
-    "company_name": "onefinestay",
-    "description": "onefinestay is pioneering handmade hospitality by offering guests the chance to stay in the finest homes, in the world’s greatest cities, while the owners are out of town. The selection of homes ─ each of which has been seen and selected by onefinestay’s team in their search for space, character and comfort ─ranges from playful townhouses to curious brownstones.",
-    "sectors": [],
-    "regions": [
-      "Europe"
-    ],
-    "backed": [],
-    "index_team": [
-      "Dominique Vidal"
-    ],
-    "founders": [
-      "Greg Marsh",
-      "Demetrios Zoppos",
-      "Evan Frank",
-      "Tim Davey"
-    ],
-    "ticker_symbol": "Accor Hotels",
-    "company_profile_url": "https://www.indexventures.com/companies/onefinestay/",
-    "company_url": "http://onefinestay.com",
-    "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
-    "featured_content_urls": [],
-    "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "OpenX",
@@ -6417,7 +5145,7 @@
     "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
     "featured_content_urls": [],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Otrium",
@@ -6446,7 +5174,7 @@
       "https://www.indexventures.com/perspectives/relationship/otrium/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Otterize",
@@ -6473,7 +5201,7 @@
       "https://www.indexventures.com/perspectives/otterize-launches-game-changing-solution-to-secure-service-to-service-cloud-connectivity-emerging-from-stealth-with-115m-in-seed-funding/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Outbrain",
@@ -6500,7 +5228,7 @@
     "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
     "featured_content_urls": [],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "OZON.ru",
@@ -6526,7 +5254,7 @@
       "https://www.indexventures.com/perspectives/ozon-holdings-announces-150-million-investment-from-sistema-and-mts-to-support/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Parallel",
@@ -6550,7 +5278,7 @@
     "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
     "featured_content_urls": [],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Parallel Web Systems",
@@ -6579,7 +5307,7 @@
       "https://www.indexventures.com/perspectives/parallels-100m-series-a/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Patreon",
@@ -6607,7 +5335,7 @@
       "https://www.indexventures.com/perspectives/relationship/patreon/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Pave",
@@ -6631,7 +5359,7 @@
       "https://www.indexventures.com/perspectives/pave-is-demystifying-compensation-for-the-worlds-workforce/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Peanut",
@@ -6660,56 +5388,7 @@
       "https://www.indexventures.com/perspectives/peanut-leading-social-network-motherhood-announces-5m-funding-led-index-and-launches-community-women-trying-conceive/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
-  },
-  {
-    "company_name": "Pentaho",
-    "description": "Pentaho is delivering the future of business analytics. Pentaho's open source heritage drives our continued innovation in a modern, integrated, embeddable platform built for the future of analytics, including diverse and big data requirements.",
-    "sectors": [
-      "Data"
-    ],
-    "regions": [
-      "North America"
-    ],
-    "backed": [],
-    "index_team": [],
-    "founders": [
-      "Quentin Gallivan",
-      "Richard Daley"
-    ],
-    "ticker_symbol": "Hitachi Data Systems",
-    "company_profile_url": "https://www.indexventures.com/companies/pentaho/",
-    "company_url": "http://pentaho.com",
-    "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
-    "featured_content_urls": [
-      "https://www.indexventures.com/perspectives/investing-in-the-enterprise-in-2015/"
-    ],
-    "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
-  },
-  {
-    "company_name": "Peoplevox",
-    "description": "Peoplevox is the leading provider of software-as-a-service warehouse management for e-commerce. Peoplevox recognises that the warehouse software and systems that have served traditional warehouses and retail are not built for the demands of current-day e-commerce fulfilment. Its technology enables the fastest growing e-commerce companies to scale their e-commerce operations and provides end-to-end visibility of the online buying process, allowing consumers real-time visibility of their purchases.",
-    "sectors": [
-      "Business Applications"
-    ],
-    "regions": [
-      "Europe"
-    ],
-    "backed": [],
-    "index_team": [
-      "Dominique Vidal"
-    ],
-    "founders": [
-      "Jonathan Bellwood"
-    ],
-    "ticker_symbol": "Descartes",
-    "company_profile_url": "https://www.indexventures.com/companies/peoplevox/",
-    "company_url": "http://peoplevox.co.uk",
-    "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
-    "featured_content_urls": [],
-    "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Pepper",
@@ -6731,7 +5410,7 @@
       "https://www.indexventures.com/perspectives/the-next-step-of-the-restaurant-industrys-ecommerce-moment/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Persona",
@@ -6758,7 +5437,7 @@
       "https://www.indexventures.com/perspectives/the-identity-layer-of-the-internet-is-getting-a-makeover-our-50m-series-b-investment-into-persona/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Personio",
@@ -6788,7 +5467,7 @@
       "https://www.indexventures.com/perspectives/relationship/personio/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Phaidra",
@@ -6814,34 +5493,7 @@
       "https://www.indexventures.com/perspectives/compute-is-king-our-investment-in-phaidra/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
-  },
-  {
-    "company_name": "PhotoBox",
-    "description": "The PhotoBox Group is Europe’s leading personalised digital photo service and gifts provider, through its flagship branded retail channels PhotoBox, Moonpig, StickyGram and PaperShaker.",
-    "sectors": [
-      "Retail"
-    ],
-    "regions": [
-      "Europe"
-    ],
-    "backed": [],
-    "index_team": [
-      "Neil Rimer"
-    ],
-    "founders": [
-      "Graham Hobson",
-      "Mark Chapman"
-    ],
-    "ticker_symbol": null,
-    "company_profile_url": "https://www.indexventures.com/companies/photobox/",
-    "company_url": "http://photobox.com",
-    "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
-    "featured_content_urls": [
-      "https://www.indexventures.com/perspectives/exponent-private-equity-electra-partners-announce-the-proposed-acquisition-of/"
-    ],
-    "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Physical Intelligence",
@@ -6868,7 +5520,7 @@
     "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
     "featured_content_urls": [],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Pilot",
@@ -6897,7 +5549,7 @@
       "https://www.indexventures.com/perspectives/relationship/pilot/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Piñata Farms",
@@ -6920,7 +5572,7 @@
     "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
     "featured_content_urls": [],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Pitch",
@@ -6954,7 +5606,7 @@
       "https://www.indexventures.com/perspectives/relationship/pitch/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Plaid",
@@ -6982,7 +5634,7 @@
       "https://www.indexventures.com/perspectives/how-plaid-built-talent-vortex/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Plain",
@@ -7006,29 +5658,7 @@
       "https://www.indexventures.com/perspectives/relationship/plaincom/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
-  },
-  {
-    "company_name": "Playfish",
-    "description": "Playfish, a pioneering developer and publisher of free games for social platforms, was acquired by Electronic Arts in 2009.",
-    "sectors": [
-      "Entertainment"
-    ],
-    "regions": [
-      "Europe"
-    ],
-    "backed": [],
-    "index_team": [],
-    "founders": [],
-    "ticker_symbol": "NASDAQ:EA",
-    "company_profile_url": "https://www.indexventures.com/companies/playfish/",
-    "company_url": "http://playfish.com",
-    "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
-    "featured_content_urls": [
-      "https://www.indexventures.com/perspectives/hunting-godzilla-why-games-is-the-most-misunderstood-sector-in-tech/"
-    ],
-    "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "PointFive",
@@ -7055,7 +5685,7 @@
       "https://www.indexventures.com/perspectives/relationship/pointfive/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Pomelo",
@@ -7081,7 +5711,7 @@
     "image_url": "https://www.indexventures.com/media/images/Founders_v1_-_Pomelo.2e16d0ba.fill-1200x630.format-png.png",
     "featured_content_urls": [],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Printify",
@@ -7106,34 +5736,7 @@
       "https://www.indexventures.com/perspectives/creator-manifesto/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
-  },
-  {
-    "company_name": "Privalia",
-    "description": "Online fashion retailer Privalia is a private club which organises flash sales for leading fashion, sport, home, electronics and personal care brands, operating across Spain, Italy, Germany, Brazil and Mexico.",
-    "sectors": [
-      "Retail"
-    ],
-    "regions": [
-      "Europe"
-    ],
-    "backed": [],
-    "index_team": [
-      "Giuseppe Zocco"
-    ],
-    "founders": [
-      "Lucas Carné",
-      "Jose-Manuel Villanueva"
-    ],
-    "ticker_symbol": null,
-    "company_profile_url": "https://www.indexventures.com/companies/privalia/",
-    "company_url": "http://privalia.com",
-    "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
-    "featured_content_urls": [
-      "https://www.indexventures.com/perspectives/vente-priveecom-strengthens-its-position-in-europe-by-buying-privalia/"
-    ],
-    "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Prodigy Finance",
@@ -7160,7 +5763,7 @@
       "https://www.indexventures.com/perspectives/lending-platform-prodigy-finance-raises-240m-to-support-fast-growing-community-of/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Productboard",
@@ -7191,33 +5794,7 @@
       "https://www.indexventures.com/perspectives/relationship/productboard/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
-  },
-  {
-    "company_name": "Pure Storage",
-    "description": "Pure Storage, the all-flash enterprise storage company, enables the broad deployment of flash in the data center. When compared to traditional disk-centric arrays, the Pure Storage FlashArray is 10x faster and 10x more space and power efficient, for less than the cost of mechanical disk per gigabyte stored.",
-    "sectors": [
-      "Data"
-    ],
-    "regions": [
-      "North America"
-    ],
-    "backed": [],
-    "index_team": [],
-    "founders": [
-      "Scott Dietzen",
-      "John Colgrove",
-      "John Hayes"
-    ],
-    "ticker_symbol": "NYSE:PSTG",
-    "company_profile_url": "https://www.indexventures.com/companies/pure-storage/",
-    "company_url": "http://purestorage.com",
-    "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
-    "featured_content_urls": [
-      "https://www.indexventures.com/perspectives/investing-in-the-enterprise-in-2015/"
-    ],
-    "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Qapa",
@@ -7240,7 +5817,7 @@
     "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
     "featured_content_urls": [],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Quantive",
@@ -7266,7 +5843,7 @@
       "https://www.indexventures.com/perspectives/gtmhub-raises-120-million-series-c-largest-funding-round-in-the-okrs-software-space/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Quill",
@@ -7286,7 +5863,7 @@
     "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
     "featured_content_urls": [],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Quilter",
@@ -7311,7 +5888,7 @@
       "https://www.indexventures.com/perspectives/a-new-era-for-electronics-design-our-investment-in-quilter/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Raisin",
@@ -7340,7 +5917,7 @@
       "https://www.indexventures.com/perspectives/relationship/raisin/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "ReadySet",
@@ -7362,7 +5939,7 @@
       "https://www.indexventures.com/perspectives/the-data-caching-easy-button-our-investment-in-readyset/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Rebtel",
@@ -7383,34 +5960,7 @@
     "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
     "featured_content_urls": [],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
-  },
-  {
-    "company_name": "Reclaim.ai",
-    "description": "Make time when there is none",
-    "sectors": [
-      "AI/ML"
-    ],
-    "regions": [
-      "North America"
-    ],
-    "backed": [
-      "backed at Seed (all)"
-    ],
-    "index_team": [
-      "Shardul Shah"
-    ],
-    "founders": [
-      "Henry Shapiro",
-      "Patrick Lightbody"
-    ],
-    "ticker_symbol": "Dropbox",
-    "company_profile_url": "https://www.indexventures.com/companies/reclaimai/",
-    "company_url": "https://reclaim.ai/",
-    "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
-    "featured_content_urls": [],
-    "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Rec Room",
@@ -7434,7 +5984,7 @@
       "https://www.indexventures.com/perspectives/relationship/rec-room/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Remote",
@@ -7465,7 +6015,7 @@
       "https://www.indexventures.com/perspectives/relationship/remotecom/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Resistant AI",
@@ -7494,7 +6044,7 @@
       "https://www.indexventures.com/perspectives/resistant-ai-announces-166m-funding-to-protect-financial-automation-from-fraud-and-financial-crime/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Revel",
@@ -7519,7 +6069,7 @@
       "https://www.indexventures.com/perspectives/great-hardware-deserves-great-software-investing-in-revel/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "RevenueCat",
@@ -7546,7 +6096,7 @@
       "https://www.indexventures.com/perspectives/subscriptions-are-eating-our-smartphones-announcing-our-15m-series-revenuecat/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Revolut",
@@ -7578,32 +6128,7 @@
       "https://www.indexventures.com/perspectives/relationship/revolut/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
-  },
-  {
-    "company_name": "Rightscale",
-    "description": "RightScale Cloud Portfolio Management enables leading enterprises to accelerate delivery of cloud-based applications that engage customers and drive top-line revenue while optimizing cloud usage to reduce risk and costs. With RightScale, IT organizations can deliver instant access to a portfolio of public, private, and hybrid cloud services across business units and development teams while maintaining enterprise control.",
-    "sectors": [
-      "Data"
-    ],
-    "regions": [
-      "North America"
-    ],
-    "backed": [],
-    "index_team": [
-      "Danny Rimer"
-    ],
-    "founders": [
-      "Michael Crandell",
-      "Thorsten von Eicken"
-    ],
-    "ticker_symbol": "Flexera",
-    "company_profile_url": "https://www.indexventures.com/companies/rightscale/",
-    "company_url": "http://rightscale.com",
-    "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
-    "featured_content_urls": [],
-    "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Robinhood",
@@ -7636,7 +6161,7 @@
       "https://www.indexventures.com/perspectives/relationship/robinhood/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Roblox",
@@ -7666,7 +6191,7 @@
       "https://www.indexventures.com/perspectives/relationship/roblox/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Rohlik",
@@ -7695,7 +6220,7 @@
       "https://www.indexventures.com/perspectives/relationship/rohlikcz/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Roli",
@@ -7719,32 +6244,7 @@
     "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
     "featured_content_urls": [],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
-  },
-  {
-    "company_name": "RPX Corporation",
-    "description": "RPX Corporation is a pioneering provider of patent risk solutions, offering defensive buying, acquisition syndication, patent intelligence, insurance and advisory services.",
-    "sectors": [
-      "Business Applications"
-    ],
-    "regions": [
-      "North America"
-    ],
-    "backed": [],
-    "index_team": [
-      "Giuseppe Zocco"
-    ],
-    "founders": [
-      "John Amster",
-      "Geoffrey Barker"
-    ],
-    "ticker_symbol": "NASDAQ: RPXC",
-    "company_profile_url": "https://www.indexventures.com/companies/rpx-corporation/",
-    "company_url": "http://rpxcorp.com",
-    "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
-    "featured_content_urls": [],
-    "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Ryft",
@@ -7770,7 +6270,7 @@
       "https://www.indexventures.com/perspectives/ryft-raises-8m-to-help-enterprises-take-control-over-their-data/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "SafetyCulture",
@@ -7797,7 +6297,7 @@
       "https://www.indexventures.com/perspectives/relationship/safetyculture/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Sanlo",
@@ -7824,7 +6324,7 @@
       "https://www.indexventures.com/perspectives/sanlo-the-financial-hub-for-gaming-and-apps/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Savvy",
@@ -7844,7 +6344,7 @@
     "image_url": "https://www.indexventures.com/media/images/portfolio-logo.2e16d0ba.fill-1200x630.format-png.png",
     "featured_content_urls": [],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Scale",
@@ -7871,7 +6371,7 @@
       "https://www.indexventures.com/perspectives/relationship/scale/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Science Exchange",
@@ -7896,7 +6396,7 @@
       "https://www.indexventures.com/perspectives/science-exchange-announces-25-million-in-new-funding/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Scoop",
@@ -7925,7 +6425,7 @@
       "https://www.indexventures.com/perspectives/scoop-announces-31m-in-financing-for-its-fully-managed-carpool-program-for-commuters/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Scope",
@@ -7952,7 +6452,7 @@
       "https://www.indexventures.com/perspectives/building-the-first-intelligence-layer-for-industrial-assets-our-investment-in-scope/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Second Home",
@@ -7977,7 +6477,7 @@
     "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
     "featured_content_urls": [],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Secret Escapes",
@@ -8001,7 +6501,7 @@
       "https://www.indexventures.com/perspectives/secret-escapes-raises-111m-investment-to-drive-global-acquisitions/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Seedcamp",
@@ -8022,7 +6522,7 @@
     "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
     "featured_content_urls": [],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "SeedLegals",
@@ -8051,7 +6551,7 @@
       "https://www.indexventures.com/perspectives/seedlegals-uks-largest-legal-platform-for-startups-raises-series-a-round-led-by-index/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "ServiceTitan",
@@ -8077,7 +6577,7 @@
       "https://www.indexventures.com/perspectives/relationship/servicetitan/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Seso",
@@ -8102,7 +6602,7 @@
     "image_url": "https://www.indexventures.com/media/images/Seso.2e16d0ba.fill-1200x630.format-png.png",
     "featured_content_urls": [],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Shapeways",
@@ -8126,7 +6626,7 @@
     "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
     "featured_content_urls": [],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Shopmonkey",
@@ -8150,7 +6650,7 @@
       "https://www.indexventures.com/perspectives/shopmonkey-transforming-500b-auto-repair-market/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Signal Sciences",
@@ -8179,7 +6679,7 @@
       "https://www.indexventures.com/perspectives/relationship/signal-sciences/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Silverfin",
@@ -8206,7 +6706,7 @@
       "https://www.indexventures.com/perspectives/silverfin-raises-45m-to-build-real-time-hub-for-businessese28099-financial-data/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Simile",
@@ -8234,7 +6734,7 @@
       "https://www.indexventures.com/perspectives/life-the-universe-and-simile-leading-similes-series-a/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Siro",
@@ -8255,91 +6755,7 @@
     "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
     "featured_content_urls": [],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
-  },
-  {
-    "company_name": "Skype",
-    "description": "Skype is a global Internet communications company, which was acquired by eBay in 2005 and by Microsoft in 2011.",
-    "sectors": [
-      "Future Of Work"
-    ],
-    "regions": [
-      "Europe"
-    ],
-    "backed": [],
-    "index_team": [
-      "Danny Rimer"
-    ],
-    "founders": [
-      "Janus Friis",
-      "Priit Kasesalu"
-    ],
-    "ticker_symbol": "NASDAQ:EBAY",
-    "company_profile_url": "https://www.indexventures.com/companies/skype/",
-    "company_url": "http://skype.com",
-    "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
-    "featured_content_urls": [],
-    "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
-  },
-  {
-    "company_name": "Slack",
-    "description": "Slack is a messaging platform for teams which brings all communication together, creating a single unified archive accessible through powerful search.",
-    "sectors": [
-      "Future Of Work",
-      "Business Applications"
-    ],
-    "regions": [
-      "North America"
-    ],
-    "backed": [
-      "backed by Index"
-    ],
-    "index_team": [
-      "Mike Volpi"
-    ],
-    "founders": [
-      "Stewart Butterfield",
-      "Cal Henderson",
-      "Eric Costello",
-      "Serguei Mourachov"
-    ],
-    "ticker_symbol": "NYSE:WORK",
-    "company_profile_url": "https://www.indexventures.com/companies/slack/",
-    "company_url": "http://slack.com",
-    "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
-    "featured_content_urls": [
-      "https://www.indexventures.com/perspectives/slacks-cal-henderson-an-engineer-evolves-to-lead/",
-      "https://www.indexventures.com/perspectives/relationship/slack/"
-    ],
-    "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
-  },
-  {
-    "company_name": "Socialbakers",
-    "description": "Socialbakers is the fastest-growing social media and digital analytics company globally, enabling firms to track and enhance the impact of their social marketing campaigns across all major platforms including Twitter, Facebook, YouTube, LinkedIn and Google+.",
-    "sectors": [
-      "Business Applications"
-    ],
-    "regions": [
-      "Europe"
-    ],
-    "backed": [],
-    "index_team": [
-      "Jan Hammer"
-    ],
-    "founders": [
-      "Yuval Ben-Itzhak",
-      "Jan Rezab",
-      "Lukas Maixner"
-    ],
-    "ticker_symbol": null,
-    "company_profile_url": "https://www.indexventures.com/companies/socialbakers/",
-    "company_url": "http://socialbakers.com",
-    "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
-    "featured_content_urls": [],
-    "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Sofía",
@@ -8368,7 +6784,7 @@
       "https://www.indexventures.com/perspectives/sofia-mexicos-first-digital-health-insurer/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Solvo",
@@ -8396,7 +6812,7 @@
       "https://www.indexventures.com/perspectives/solvo-launches-new-app-to-provide-access-to-quality-crypto-investments-in-a-seamless-and-transparent-way/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Sourceful",
@@ -8425,7 +6841,7 @@
       "https://www.indexventures.com/perspectives/relationship/sourceful/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Spendesk",
@@ -8453,7 +6869,7 @@
       "https://www.indexventures.com/perspectives/relationship/spendesk/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Spiko",
@@ -8481,7 +6897,7 @@
       "https://www.indexventures.com/perspectives/spiko-raises-22m-to-democratize-access-to-treasury-yields/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Squarespace",
@@ -8507,7 +6923,7 @@
       "https://www.indexventures.com/perspectives/squarespace-because-websites-should-be-beautiful/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Stack Overflow",
@@ -8534,7 +6950,7 @@
       "https://www.indexventures.com/perspectives/prosus-to-acquire-stack-overflow-for-18-billion/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Starburst",
@@ -8562,7 +6978,7 @@
       "https://www.indexventures.com/perspectives/starburst-and-presto-stellar-velocity/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Strapi",
@@ -8590,7 +7006,7 @@
       "https://www.indexventures.com/perspectives/strapi-maker-popular-open-source-software-creating-and-delivering-digital-content-across-all-devices-secures-10m/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Stytch",
@@ -8616,7 +7032,7 @@
     "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
     "featured_content_urls": [],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Sublime Security",
@@ -8642,7 +7058,7 @@
       "https://www.indexventures.com/perspectives/achieving-the-sublime-in-email-security-announcing-our-20m-series-a-investment/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Subset",
@@ -8665,40 +7081,7 @@
     "image_url": "https://www.indexventures.com/media/images/2022_03_22_180139.2e16d0ba.fill-1200x630.format-png.png",
     "featured_content_urls": [],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
-  },
-  {
-    "company_name": "Supercell",
-    "description": "Since they began developing games for tablets in 2011, gaming pioneers Supercell have become the industry’s hottest property. Using small and agile creative teams, the hit-makers from Helsinki have created global smashes Clash of the Clans and Hay Day. Supercell was acquired by SoftBank in October 2013.",
-    "sectors": [
-      "Entertainment"
-    ],
-    "regions": [
-      "Europe"
-    ],
-    "backed": [
-      "backed by Index"
-    ],
-    "index_team": [
-      "Neil Rimer"
-    ],
-    "founders": [
-      "Ilkka Paananen",
-      "Lassi Leppinen",
-      "Mikko Kodisoja",
-      "Niko Derome",
-      "Visa Forsten"
-    ],
-    "ticker_symbol": "SoftBank",
-    "company_profile_url": "https://www.indexventures.com/companies/supercell/",
-    "company_url": "http://supercell.com",
-    "image_url": "https://www.indexventures.com/media/images/supercellallteam.2e16d0ba.fill-1200x630.format-png.png",
-    "featured_content_urls": [
-      "https://www.indexventures.com/perspectives/game-on-short-term-slowdown-long-term-play/",
-      "https://www.indexventures.com/perspectives/relationship/supercell/"
-    ],
-    "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Superconductive",
@@ -8723,7 +7106,7 @@
       "https://www.indexventures.com/perspectives/superconductive-expect-great-things-from-your-data/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Super Evil Megacorp",
@@ -8751,7 +7134,7 @@
       "https://www.indexventures.com/perspectives/super-evil-megacorp-raises-19m/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Superlinked",
@@ -8770,7 +7153,7 @@
     "image_url": "https://www.indexventures.com/media/images/Superlinked_-_Image.2e16d0ba.fill-1200x630.format-png.png",
     "featured_content_urls": [],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Supersolid",
@@ -8799,31 +7182,7 @@
       "https://www.indexventures.com/perspectives/mobile-games-developer-supersolid-raises-4-million-series-a-round-led-by-index/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
-  },
-  {
-    "company_name": "SwiftKey",
-    "description": "Award-winning personalised technology company SwiftKey applies intelligent technology to a wide range of real-world language problems. The company’s mission is to make communicating more personalized and human, anticipating a world where mobile technology adapts to the individual, not the other way around. SwiftKey technology was embedded on more than 100 million devices in 2013 and has also been a global hit with consumers.",
-    "sectors": [
-      "Future Of Work"
-    ],
-    "regions": [
-      "Europe"
-    ],
-    "backed": [],
-    "index_team": [
-      "Martin Mignot"
-    ],
-    "founders": [
-      "Jon Reynolds"
-    ],
-    "ticker_symbol": "Microsoft",
-    "company_profile_url": "https://www.indexventures.com/companies/swiftkey/",
-    "company_url": "http://swiftkey.net",
-    "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
-    "featured_content_urls": [],
-    "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Swile",
@@ -8851,7 +7210,7 @@
       "https://www.indexventures.com/perspectives/relationship/swile/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Sylvera",
@@ -8883,7 +7242,7 @@
       "https://www.indexventures.com/perspectives/relationship/sylvera/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Tactile Games",
@@ -8905,7 +7264,7 @@
     "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
     "featured_content_urls": [],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Tacto",
@@ -8934,7 +7293,7 @@
       "https://www.indexventures.com/perspectives/tacto-secures-50m-to-tackle-disruptions-and-bureaucracy-in-industrial-supply-chains/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Taktile",
@@ -8961,7 +7320,7 @@
       "https://www.indexventures.com/perspectives/relationship/taktile/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Taxfix",
@@ -8990,34 +7349,7 @@
       "https://www.indexventures.com/perspectives/relationship/taxfix/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
-  },
-  {
-    "company_name": "Teatime Games",
-    "description": "Teatime is reinventing social games.",
-    "sectors": [
-      "Entertainment"
-    ],
-    "regions": [
-      "Europe"
-    ],
-    "backed": [
-      "backed at Seed (all)"
-    ],
-    "index_team": [],
-    "founders": [
-      "Thor Fridriksson",
-      "Gunnar Holmsteinn",
-      "Johann Bergthorsson",
-      "Ymir Finnbogason"
-    ],
-    "ticker_symbol": null,
-    "company_profile_url": "https://www.indexventures.com/companies/teatime-games/",
-    "company_url": "http://teatime.games",
-    "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
-    "featured_content_urls": [],
-    "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Tebi",
@@ -9044,35 +7376,7 @@
       "https://www.indexventures.com/perspectives/relationship/tebi/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
-  },
-  {
-    "company_name": "Teemo",
-    "description": "Teemo is a performance-based mobile advertising platform for offline retailers.",
-    "sectors": [
-      "Media"
-    ],
-    "regions": [
-      "Europe"
-    ],
-    "backed": [],
-    "index_team": [
-      "Dominique Vidal"
-    ],
-    "founders": [
-      "Benoit Grouchko",
-      "Francois Wyss",
-      "Guillaume Charhon"
-    ],
-    "ticker_symbol": null,
-    "company_profile_url": "https://www.indexventures.com/companies/teemo/",
-    "company_url": "http://teemo.co",
-    "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
-    "featured_content_urls": [
-      "https://www.indexventures.com/perspectives/databerries-raises-16m-to-bring-its-performance-based-mobile-ad-platform-to-us/"
-    ],
-    "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Tekion",
@@ -9093,7 +7397,7 @@
     "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
     "featured_content_urls": [],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Tema",
@@ -9120,7 +7424,7 @@
       "https://www.indexventures.com/perspectives/tema-expands-access-to-innovative-investment-themes-through-launch-of-active-etf-platform/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Temporal",
@@ -9147,7 +7451,7 @@
       "https://www.indexventures.com/perspectives/everything-is-a-workflow-our-investment-in-temporal/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "tessl.io",
@@ -9172,7 +7476,7 @@
       "https://www.indexventures.com/perspectives/when-everyone-speaks-software-tessls-vision-for-ai-native-development/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Thatch",
@@ -9199,7 +7503,7 @@
       "https://www.indexventures.com/perspectives/empowering-choice-thatch-and-a-new-era-of-freedom-in-healthcare/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "The Business of Fashion",
@@ -9223,7 +7527,7 @@
     "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
     "featured_content_urls": [],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Thread AI",
@@ -9248,7 +7552,7 @@
       "https://www.indexventures.com/perspectives/thread-ai-emerges-from-stealth-to-help-enterprises-design-implement-and-manage-ai-workflows/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Tiney",
@@ -9274,7 +7578,7 @@
     "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
     "featured_content_urls": [],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Tofu",
@@ -9300,32 +7604,7 @@
       "https://www.indexventures.com/perspectives/tofu-raises-5m-seed-round-to-put-b2b-marketing-on-autopilot-with-ai/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
-  },
-  {
-    "company_name": "Toolbx",
-    "description": "The Digital experience platform for modern building suppliers - TOOLBX enables Independent building suppiers to streamline payments, simplify AR, grow online sales and improve the customer experience. All integrated with their ERP.",
-    "sectors": [
-      "Business Applications"
-    ],
-    "regions": [
-      "North America"
-    ],
-    "backed": [
-      "backed at Seed (all)"
-    ],
-    "index_team": [],
-    "founders": [
-      "Chris Stringer",
-      "Erik Bornstein"
-    ],
-    "ticker_symbol": null,
-    "company_profile_url": "https://www.indexventures.com/companies/toolbx/",
-    "company_url": "https://www.toolbx.com/",
-    "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
-    "featured_content_urls": [],
-    "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Transcend",
@@ -9350,110 +7629,7 @@
       "https://www.indexventures.com/perspectives/privacy-will-define-next-generation-internet-history-announcing-our-25-million-series-transcend/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
-  },
-  {
-    "company_name": "Trello",
-    "description": "Trello is a collaboration tool that organizes your projects into boards. In one glance, Trello tells you what's being worked on, who's working on what, and where something is in process.",
-    "sectors": [
-      "Business Applications",
-      "Future Of Work"
-    ],
-    "regions": [
-      "North America"
-    ],
-    "backed": [],
-    "index_team": [
-      "Neil Rimer"
-    ],
-    "founders": [
-      "Michael Pryor"
-    ],
-    "ticker_symbol": "Atlassian",
-    "company_profile_url": "https://www.indexventures.com/companies/trello/",
-    "company_url": "http://trello.com",
-    "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
-    "featured_content_urls": [],
-    "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
-  },
-  {
-    "company_name": "Trialpay",
-    "description": "TrialPay was founded in 2006 as an alternative payment platform, placing targeted promotions around transactions. The company has since grown into the leading value-exchange advertising platform serving developers in mobile and social gaming, utility software and online services, reaching over 200 million monthly users in over 180 countries.",
-    "sectors": [
-      "Fintech"
-    ],
-    "regions": [
-      "North America"
-    ],
-    "backed": [],
-    "index_team": [
-      "Danny Rimer"
-    ],
-    "founders": [
-      "Terry Angelos",
-      "Alex Rampell",
-      "Eddie Lim"
-    ],
-    "ticker_symbol": "Visa",
-    "company_profile_url": "https://www.indexventures.com/companies/trialpay/",
-    "company_url": "http://trialpay.com",
-    "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
-    "featured_content_urls": [],
-    "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
-  },
-  {
-    "company_name": "Trolltech",
-    "description": "Qt (formerly Trolltech) a leading provider of linux and cross-platform development software, was acquired by Nokia in 2008.",
-    "sectors": [
-      "Data"
-    ],
-    "regions": [
-      "Europe"
-    ],
-    "backed": [],
-    "index_team": [
-      "Neil Rimer"
-    ],
-    "founders": [
-      "Eirik Chambe-Eng"
-    ],
-    "ticker_symbol": "OMX:NOK1V",
-    "company_profile_url": "https://www.indexventures.com/companies/trolltech/",
-    "company_url": "http://trolltech.com",
-    "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
-    "featured_content_urls": [],
-    "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
-  },
-  {
-    "company_name": "Trouva",
-    "description": "Trouva is the new way to shop local. It's the marketplace for independent bricks and mortar boutiques, giving discerning shoppers access to unique homeware and fashion accessory products at the click of a button. A multi-channel tech platform specially for offline retailers it enables everything from live inventory management through to logistics, including click and collect and worldwide shipping.",
-    "sectors": [
-      "Retail"
-    ],
-    "regions": [
-      "Europe"
-    ],
-    "backed": [
-      "backed at Seed (all)"
-    ],
-    "index_team": [],
-    "founders": [
-      "Mandeep Singh",
-      "Alex Loizou"
-    ],
-    "ticker_symbol": "LON:MADE",
-    "company_profile_url": "https://www.indexventures.com/companies/trouva/",
-    "company_url": "http://trouva.com",
-    "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
-    "featured_content_urls": [
-      "https://www.indexventures.com/perspectives/the-new-social-contract/",
-      "https://www.indexventures.com/perspectives/relationship/trouva/"
-    ],
-    "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Trustpilot",
@@ -9478,7 +7654,7 @@
       "https://www.indexventures.com/perspectives/relationship/trustpilot/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Twelve Labs",
@@ -9507,7 +7683,7 @@
       "https://www.indexventures.com/perspectives/unlocking-the-power-of-video-with-twelve-labs/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Typeform",
@@ -9537,7 +7713,7 @@
       "https://www.indexventures.com/perspectives/relationship/typeform/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Ubiquity6",
@@ -9562,34 +7738,7 @@
     "image_url": "https://www.indexventures.com/media/images/team_npwm0vk.2e16d0ba.fill-1200x630.format-png.png",
     "featured_content_urls": [],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
-  },
-  {
-    "company_name": "Uncovr",
-    "description": "Uncovr is building the system of record for surgery and endoscopy, automatically generating operative reports and procedural coding from surgical video and intraoperative workflow data.",
-    "sectors": [
-      "AI/ML",
-      "Healthcare"
-    ],
-    "regions": [],
-    "backed": [],
-    "index_team": [
-      "Martin Mignot"
-    ],
-    "founders": [
-      "Ines Iraki",
-      "Eric Vibert",
-      "Johann Diep"
-    ],
-    "ticker_symbol": null,
-    "company_profile_url": "https://www.indexventures.com/companies/uncovr/",
-    "company_url": "http://uncovr.ai",
-    "image_url": "https://www.indexventures.com/media/images/IMG_0095.2e16d0ba.fill-1200x630.format-png.png",
-    "featured_content_urls": [
-      "https://www.indexventures.com/perspectives/uncovr-raises-7-million-in-seed-funding-to-build-the-system-of-record-for-surgery/"
-    ],
-    "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Upollo",
@@ -9611,7 +7760,7 @@
     "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
     "featured_content_urls": [],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Valdera",
@@ -9638,7 +7787,7 @@
       "https://www.indexventures.com/perspectives/valdera-secures-15-million-to-help-manufacturers-make-the-next-generation-of-products-faster-safer-and-more-sustainably-than-ever-before/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Venice",
@@ -9664,7 +7813,7 @@
       "https://www.indexventures.com/perspectives/venice-security-emerges-from-stealth-with-33m-in-funding-to-redefine-enterprise-privileged-access-management-in-the-ai-era/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Vetted",
@@ -9686,7 +7835,7 @@
     "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
     "featured_content_urls": [],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Vinyl Equity",
@@ -9712,7 +7861,7 @@
       "https://www.indexventures.com/perspectives/vinyl-equity-secures-115m-seed-round-to-bolster-modern-transfer-agent-platform/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Vizcom",
@@ -9738,7 +7887,7 @@
       "https://www.indexventures.com/perspectives/inside-vizcoms-vision-to-transform-industrial-design-with-ai/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Vooma",
@@ -9764,7 +7913,7 @@
       "https://www.indexventures.com/perspectives/vooma-secures-166-million-to-build-an-ai-powered-agent-for-the-1t-trucking-industry/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Vouch",
@@ -9785,7 +7934,7 @@
     "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
     "featured_content_urls": [],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Wealthfront",
@@ -9815,7 +7964,7 @@
       "https://www.indexventures.com/perspectives/relationship/wealthfront/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Weaviate",
@@ -9838,7 +7987,7 @@
       "https://www.indexventures.com/perspectives/yes-the-world-needs-another-database/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "WeTravel",
@@ -9862,7 +8011,7 @@
     "image_url": "https://www.indexventures.com/media/images/WeTravel_Home_Page.2e16d0ba.fill-1200x630.format-png.png",
     "featured_content_urls": [],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Wise",
@@ -9891,7 +8040,7 @@
     "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
     "featured_content_urls": [],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Wiz",
@@ -9924,7 +8073,7 @@
       "https://www.indexventures.com/perspectives/relationship/wizio/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Wonderful",
@@ -9953,7 +8102,7 @@
       "https://www.indexventures.com/perspectives/relationship/wonderful/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Wordsmith AI",
@@ -9984,7 +8133,7 @@
       "https://www.indexventures.com/perspectives/relationship/wordsmithai/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Workbounce",
@@ -10013,7 +8162,7 @@
       "https://www.indexventures.com/perspectives/workbounce-raises-27-million-from-index-ventures-to-build-a-co-pilot-for-sales-teams/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Worldover",
@@ -10038,7 +8187,7 @@
       "https://www.indexventures.com/perspectives/worldover-simplifies-compliance-allowing-companies-to-bring-physical-products-to-new-markets/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   },
   {
     "company_name": "Xata",
@@ -10063,65 +8212,6 @@
       "https://www.indexventures.com/perspectives/relationship/xata/"
     ],
     "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
-  },
-  {
-    "company_name": "Zendesk",
-    "description": "Zendesk is transforming customer service for the digital age, by delivering category defining cloud-based customer service software. More than 100 million people around the world now receive support from Zendesk-powered customer service departments and helpdesks.",
-    "sectors": [
-      "Business Applications"
-    ],
-    "regions": [
-      "Europe",
-      "North America"
-    ],
-    "backed": [],
-    "index_team": [
-      "Giuseppe Zocco",
-      "Jan Hammer"
-    ],
-    "founders": [
-      "Mikkel Svane",
-      "Alexander Aghassipour",
-      "Morten Primdahl"
-    ],
-    "ticker_symbol": "NYSE:ZEN",
-    "company_profile_url": "https://www.indexventures.com/companies/zendesk/",
-    "company_url": "http://zendesk.com",
-    "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
-    "featured_content_urls": [
-      "https://www.indexventures.com/perspectives/copenhagen-rising/"
-    ],
-    "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
-  },
-  {
-    "company_name": "Zuora",
-    "description": "Zuora is the global leader in subscription commerce and billing, helping companies in every industry transition to the Subscription Economy.",
-    "sectors": [
-      "Business Applications"
-    ],
-    "regions": [
-      "North America"
-    ],
-    "backed": [],
-    "index_team": [
-      "Mike Volpi",
-      "Jan Hammer"
-    ],
-    "founders": [
-      "Tien Tzuo",
-      "K V Rao"
-    ],
-    "ticker_symbol": "NYSE:ZUO",
-    "company_profile_url": "https://www.indexventures.com/companies/zuora/",
-    "company_url": "http://zuora.com",
-    "image_url": "https://www.indexventures.com/static/images/index_ventures_og_image.a32dae190f17.jpg",
-    "featured_content_urls": [
-      "https://www.indexventures.com/perspectives/this-man-created-the-subscription-economy/",
-      "https://www.indexventures.com/perspectives/relationship/zuora/"
-    ],
-    "source_url": "https://www.indexventures.com/companies/backed/all/",
-    "scraped_at": "2026-06-15T14:35:55Z"
+    "scraped_at": "2026-06-22T13:43:26Z"
   }
 ]
